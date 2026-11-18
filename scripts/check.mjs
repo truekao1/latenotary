@@ -3,6 +3,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { spawnSync } from "node:child_process";
 import site from "../src/_data/site.js";
+import indexnow from "../src/_data/indexnow.js";
 
 const root = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
 const citiesDir = path.join(root, "data", "cities");
@@ -10,6 +11,11 @@ const distDir = path.join(root, "dist");
 
 const errors = [];
 const warnings = [];
+const cityUpdated = new Map();
+
+if (!/^[a-zA-Z0-9-]{8,128}$/.test(indexnow.key || "")) {
+  fail("IndexNow key must be 8-128 letters, numbers, or dashes");
+}
 
 function fail(msg) {
   errors.push(msg);
@@ -61,6 +67,12 @@ function checkCityFile(file) {
   }
   if (data.state && String(data.state).length !== 2) fail(`${expected}: state should be a two-letter code`);
   if (!isDate(data.lastUpdated)) fail(`${expected}: lastUpdated must be YYYY-MM-DD`);
+  else if (data.state && data.citySlug) {
+    cityUpdated.set(
+      `${String(data.state).toLowerCase()}/${data.citySlug}/`,
+      data.lastUpdated
+    );
+  }
   if (!Array.isArray(data.listings) || data.listings.length === 0) {
     fail(`${expected}: listings must be a non-empty array`);
     return;
@@ -201,11 +213,80 @@ if (fs.existsSync(distDir) && built.status === 0) {
   const base = String(site.url || "").replace(/\/$/, "");
   const sitemap = fs.readFileSync(path.join(distDir, "sitemap.xml"), "utf8");
   const robots = fs.readFileSync(path.join(distDir, "robots.txt"), "utf8");
-  const home = fs.readFileSync(path.join(distDir, "index.html"), "utf8");
-  const cityPage = fs.readFileSync(path.join(distDir, "ny/new-york/index.html"), "utf8");
-  for (const loc of [`${base}/`, `${base}/about/`, `${base}/ny/new-york/`]) {
-    if (!sitemap.includes(`<loc>${loc}</loc>`)) fail(`sitemap.xml missing ${loc}`);
+  function readDist(rel) {
+    const file = path.join(distDir, rel);
+    if (!fs.existsSync(file)) {
+      fail(`missing dist/${rel}`);
+      return "";
+    }
+    return fs.readFileSync(file, "utf8");
   }
+
+  const home = readDist("index.html");
+  const cityPage = readDist("ny/new-york/index.html");
+  const statePage = readDist("ny/index.html");
+  const guidePage = readDist("guides/notarize-after-hours-or-weekend/index.html");
+
+  function publicUrlForHtml(file) {
+    const rel = path.relative(distDir, file).split(path.sep).join("/");
+    if (rel === "index.html") return `${base}/`;
+    if (rel.endsWith("/index.html")) return `${base}/${rel.slice(0, -"index.html".length)}`;
+    return `${base}/${rel}`;
+  }
+
+  function withPrefix(href) {
+    if (!prefix) return href;
+    if (href === "/") return `${prefix}/`;
+    return `${prefix}${href.startsWith("/") ? href : `/${href}`}`;
+  }
+
+  function hasHref(html, href) {
+    return html.includes(`href="${withPrefix(href)}"`) || html.includes(`href="${href}"`);
+  }
+
+  const sitemapEntries = [...sitemap.matchAll(/<url>([\s\S]*?)<\/url>/g)].map((match) => {
+    const body = match[1];
+    return {
+      loc: (body.match(/<loc>([^<]*)<\/loc>/) || [])[1],
+      lastmod: (body.match(/<lastmod>([^<]*)<\/lastmod>/) || [])[1],
+    };
+  });
+  if (!sitemapEntries.length) fail("sitemap.xml has no URLs");
+  const sitemapLocs = new Set();
+  for (const entry of sitemapEntries) {
+    if (!entry.loc) fail("sitemap url missing loc");
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(entry.lastmod || "")) {
+      fail(`sitemap lastmod missing or invalid for ${entry.loc || "(no loc)"}`);
+    }
+    if (sitemapLocs.has(entry.loc)) fail(`sitemap duplicate loc ${entry.loc}`);
+    sitemapLocs.add(entry.loc);
+  }
+
+  const expectedLocs = new Set(
+    htmlFiles
+      .filter((file) => path.basename(file) !== "404.html")
+      .map((file) => publicUrlForHtml(file))
+  );
+  for (const loc of expectedLocs) {
+    if (!sitemapLocs.has(loc)) fail(`sitemap.xml missing ${loc}`);
+  }
+  for (const loc of sitemapLocs) {
+    if (!expectedLocs.has(loc)) fail(`sitemap.xml lists a non-page URL ${loc}`);
+  }
+  for (const [cityPath, lastUpdated] of cityUpdated) {
+    const loc = `${base}/${cityPath}`;
+    const entry = sitemapEntries.find((item) => item.loc === loc);
+    if (!entry) fail(`sitemap.xml missing city ${loc}`);
+    else if (entry.lastmod !== lastUpdated) {
+      fail(`sitemap lastmod for ${loc} is ${entry.lastmod}, expected ${lastUpdated}`);
+    }
+  }
+  const newestCityUpdate = [...cityUpdated.values()].sort().at(-1);
+  const homeEntry = sitemapEntries.find((item) => item.loc === `${base}/`);
+  if (newestCityUpdate && homeEntry && homeEntry.lastmod !== newestCityUpdate) {
+    fail(`home sitemap lastmod is ${homeEntry.lastmod}, expected ${newestCityUpdate}`);
+  }
+
   if (!robots.includes(`Sitemap: ${base}/sitemap.xml`)) {
     fail(`robots.txt missing Sitemap: ${base}/sitemap.xml`);
   }
@@ -213,11 +294,102 @@ if (fs.existsSync(distDir) && built.status === 0) {
   if (!home.includes(`"@type":"WebSite"`) && !home.includes(`"@type": "WebSite"`)) {
     fail("home page missing WebSite JSON-LD");
   }
+  if (!home.includes(`"@type":"Organization"`) && !home.includes(`"@type": "Organization"`)) {
+    fail("home page missing Organization JSON-LD");
+  }
   if (!cityPage.includes(`${base}/ny/new-york/`)) {
     fail(`city page missing absolute URL ${base}/ny/new-york/`);
   }
-  if (prefix && (home.includes(`${prefix}/${prefix.replace(/^\//, "")}`) || cityPage.includes(`${prefix}/${prefix.replace(/^\//, "")}`))) {
-    fail("built HTML doubled the path prefix");
+  if (!cityPage.includes('"Notary"') || !cityPage.includes('"LocalBusiness"')) {
+    fail("city page JSON-LD missing LocalBusiness/Notary");
+  }
+  if (!cityPage.includes('"ItemList"') || !cityPage.includes('"FAQPage"')) {
+    fail("city page JSON-LD missing ItemList or FAQPage");
+  }
+  if (!cityPage.includes("Notary open late in New York")) {
+    fail("city page title or heading is missing the late-notary phrase");
+  }
+  if (!cityPage.includes("Sunday notary New York") || !cityPage.includes("mobile notary near me New York")) {
+    fail("city page description is missing Sunday or mobile search phrases");
+  }
+  if (!cityPage.includes('id="nearby-cities"') || !cityPage.includes('aria-label="Breadcrumb"')) {
+    fail("city page missing nearby cities or breadcrumbs");
+  }
+  if (!hasHref(cityPage, "/ny/") || !hasHref(cityPage, "/guides/notarize-after-hours-or-weekend/")) {
+    fail("city page missing state index or guide link");
+  }
+  if (!hasHref(home, "/ny/") || !hasHref(home, "/ny/new-york/") || !hasHref(home, "/guides/notarize-after-hours-or-weekend/")) {
+    fail("home page missing state, city, or guide link");
+  }
+  if (!hasHref(statePage, "/ny/new-york/") || !hasHref(statePage, "/guides/notarize-after-hours-or-weekend/")) {
+    fail("state index missing city or guide link");
+  }
+  if (!statePage.includes('aria-label="Breadcrumb"') || !statePage.includes('"ItemList"')) {
+    fail("state index missing breadcrumbs or ItemList JSON-LD");
+  }
+  if (!guidePage.includes("How to get a document notarized after hours or on a weekend")) {
+    fail("guide page missing its title");
+  }
+  if (!hasHref(guidePage, "/ny/new-york/")) fail("guide page missing city link");
+  if (!guidePage.includes(site.ron.url) || !guidePage.includes(site.ron.disclosure)) {
+    fail("guide page missing the affiliate URL or disclosure text");
+  }
+  if (!guidePage.includes('aria-label="Breadcrumb"')) fail("guide page missing breadcrumbs");
+
+  const titles = new Map();
+  for (const file of htmlFiles) {
+    const html = fs.readFileSync(file, "utf8");
+    const doubled = prefix ? `${prefix}/${prefix.replace(/^\//, "")}` : "";
+    if (doubled && html.includes(doubled)) {
+      fail(`built HTML doubled the path prefix in ${path.relative(distDir, file)}`);
+    }
+    const title = (html.match(/<title>([^<]*)<\/title>/) || [])[1];
+    const description = (html.match(/<meta name="description" content="([^"]*)">/) || [])[1];
+    const canonical = (html.match(/<link rel="canonical" href="([^"]+)">/) || [])[1];
+    if (!title) fail(`missing title in ${path.relative(distDir, file)}`);
+    else if (titles.has(title)) {
+      fail(`duplicate title "${title}" in ${path.relative(distDir, file)} and ${titles.get(title)}`);
+    } else titles.set(title, path.relative(distDir, file));
+    if (!description) fail(`missing meta description in ${path.relative(distDir, file)}`);
+    if (!canonical || !canonical.startsWith(`${base}/`) && canonical !== base) {
+      fail(`canonical missing site prefix in ${path.relative(distDir, file)}: ${canonical || ""}`);
+    }
+    for (const tag of ["og:title", "og:description", "og:url", "og:image"]) {
+      if (!html.includes(`property="${tag}"`)) {
+        fail(`missing ${tag} in ${path.relative(distDir, file)}`);
+      }
+    }
+  }
+
+  const keyFile = path.join(distDir, `${indexnow.key}.txt`);
+  if (!fs.existsSync(keyFile)) fail(`missing dist/${indexnow.key}.txt`);
+  else if (fs.readFileSync(keyFile, "utf8").replace(/^\uFEFF/, "").trim() !== indexnow.key) {
+    fail("IndexNow key file contents do not match the key");
+  }
+
+  for (const required of [
+    "ny/index.html",
+    "guides/notarize-after-hours-or-weekend/index.html",
+    `${indexnow.key}.txt`,
+  ]) {
+    if (!fs.existsSync(path.join(distDir, required))) fail(`missing dist/${required}`);
+  }
+}
+
+if (fs.existsSync(distDir) && built.status === 0) {
+  const dry = spawnSync(process.execPath, ["scripts/indexnow.mjs", "--dry-run"], {
+    cwd: root,
+    encoding: "utf8",
+  });
+  if (dry.status !== 0) {
+    fail(`IndexNow dry run failed:\n${dry.stdout}\n${dry.stderr}`);
+  } else {
+    const location = `${String(site.url || "").replace(/\/$/, "")}/${indexnow.key}.txt`;
+    if (!dry.stdout.includes(`INDEXNOW_KEY_LOCATION=${location}`)) {
+      fail(`IndexNow dry run missing key location ${location}`);
+    }
+    const count = Number((dry.stdout.match(/INDEXNOW_URL_COUNT=(\d+)/) || [])[1]);
+    if (!count) fail("IndexNow dry run reported no URLs");
   }
 }
 

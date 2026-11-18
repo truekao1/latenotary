@@ -21,10 +21,15 @@
   <meta name="twitter:description" content="{{ description }}">
   <meta name="twitter:image" content="{{ '/assets/og-image.png' | absoluteUrl(site.url) }}">
   <link rel="stylesheet" href="/assets/styles.css">
+  {% if noindex %}
+  <meta name="robots" content="noindex">
+  {% endif %}
   {% if city %}
   <script type="application/ld+json">{{ city | cityJsonLd(site) | jsonLd | safe }}</script>
-  {% set pageFaqs = faqs if faqs else (city | defaultCityFaqs) %}
+  {% set pageFaqs = city.faqs if city.faqs else (city | defaultCityFaqs) %}
   <script type="application/ld+json">{{ pageFaqs | faqJsonLd(page.url | absoluteUrl(site.url)) | jsonLd | safe }}</script>
+  {% elif stateEntry %}
+  <script type="application/ld+json">{{ stateEntry | stateJsonLd(site) | jsonLd | safe }}</script>
   {% elif page.url == "/" or page.url == site.pathPrefix %}
   <script type="application/ld+json">{{ site | homeJsonLd(cities) | jsonLd | safe }}</script>
   {% elif jsonLd %}
@@ -35,6 +40,7 @@
   <a class="skip-link" href="#main">Skip to content</a>
   {% include "partials/header.njk" %}
   <main id="main">
+    {% include "partials/breadcrumbs.njk" %}
     {{ content | safe }}
   </main>
   {% include "partials/footer.njk" %}

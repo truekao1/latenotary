@@ -1,0 +1,33 @@
+{% if city %}
+  {% set crumbs = [
+    { name: "Home", href: "/" },
+    { name: city.stateName, href: city.state | statePath },
+    { name: city.city ~ ", " ~ city.state, href: city | cityPath }
+  ] %}
+{% elif stateEntry %}
+  {% set crumbs = [
+    { name: "Home", href: "/" },
+    { name: stateEntry.stateName, href: "/" ~ stateEntry.stateSlug ~ "/" }
+  ] %}
+{% elif breadcrumb %}
+  {% set crumbs = [
+    { name: "Home", href: "/" },
+    { name: breadcrumb, href: page.url }
+  ] %}
+{% endif %}
+{% if crumbs and crumbs.length %}
+<nav class="breadcrumbs wrap{% if breadcrumb %} breadcrumbs--prose{% endif %}" aria-label="Breadcrumb">
+  <ol>
+    {% for crumb in crumbs %}
+    <li>
+      {% if loop.last %}
+      <span aria-current="page">{{ crumb.name }}</span>
+      {% else %}
+      <a href="{{ crumb.href }}">{{ crumb.name }}</a>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+</nav>
+<script type="application/ld+json">{{ crumbs | breadcrumbJsonLd(page.url, site.url) | jsonLd | safe }}</script>
+{% endif %}

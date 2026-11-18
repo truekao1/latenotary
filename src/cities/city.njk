@@ -6,17 +6,17 @@ pagination:
   alias: city
 permalink: "/{{ city.state | lower }}/{{ city.citySlug }}/"
 eleventyComputed:
-  title: "Notaries open late, on weekends, and mobile in {{ city.city }}, {{ city.state }} · {{ site.name }}"
-  description: "Verified after-hours, weekend, mobile, and remote online notaries in {{ city.city }}, {{ city.state }}{% if city.focus %}, with a {{ city.focus }} focus{% endif %}. Hours and fees are copied from public sources and dated when last checked."
-  ogType: "article"
+  title: "Notary open late in {{ city.city }}, {{ city.state }} · {{ site.name }}"
+  description: "Notary open late in {{ city.city }}, {{ city.state }}: Sunday notary {{ city.city }} and mobile notary near me {{ city.city }}. Hours and fees are copied from public sources."
+  ogType: "website"
   extraJs: "/assets/filters.js"
 ---
 {% set faqs = city.faqs if city.faqs else (city | defaultCityFaqs) %}
 
 <article class="city-page">
   <header class="page-hero wrap">
-    <p class="eyebrow"><a href="/">Cities</a> · {{ city.stateName }}{% if city.focus %} · {{ city.focus }} focus{% endif %}</p>
-    <h1>Notaries open late, on weekends, and mobile in {{ city.city }}, {{ city.state }}</h1>
+    {% if city.focus %}<p class="eyebrow">{{ city.focus }} focus</p>{% endif %}
+    <h1>Notary open late in {{ city.city }}, {{ city.state }}</h1>
     <p class="lede">{{ city.intro }}</p>
     <p class="meta">{{ city.listings | length }} listings · Last updated {{ city.lastUpdated | displayDate }}</p>
   </header>
@@ -104,6 +104,7 @@ eleventyComputed:
       <li>Use the Evening, Saturday, or Sunday filters above and call or text two or three notaries. Say where you are, how many signers and documents you have, and when you need them.</li>
       <li>Get the <strong>total fee</strong> and an arrival window before anyone starts traveling. Late-evening, weekend, hospital, and rush visits often cost more than the base rate.</li>
       <li>If no one can come to you, ask the receiving party whether <a href="#online-notarization">remote online notarization</a> is accepted. If it is, an online session can be the fallback.</li>
+      <li>For the full sequence, read <a href="/guides/notarize-after-hours-or-weekend/">how to get a document notarized after hours or on a weekend</a>.</li>
       <li>When the notary arrives, sign only when they tell you to, and keep a copy or a photo of the notarized pages.</li>
     </ol>
   </section>
@@ -120,5 +121,23 @@ eleventyComputed:
       <p>{{ faq.a }}</p>
     </details>
     {% endfor %}
+  </section>
+
+  <section class="wrap nearby" id="nearby-cities" aria-labelledby="nearby-heading">
+    <h2 id="nearby-heading">Nearby cities</h2>
+    {% set nearby = city | nearbyCities(cities) %}
+    {% if nearby.length %}
+    <ul class="nearby-list">
+      {% for other in nearby %}
+      <li>
+        <a href="{{ other | cityPath }}">Notary open late in {{ other.city }}, {{ other.state }}</a>
+        <p class="small muted">Sunday notary and mobile notary near me listings for {{ other.city }}.</p>
+      </li>
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p>No other cities are listed yet. When another city is added, it will be linked here.</p>
+    {% endif %}
+    <p><a href="{{ city.state | statePath }}">All cities in {{ city.stateName }}</a></p>
   </section>
 </article>

@@ -1,0 +1,72 @@
+---
+layout: base.njk
+permalink: /guides/notarize-after-hours-or-weekend/
+title: "How to get a document notarized after hours or on a weekend · LateNotary"
+description: "How to notarize a document after hours or on a weekend: what to bring, what mobile and Sunday visits usually cost, and when online notarization is a fallback."
+breadcrumb: "After-hours guide"
+updated: "2026-11-18"
+ogType: article
+---
+<article class="prose wrap">
+  <p class="eyebrow">Guide</p>
+  <h1>How to get a document notarized after hours or on a weekend</h1>
+  <p class="meta">Updated {{ updated | displayDate }}</p>
+  <p>Banks and shipping stores often stop notarizing in the late afternoon, including on days when you only got the document at the end of the workday. A hospital, a closing, or a Sunday flight can make the timing worse. You still have three realistic paths: a notary who publishes evening hours, a mobile notary who will come to you, or a remote online session when the recipient accepts one.</p>
+  <p>LateNotary does not notarize documents. The city pages linked below are a directory of businesses that publish those options. Confirm the slot and the total fee with the business before anyone travels.</p>
+
+  <h2>Ask the recipient before you book</h2>
+  <p>The person or office who will receive the document decides what they will accept. Ask two questions:</p>
+  <ul>
+    <li>Do you need an in-person, wet-ink notarization?</li>
+    <li>Will you accept remote online notarization, which is a recorded video session instead of a stamp you can see on the page?</li>
+  </ul>
+  <p>Some banks, courts, employers, and foreign authorities still refuse an online notarization even when your state allows it. If they require ink, skip the online option and book an in-person notary. If they accept online, that can be the fallback when nobody can reach you tonight.</p>
+
+  <h2>What to have ready</h2>
+  <ul>
+    <li>A current government-issued photo ID for every signer. The name on the ID should match the document.</li>
+    <li>The complete document, with blanks filled in. Leave signatures unsigned unless the notary tells you otherwise. Signing too early is a common reason a notarization cannot be completed.</li>
+    <li>Every signer present and willing. A notary cannot notarize a signature for someone who is not there, and cannot take a signer’s word that another person already signed.</li>
+    <li>A quiet spot for a mobile visit, or a charged phone and a stable connection if the session is online.</li>
+    <li>If the document needs witnesses, ask the notary whether they can bring impartial witnesses and what that costs. Do not assume friends or family will qualify.</li>
+  </ul>
+
+  <h2>Find a notary open late, a Sunday notary, or a mobile notary</h2>
+  <p>On a city page, the Evening filter shows businesses that publish hours at or after 6:00 PM or that advertise after-hours appointments. Saturday and Sunday filters show weekend availability. Mobile means the notary travels to a home, office, lobby, hotel, or other place they list. Flags come from the business’s own pages. They are not a promise that someone is free in the next hour.</p>
+  <p>Call or text two or three notaries. Say where you are, how many signers and documents you have, whether anyone is in a hospital or jail, and the latest time you can meet. Get an arrival window before you wait outside a closed bank branch.</p>
+  <ul class="state-city-list">
+    {% for city in cities %}
+    <li>
+      <a href="{{ city | cityPath }}">Notary open late in {{ city.city }}, {{ city.state }}</a>
+      <p class="small muted">Sunday notary and mobile notary near me listings{% if city.focus %} · {{ city.focus }} focus{% endif %}.</p>
+    </li>
+    {% endfor %}
+  </ul>
+  <p>
+    State indexes:
+    {% for state in states %}
+    <a href="/{{ state.stateSlug }}/">notary open late in {{ state.stateName }}</a>{% if not loop.last %}, {% endif %}
+    {% endfor %}
+  </p>
+
+  <h2>How a mobile or weekend visit usually works</h2>
+  <p>A mobile notary comes to you. That is the practical meaning of a search like “mobile notary near me”: the visit happens at your address, not at a counter that closed at 4 p.m. Weekend and late-evening visits are often by appointment, and the notary may already be with another signer, so the first person you call may not be the one who can arrive.</p>
+  <ol>
+    <li>Confirm the address, parking or front-desk rules, and who will meet them.</li>
+    <li>Ask whether the time you need is inside their published hours. A Sunday notary who lists afternoon hours may not be available at night, and an evening surcharge does not always mean a visit is actually open.</li>
+    <li>If the signing is at a hospital, nursing home, courthouse, or jail, say so when you call. Some businesses publish those visits and some do not. LateNotary only flags them when the business’s own page says so.</li>
+    <li>When the notary arrives, sign only when they tell you to, and check that your name and the document title are correct before they seal it.</li>
+  </ol>
+
+  <h2>Typical fees</h2>
+  <p>States often set a small maximum for the notarial act itself. Mobile notaries also charge for travel and time. That travel fee is usually the larger part of the bill. Sunday, late-evening, holiday, hospital, jail, and rush visits often cost more than a standard weekday appointment.</p>
+  <p>When a business publishes a price, the city page copies it into that listing’s fee notes with the date it was checked. If no price was published, the listing says so and tells you to ask. Get the total, including travel, extra signatures, witnesses, and any after-hours surcharge, before anyone starts driving. LateNotary does not set those prices and does not take a cut of a local notary’s fee.</p>
+
+  <h2>If nobody can reach you</h2>
+  <p>Remote online notarization is a recorded video session with identity checks. It can finish from home when an in-person notary cannot get there, but only if the recipient will accept it. The box below is a labeled advertisement for {{ site.ron.name }}. The <a href="/affiliate-disclosure/">affiliate disclosure</a> explains the commission. The note inside the box is the disclosure text for this link.</p>
+  {% include "partials/affiliate.njk" %}
+
+  <h2>After the notarization</h2>
+  <p>Keep a copy or a clear photo of the notarized pages before you hand them over. If a name is misspelled or a seal is missing, it is easier to fix while the notary is still with you than the next morning. If you used an online session, download the completed file from the provider before you close the tab, and send it the way the recipient requested.</p>
+  <p>Hours change. The <a href="/about/">about page</a> explains how listings are checked, and notaries who want a city page updated can use <a href="/list-your-business/">list your business</a>.</p>
+</article>

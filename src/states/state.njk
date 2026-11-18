@@ -1,0 +1,35 @@
+---
+layout: base.njk
+pagination:
+  data: states
+  size: 1
+  alias: stateEntry
+permalink: "/{{ stateEntry.stateSlug }}/"
+eleventyComputed:
+  title: "Notary open late in {{ stateEntry.stateName }} · LateNotary"
+  description: "Notary open late in {{ stateEntry.stateName }}. City pages list a Sunday notary and a mobile notary near me, with evening and weekend hours from public sources."
+---
+<article class="city-page">
+  <header class="page-hero wrap">
+    <p class="eyebrow">State index</p>
+    <h1>Notary open late in {{ stateEntry.stateName }}</h1>
+    <p class="lede">City pages for a Sunday notary or a mobile notary near me in {{ stateEntry.stateName }}. Each listing uses hours and fees copied from a public source, with the date it was last checked.</p>
+  </header>
+
+  <section class="wrap" aria-labelledby="state-cities-heading">
+    <h2 id="state-cities-heading">Cities</h2>
+    <ul class="state-city-list">
+      {% for city in stateEntry.cities %}
+      <li>
+        <a href="{{ city | cityPath }}">Notary open late in {{ city.city }}, {{ city.state }}</a>
+        <p class="small muted">Sunday notary and mobile notary near me{% if city.focus %} · {{ city.focus }} focus{% endif %} · {{ city.listings | length }} listings · Updated {{ city.lastUpdated | displayDate }}</p>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="wrap tonight">
+    <h2>After hours and weekends</h2>
+    <p><a href="/guides/notarize-after-hours-or-weekend/">How to get a document notarized after hours or on a weekend</a></p>
+  </section>
+</article>

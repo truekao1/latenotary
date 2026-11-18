@@ -6,6 +6,10 @@
       <p class="muted small">An independent directory, not a notary public, law firm, or government office. Hours and fees are copied from public sources and can change. Confirm with the business before you travel or pay.</p>
     </div>
     <nav aria-label="Footer">
+      {% for state in states %}
+      <a href="/{{ state.stateSlug }}/">{{ state.stateName }}</a>
+      {% endfor %}
+      <a href="/guides/notarize-after-hours-or-weekend/">How to get a document notarized after hours or on a weekend</a>
       <a href="/about/">About</a>
       <a href="/affiliate-disclosure/">Affiliate disclosure</a>
       <a href="/privacy/">Privacy</a>

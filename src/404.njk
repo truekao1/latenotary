@@ -3,9 +3,11 @@ layout: base.njk
 permalink: "/404.html"
 title: "Page not found · LateNotary"
 description: "That page is not on LateNotary."
+breadcrumb: "Page not found"
+noindex: true
 eleventyExcludeFromCollections: true
 ---
 <article class="prose wrap">
   <h1>Page not found</h1>
-  <p>That address is not on LateNotary. Start with the <a href="/">city list</a> or the <a href="/ny/new-york/">New York, NY directory</a>.</p>
+  <p>That address is not on LateNotary. Start with the <a href="/">city list</a>{% for city in cities %}, the <a href="{{ city | cityPath }}">notary open late in {{ city.city }}, {{ city.state }}</a>{% endfor %}, or the <a href="/guides/notarize-after-hours-or-weekend/">after-hours guide</a>.</p>
 </article>
