@@ -8,8 +8,8 @@
  * Custom domain at the domain root:
  *   https://latenotary.com
  *
- * ron.url is a placeholder until an approved Proof/Notarize affiliate
- * link is issued. Do not present it as a tracked affiliate URL until then.
+ * ron.url is the Proof (formerly Notarize) affiliate link. Keep the
+ * affiliate disclosure beside the button.
  */
 const url = normalizeSiteUrl("https://truekao1.github.io/latenotary");
 
@@ -42,10 +42,10 @@ export default {
   emailsArePlaceholders: true,
   ron: {
     name: "Proof (formerly Notarize)",
-    url: "https://www.proof.com",
-    affiliatePlaceholder: true,
+    url: "https://app.proof.com/referral?campaign=051e4696-1e2e-4f1f-b90e-141780e22ac3",
+    affiliatePlaceholder: false,
     programUrl: "https://www.notarize.com/partner",
     disclosure:
-      "This is a clearly marked advertising partner. LateNotary may earn a commission if you use an approved affiliate link, at no extra cost to you. The link below is a placeholder until the affiliate program approves a tracked URL.",
+      "This is a clearly marked advertising partner. LateNotary may earn a commission if you use this affiliate link, at no extra cost to you.",
   },
 };

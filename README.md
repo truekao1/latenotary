@@ -89,7 +89,7 @@ These are not done yet and will block a public launch or first earnings:
 - No custom domain has been registered, and `latenotary.com` is only the intended name. The live site is the GitHub Pages URL until that domain is set in `url`.
 - GitHub Pages has to use **Source: GitHub Actions** for this repository. The workflow in `.github/workflows/pages.yml` deploys on every push to `main`.
 - `site.emailContact` and `site.emailListings` are placeholders until a mailbox exists. Outreach should use the site’s own address, never a personal name.
-- The Proof/Notarize button is a placeholder pointing at `https://www.proof.com`. Replace `site.ron.url` with an approved affiliate link from [the Notarize partner program](https://www.notarize.com/partner) after acceptance. The program may require a W-9 and a business identity for the site, not a personal name.
+- The Proof/Notarize button uses the affiliate URL in `site.ron.url`. The advertising box and the affiliate disclosure page stay labeled as advertising. The program may require a W-9 and a business identity for the site, not a personal name.
 - Affiliate and lead-program payouts need an account that can later send funds to X Money; most programs pay Stripe, PayPal, or bank transfer first.
 - No analytics yet. Add some only after updating the privacy page.
 
