@@ -1,0 +1,124 @@
+---
+layout: base.njk
+pagination:
+  data: cities
+  size: 1
+  alias: city
+permalink: "/{{ city.state | lower }}/{{ city.citySlug }}/"
+eleventyComputed:
+  title: "Notaries open late, on weekends, and mobile in {{ city.city }}, {{ city.state }} · {{ site.name }}"
+  description: "Verified after-hours, weekend, mobile, and remote online notaries in {{ city.city }}, {{ city.state }}{% if city.focus %}, with a {{ city.focus }} focus{% endif %}. Hours and fees are copied from public sources and dated when last checked."
+  ogType: "article"
+  extraJs: "/assets/filters.js"
+---
+{% set faqs = city.faqs if city.faqs else (city | defaultCityFaqs) %}
+
+<article class="city-page">
+  <header class="page-hero wrap">
+    <p class="eyebrow"><a href="/">Cities</a> · {{ city.stateName }}{% if city.focus %} · {{ city.focus }} focus{% endif %}</p>
+    <h1>Notaries open late, on weekends, and mobile in {{ city.city }}, {{ city.state }}</h1>
+    <p class="lede">{{ city.intro }}</p>
+    <p class="meta">{{ city.listings | length }} listings · Last updated {{ city.lastUpdated | displayDate }}</p>
+  </header>
+
+  <section class="wrap" id="listings" aria-labelledby="listings-heading">
+    <div class="section-head">
+      <h2 id="listings-heading">Listings</h2>
+      <p class="muted">Filter by what the business itself publishes. Flags are not a guarantee that a notary is free tonight.</p>
+    </div>
+
+    <div class="filters" data-filter-bar>
+      <p class="filter-label" id="filter-label">Show only:</p>
+      <div class="filter-toggles" role="group" aria-labelledby="filter-label">
+        <button type="button" class="chip" data-filter="evenings" aria-pressed="false">Evenings</button>
+        <button type="button" class="chip" data-filter="saturday" aria-pressed="false">Saturday</button>
+        <button type="button" class="chip" data-filter="sunday" aria-pressed="false">Sunday</button>
+        <button type="button" class="chip" data-filter="mobile" aria-pressed="false">Mobile</button>
+        <button type="button" class="chip" data-filter="ron" aria-pressed="false">RON</button>
+      </div>
+      <p class="filter-count" data-filter-count></p>
+    </div>
+
+    <div class="table-scroll">
+      <table class="listing-table">
+        <thead>
+          <tr>
+            <th scope="col">Notary</th>
+            <th scope="col">Area</th>
+            <th scope="col">Hours</th>
+            <th scope="col">Flags</th>
+            <th scope="col">Contact</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for listing in city.listings %}
+          <tr
+            id="{{ listing.name | slugifyId }}"
+            class="listing-row"
+            data-evenings="{{ '1' if listing.flags.evenings else '0' }}"
+            data-saturday="{{ '1' if listing.flags.saturday else '0' }}"
+            data-sunday="{{ '1' if listing.flags.sunday else '0' }}"
+            data-mobile="{{ '1' if listing.flags.mobile else '0' }}"
+            data-ron="{{ '1' if listing.flags.ron else '0' }}"
+          >
+            <td>
+              <a class="listing-name" href="{{ listing.website }}" rel="noopener">{{ listing.name }}</a>
+              {% if listing.feeNotes %}<p class="small muted">{{ listing.feeNotes }}</p>{% endif %}
+              <p class="small muted">Last checked {{ listing.lastChecked | displayDate }} · {% for source in listing.sources %}<a href="{{ source.url }}" rel="noopener">{{ source.label }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</p>
+            </td>
+            <td>
+              <p>{{ listing.area }}</p>
+              {% if listing.address %}<p class="small muted">{{ listing.address }}</p>{% endif %}
+              {% if listing.visitNotes %}<p class="small muted">{{ listing.visitNotes }}</p>{% endif %}
+            </td>
+            <td>
+              <p>{{ listing.hours | hoursSummary }}</p>
+              {% if listing.hours.notes %}<p class="small muted">{{ listing.hours.notes }}</p>{% endif %}
+            </td>
+            <td>
+              <ul class="flags">
+                {% if listing.flags.evenings %}<li>Evenings</li>{% endif %}
+                {% if listing.flags.saturday %}<li>Saturday</li>{% endif %}
+                {% if listing.flags.sunday %}<li>Sunday</li>{% endif %}
+                {% if listing.flags.mobile %}<li>Mobile</li>{% endif %}
+                {% if listing.flags.hospitalJail %}<li>Hospital / jail</li>{% endif %}
+                {% if listing.flags.ron %}<li>RON</li>{% endif %}
+              </ul>
+            </td>
+            <td>
+              {% if listing.phone %}<p><a href="{{ listing.phone | telHref }}">{{ listing.phone }}</a></p>{% endif %}
+              {% if listing.bookingUrl %}<p><a href="{{ listing.bookingUrl }}" rel="noopener">Book or visit site</a></p>{% endif %}
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    <p class="empty-filter" data-empty-filter hidden>No listings match those filters. Clear a filter or try remote online notarization below.</p>
+  </section>
+
+  <section class="wrap tonight" id="tonight" aria-labelledby="tonight-heading">
+    <h2 id="tonight-heading">How to get something notarized tonight</h2>
+    <ol class="steps">
+      <li>Get a current government photo ID for every signer and the complete document, usually <strong>unsigned</strong>. Fill in the blanks first.</li>
+      <li>Use the Evening, Saturday, or Sunday filters above and call or text two or three notaries. Say where you are, how many signers and documents you have, and when you need them.</li>
+      <li>Get the <strong>total fee</strong> and an arrival window before anyone starts traveling. Late-evening, weekend, hospital, and rush visits often cost more than the base rate.</li>
+      <li>If no one can come to you, ask the receiving party whether <a href="#online-notarization">remote online notarization</a> is accepted. If it is, an online session can be the fallback.</li>
+      <li>When the notary arrives, sign only when they tell you to, and keep a copy or a photo of the notarized pages.</li>
+    </ol>
+  </section>
+
+  <div class="wrap">
+    {% include "partials/affiliate.njk" %}
+  </div>
+
+  <section class="wrap faq" id="faq" aria-labelledby="faq-heading">
+    <h2 id="faq-heading">Frequently asked questions</h2>
+    {% for faq in faqs %}
+    <details>
+      <summary>{{ faq.q }}</summary>
+      <p>{{ faq.a }}</p>
+    </details>
+    {% endfor %}
+  </section>
+</article>

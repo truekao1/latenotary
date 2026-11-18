@@ -1,0 +1,20 @@
+---
+layout: base.njk
+permalink: "/affiliate-disclosure/"
+title: "Affiliate disclosure · LateNotary"
+description: "How LateNotary discloses advertising and affiliate links, including the Proof (formerly Notarize) remote online notarization box."
+---
+<article class="prose wrap">
+  <p class="eyebrow">Legal</p>
+  <h1>Affiliate disclosure</h1>
+  <p>LateNotary may earn a commission if you use a partner link on this site, at no extra cost to you. Advertising is labeled. A commission does not change a local notary listing, and it is not a reason we include or exclude a business.</p>
+
+  <h2>Remote online notarization</h2>
+  <p>City pages include a clearly marked box for {{ site.ron.name }}, a remote online notarization service. {% if site.ron.affiliatePlaceholder %}The button currently goes to that company’s public website. It is a placeholder until an affiliate link is approved through <a href="{{ site.ron.programUrl }}" rel="noopener">the Notarize/Proof affiliate program</a>. We will not present a placeholder as a tracked affiliate URL.{% else %}If you click through and complete a qualifying transaction, LateNotary may receive a commission.{% endif %}</p>
+  <p>Remote online notarization is not accepted everywhere. Confirm with the party who will receive your document before you book an online session.</p>
+
+  <h2>Listings are not paid placements</h2>
+  <p>The notary directory itself is researched from public sources. We do not charge a fee to be included in the first version of this site, and we do not accept payment to invent or inflate hours. If that policy changes, we will say so here and on the affected page.</p>
+
+  <p>Questions: <a href="mailto:{{ site.emailContact }}">{{ site.emailContact }}</a>{% if site.emailsArePlaceholders %} (placeholder address until mail is connected){% endif %}.</p>
+</article>

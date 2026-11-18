@@ -1,0 +1,557 @@
+{
+  "slug": "ny-new-york",
+  "city": "New York",
+  "citySlug": "new-york",
+  "state": "NY",
+  "stateName": "New York",
+  "focus": "Manhattan",
+  "lastUpdated": "2026-11-18",
+  "intro": "Banks and shipping stores in Manhattan often stop taking notarizations in the late afternoon, which is why people looking after work or on a weekend come up empty. This page lists notaries that publicly advertise evening, weekend, or mobile service in New York City, with a Manhattan focus. Every hour, fee, and service flag comes from the business’s own website or a page it publishes, and is dated when we last checked it. If we could not verify a detail, we left it out. Call or text to confirm availability before you book — hours change, and many of these visits are by appointment.",
+  "listings": [
+    {
+      "name": "Notary911",
+      "area": "Manhattan (all neighborhoods) and the other NYC boroughs; also lists Miami, Florida",
+      "address": "115 Broadway, New York, NY 10006 (published business address; the firm describes itself as mobile, with no storefront to visit)",
+      "phone": "(646) 350-2807",
+      "website": "https://notary911.com/",
+      "bookingUrl": "https://notary911.com/book-appointment/",
+      "hours": {
+        "monday": "9:00 AM–9:30 PM",
+        "tuesday": "9:00 AM–9:30 PM",
+        "wednesday": "9:00 AM–9:30 PM",
+        "thursday": "9:00 AM–9:30 PM",
+        "friday": "9:00 AM–9:30 PM",
+        "saturday": "10:00 AM–9:00 PM",
+        "sunday": "10:00 AM–9:00 PM",
+        "notes": "Published appointment hours. The Manhattan page says evening and weekend appointments may carry a scheduling surcharge, and after-hours/weekend response times are longer."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The Manhattan page says notaries come to offices, homes, hospitals, and the courthouse. Jail visits were not mentioned on the pages we checked.",
+      "feeNotes": "The Manhattan page says to contact the firm for pricing and that evening and weekend appointments may carry a modest scheduling surcharge.",
+      "sources": [
+        {
+          "label": "Manhattan mobile notary page",
+          "url": "https://notary911.com/services/mobile-notary/manhattan/"
+        },
+        {
+          "label": "Mobile notary service page",
+          "url": "https://www.notary911.com/services/mobile-notary/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Sealed NYC",
+      "area": "All of Manhattan (Inwood to the Battery) and the other NYC boroughs",
+      "address": null,
+      "phone": "(917) 203-9894",
+      "website": "https://sealednyc.com/",
+      "bookingUrl": "https://sealednyc.com/mobile-notary-manhattan-ny",
+      "hours": {
+        "monday": "7:00 AM–midnight",
+        "tuesday": "7:00 AM–midnight",
+        "wednesday": "7:00 AM–midnight",
+        "thursday": "7:00 AM–midnight",
+        "friday": "7:00 AM–midnight",
+        "saturday": "7:00 AM–midnight",
+        "sunday": "7:00 AM–midnight",
+        "notes": "Published as 7am to midnight every day, including Sundays. Visits after 8pm or on a weekend add $50; 11pm to midnight adds $75, according to the site."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The Manhattan page lists hospital and nursing-home visits, including a $25 facility fee. Jail visits were not mentioned on the pages we checked.",
+      "feeNotes": "Manhattan standard visit $125 plus New York’s $2 statutory fee per notarized signature. Same day $165; emergency under 3 hours $220; after 8pm or weekend add $50; 11pm–midnight add $75; hospital or nursing home +$25. The site says the booking form shows the total before you confirm.",
+      "sources": [
+        {
+          "label": "Manhattan mobile notary page",
+          "url": "https://sealednyc.com/mobile-notary-manhattan-ny"
+        },
+        {
+          "label": "Homepage",
+          "url": "https://sealednyc.com/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Notarius LLC",
+      "area": "Manhattan and all five NYC boroughs",
+      "address": null,
+      "phone": "(484) 353-0890",
+      "website": "https://notariusnyc.com/",
+      "bookingUrl": "https://notariusnyc.com/",
+      "hours": {
+        "monday": "By appointment, including evenings and early mornings",
+        "tuesday": "By appointment, including evenings and early mornings",
+        "wednesday": "By appointment, including evenings and early mornings",
+        "thursday": "By appointment, including evenings and early mornings",
+        "friday": "By appointment, including evenings and early mornings",
+        "saturday": "By appointment, including evenings and early mornings",
+        "sunday": "By appointment, including evenings and early mornings",
+        "notes": "The homepage says the firm is available seven days a week, including evenings, early mornings, and weekends. It does not publish clock-in and clock-out times."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The homepage says hospital and senior care facility visits are welcome. Jail visits were not mentioned on the page we checked.",
+      "feeNotes": "No public fee schedule was published on the homepage we checked. Ask for a quote when you book.",
+      "sources": [
+        {
+          "label": "Homepage",
+          "url": "https://notariusnyc.com/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Campbell Mobile Notary Service",
+      "area": "Manhattan (primary), Brooklyn, Queens, and the Bronx",
+      "address": null,
+      "phone": "(646) 667-4878",
+      "website": "https://mobilecampbellnotary.com/mobile-notary-nyc",
+      "bookingUrl": "https://mobilecampbellnotary.com/mobile-notary-nyc",
+      "hours": {
+        "monday": "24/7 by appointment",
+        "tuesday": "24/7 by appointment",
+        "wednesday": "24/7 by appointment",
+        "thursday": "24/7 by appointment",
+        "friday": "24/7 by appointment",
+        "saturday": "24/7 by appointment",
+        "sunday": "24/7 by appointment",
+        "notes": "The NYC page and footer say the service is available 24/7 by appointment, including evenings, weekends, holidays, and overnight emergencies. The booking form lists time slots for morning, afternoon, evening (5–8 PM), and after hours (8 PM+). Rush and after-hours surcharges may apply."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": true
+      },
+      "visitNotes": "The site lists hospital and nursing-home notary service. Jail visits were not mentioned on the NYC page we checked.",
+      "feeNotes": "Standard mobile visits start at $95, with travel included. The exact quote depends on borough, time of day, and add-ons such as printing, witnesses, or rush service. The site also offers remote online sessions through a New York-registered electronic notary partner; call for a quote.",
+      "sources": [
+        {
+          "label": "NYC mobile notary page",
+          "url": "https://mobilecampbellnotary.com/mobile-notary-nyc"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Rush Mobile Notary",
+      "area": "Manhattan neighborhoods including Midtown, the Upper East Side, Chelsea, the Village, SoHo, Tribeca, the Financial District, and Hudson Yards; the site also mentions other NYC locations and the Hamptons",
+      "address": null,
+      "phone": "(917) 267-9901",
+      "website": "https://rushmobilenotary.com/",
+      "bookingUrl": "https://rushmobilenotary.com/",
+      "hours": {
+        "monday": "24/7 by appointment",
+        "tuesday": "24/7 by appointment",
+        "wednesday": "24/7 by appointment",
+        "thursday": "24/7 by appointment",
+        "friday": "24/7 by appointment",
+        "saturday": "24/7 by appointment",
+        "sunday": "24/7 by appointment",
+        "notes": "The homepage says same-day and emergency appointments may be available 24 hours a day, 7 days a week, 365 days a year. Confirm before you rely on an overnight slot."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The homepage lists travel to hospitals and rehabilitation facilities, as well as homes, hotels, and offices. Jail visits were not mentioned on the page we checked. The site also lists Manhattan reference addresses and states clients are not seen there — the service travels to you.",
+      "feeNotes": "Sample Manhattan visit fees are listed at $150 for many Manhattan neighborhoods. Additional services, waiting time, printing, witnesses, or special scheduling may change the total. Contact the firm for a quote for your appointment.",
+      "sources": [
+        {
+          "label": "Homepage",
+          "url": "https://rushmobilenotary.com/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "NYC Notary Pros",
+      "area": "All five NYC boroughs, including Manhattan",
+      "address": "1865 East 4th Street, Brooklyn, NY 11223 (published office address; mobile visits are at your location)",
+      "phone": "(917) 687-4737",
+      "website": "https://nycnotarypros.com/mobile-notary-services/",
+      "bookingUrl": "https://nycnotarypros.com/mobile-notary-services/",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The mobile notary page and footer say the service is open 24 hours every day, including nights, weekends, and holidays."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The page lists meetings at homes, offices, hospitals, nursing homes, law offices, banks, coffee shops, and airport lounges. Jail visits were not mentioned on the page we checked.",
+      "feeNotes": "A visit starts at $175, covering travel anywhere in the five boroughs, plus New York’s $2 cap per notarial signature. The page says the hour of the appointment is one of the things that can move the price above $175, and the exact price is confirmed before the visit.",
+      "sources": [
+        {
+          "label": "Mobile notary page",
+          "url": "https://nycnotarypros.com/mobile-notary-services/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Manhattan Notary",
+      "area": "Manhattan, including a Midtown satellite office and mobile visits",
+      "address": "35 W. 43rd St, Fl 4, New York, NY 10036 (Midtown satellite office; call or text before visiting)",
+      "phone": "(929) 322-0070",
+      "website": "https://manhattannotary.com/",
+      "bookingUrl": "https://manhattannotary.com/",
+      "hours": {
+        "monday": "After 6:00 PM mobile visits; Midtown office by appointment",
+        "tuesday": "After 6:00 PM mobile visits; Midtown office by appointment",
+        "wednesday": "After 6:00 PM mobile visits; Midtown office by appointment",
+        "thursday": "After 6:00 PM mobile visits; Midtown office by appointment",
+        "friday": "After 6:00 PM mobile visits; Midtown office by appointment",
+        "saturday": "Weekend mobile visits by appointment",
+        "sunday": "Weekend mobile visits by appointment",
+        "notes": "The homepage advertises a booking option for evenings after 6pm on weekdays and anytime on weekends, with the notary coming to you. It also has a Midtown satellite office and asks you to call or text before stopping by, because staff may be out on appointments. Daytime office clock hours were not published on the homepage we checked, so they are not listed here."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The booking steps say meetings can include an office, lobby, hotel, hospital room, apartment, café, or the Midtown satellite location. Jail visits were not mentioned on the page we checked.",
+      "feeNotes": "The homepage describes appointment packages (including up to 3 signatures plus a service or travel fee, with some printing included) and professional witnesses at the Midtown office for $40 per witness, covering up to 5 signatures. Ask for the current total when you book.",
+      "sources": [
+        {
+          "label": "Homepage",
+          "url": "https://manhattannotary.com/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Manhattan Mobile Notary & Apostille Service",
+      "area": "Manhattan, described as travel from Wall Street to 100th Street",
+      "address": "115 East 23rd St., 4th floor, New York, NY 10010 (apostille office by appointment only; the site says do not walk in or ship documents there until your documents have been reviewed)",
+      "phone": "(917) 693-3692",
+      "website": "https://www.manhattanmobilenotary.net/",
+      "bookingUrl": "https://www.manhattanmobilenotary.net/contact-nyc-mobile-notary-manhattan-mobile-notary/",
+      "hours": {
+        "monday": "8:30 AM–6:30 PM",
+        "tuesday": "8:30 AM–6:30 PM",
+        "wednesday": "8:30 AM–6:30 PM",
+        "thursday": "8:30 AM–6:30 PM",
+        "friday": "8:30 AM–6:30 PM",
+        "saturday": "11:45 AM–4:45 PM",
+        "sunday": "11:45 AM–4:45 PM",
+        "notes": "Published as the hours to email or call with project details and to make an appointment. Weekday hours end at 6:30 PM."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "The homepage describes travel to offices, homes, nearby cafés, or overnight shipping centers. Hospital or jail visits were not mentioned on the pages we checked.",
+      "feeNotes": "The homepage (checked November 18, 2026) lists an introductory rate of $99 for mobile service and up to 2 notarizations for new customers, and $129 for existing clients for one notarization, plus $2 per additional notarization per person. See the site’s pricing section for current fees.",
+      "sources": [
+        {
+          "label": "Homepage",
+          "url": "https://www.manhattanmobilenotary.net/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Notary by Ella",
+      "area": "Manhattan (Battery to Inwood) plus Brooklyn, Queens, and the Bronx; Long Island is also listed as a regular area",
+      "address": "546 Main St., 12 Fl., New York, NY 10044",
+      "phone": "(646) 780-9488",
+      "website": "https://www.notarybyella.com/mobile-notary-nyc/",
+      "bookingUrl": "https://www.notarybyella.com/mobile-notary-nyc/",
+      "hours": {
+        "monday": "12:00 PM–6:00 PM",
+        "tuesday": "12:00 PM–6:00 PM",
+        "wednesday": "12:00 PM–6:00 PM",
+        "thursday": "12:00 PM–6:00 PM",
+        "friday": "12:00 PM–6:00 PM",
+        "saturday": "12:00 PM–6:00 PM",
+        "sunday": "Closed",
+        "notes": "Appointments run Monday through Saturday, 12:00 PM to 6:00 PM. The site says it is closed on Sundays. Because weekday hours end at 6:00 PM, this listing is not flagged as an evening option."
+      },
+      "flags": {
+        "evenings": false,
+        "saturday": true,
+        "sunday": false,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": true
+      },
+      "visitNotes": "The NYC page lists bedside notarization at hospitals, rehabilitation centers, hospices, and nursing homes, and says correctional facility and courthouse visits can be arranged in advance.",
+      "feeNotes": "The page says New York’s regulated per-signature notary fee is the base of every invoice, plus a travel fee based on address and timing. Saturday, same-day, holiday, hospital, and correctional-facility appointments can affect the total. An itemized total is given when you book. Remote online notarization is also offered.",
+      "sources": [
+        {
+          "label": "Mobile notary NYC page",
+          "url": "https://www.notarybyella.com/mobile-notary-nyc/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Notary Deliver",
+      "area": "Manhattan, including Washington Heights, Harlem, the Upper East and West Sides, Midtown, Chelsea, the Lower East Side, and the Financial District; the site also covers the Bronx",
+      "address": null,
+      "phone": "(917) 960-2778",
+      "website": "https://notarydeliver.com/mobile-notary-services/manhattan/",
+      "bookingUrl": "https://notarydeliver.com/mobile-notary-services/manhattan/",
+      "hours": {
+        "monday": "9:00 AM–5:00 PM",
+        "tuesday": "9:00 AM–5:00 PM",
+        "wednesday": "9:00 AM–5:00 PM",
+        "thursday": "9:00 AM–5:00 PM",
+        "friday": "9:00 AM–5:00 PM",
+        "saturday": "Closed",
+        "sunday": "9:00 AM–5:00 PM",
+        "notes": "The Manhattan page says appointments run Sunday to Friday, 9am to 5pm, and that the firm is closed on Saturdays. Bookings are taken 24/7. The same page also lists an after-hours surcharge of $35 and a weekend or holiday surcharge of $30. Because regular appointment hours end at 5:00 PM, this listing is not flagged for evenings; ask whether an after-hours visit is actually available if you need one."
+      },
+      "flags": {
+        "evenings": false,
+        "saturday": false,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": true
+      },
+      "visitNotes": "The page lists visits at homes, offices, hospitals, rehabilitation centres, nursing and assisted-living facilities, and hotels. Correctional facilities can be arranged in advance.",
+      "feeNotes": "Base Manhattan visit from $95, covering coordination, travel, and the first notarized signature. Additional seal or signature +$10; additional signer +$5; witness +$50 each; same-day within 12 hours +$25; after-hours +$35; weekend or holiday +$30. The page says a remote online session can often be arranged within two hours.",
+      "sources": [
+        {
+          "label": "Manhattan mobile notary page",
+          "url": "https://notarydeliver.com/mobile-notary-services/manhattan/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Unified Judicial Services",
+      "area": "All five NYC boroughs, including Manhattan; the site also lists other New York and New Jersey counties",
+      "address": "Bay Ridge, Brooklyn, NY 11209 (published office area; mobile visits are at your location)",
+      "phone": "(718) 400-9046",
+      "website": "https://www.unifiedjudicial.com/service/mobile-notary-services",
+      "bookingUrl": "https://www.unifiedjudicial.com/service/mobile-notary-services",
+      "hours": {
+        "monday": "Evenings by appointment",
+        "tuesday": "Evenings by appointment",
+        "wednesday": "Evenings by appointment",
+        "thursday": "Evenings by appointment",
+        "friday": "Evenings by appointment",
+        "saturday": "Weekends by appointment",
+        "sunday": "Weekends by appointment",
+        "notes": "The mobile notary page says the firm is available evenings and weekends by appointment, and that same-day and rush appointments are available. It does not publish clock-in and clock-out times."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The page lists travel to your home, law office, court, hospital, or jail, including correctional-facility signings.",
+      "feeNotes": "No public fee schedule was published on the mobile notary page we checked. Call for a quote, including rush and same-day work.",
+      "sources": [
+        {
+          "label": "Mobile notary services page",
+          "url": "https://www.unifiedjudicial.com/service/mobile-notary-services"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Mobile NYC Notary",
+      "area": "Manhattan and New York City; the site also mentions airport meetings including JFK",
+      "address": null,
+      "phone": "(917) 200-0393",
+      "website": "https://mobilenycnotary.com/",
+      "bookingUrl": "https://mobilenycnotary.com/",
+      "hours": {
+        "monday": "24/7 by appointment",
+        "tuesday": "24/7 by appointment",
+        "wednesday": "24/7 by appointment",
+        "thursday": "24/7 by appointment",
+        "friday": "24/7 by appointment",
+        "saturday": "24/7 by appointment",
+        "sunday": "24/7 by appointment",
+        "notes": "The homepage says the team is available 24/7 across NYC and offers 24/7 scheduling, including weekends."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": true
+      },
+      "visitNotes": "The homepage says a notary can meet you at a home, office, hospital, hotel, courthouse, or airport. Jail visits were not mentioned on the page we checked.",
+      "feeNotes": "No itemized public fee schedule was published on the homepage we checked. The site offers mobile visits and remote online notarization; ask for a quote when you book.",
+      "sources": [
+        {
+          "label": "Homepage",
+          "url": "https://mobilenycnotary.com/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Brownstone Notary Services LLC",
+      "area": "All of New York City, including Manhattan, plus the rest of New York State; remote online notarization is also offered",
+      "address": null,
+      "phone": "(929) 717-2604",
+      "website": "https://www.brownstonenotaries.com/",
+      "bookingUrl": "https://www.brownstonenotaries.com/",
+      "hours": {
+        "monday": "10:00 AM–11:30 PM",
+        "tuesday": "10:00 AM–11:30 PM",
+        "wednesday": "10:00 AM–11:30 PM",
+        "thursday": "10:00 AM–11:30 PM",
+        "friday": "10:00 AM–11:30 PM",
+        "saturday": "11:00 AM–11:00 PM",
+        "sunday": "11:00 AM–11:00 PM",
+        "notes": "Published on the homepage and FAQ as Monday–Friday 10am–11:30pm and Saturday–Sunday 11am–11pm. The site also advertises 24/7 text support and says after-hours service may be possible depending on the documents."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": true
+      },
+      "visitNotes": "The site lists bedside notarization at hospitals and senior-care settings. Jail visits were not mentioned on the pages we checked.",
+      "feeNotes": "The FAQ says New York caps notary fees at $2 per signature, the mobile travel fee starts at $100, remote online notarization starts at $75, and home and loan signing services start at $250. Confirm the current total when you book.",
+      "sources": [
+        {
+          "label": "Homepage",
+          "url": "https://www.brownstonenotaries.com/"
+        },
+        {
+          "label": "FAQ",
+          "url": "https://www.brownstonenotaries.com/faq"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Neighborly Notary",
+      "area": "Upper West Side walk-up, plus mobile visits across much of Manhattan",
+      "address": "240 W. 73rd St., #515, New York, NY 10023 (lobby walk-up by appointment)",
+      "phone": "(917) 543-1763",
+      "website": "https://neighborlynotary.net/",
+      "bookingUrl": "https://neighborlynotary.net/",
+      "hours": {
+        "monday": "Lobby walk-up 6:30 PM–8:30 PM, by appointment",
+        "tuesday": "Lobby walk-up 6:30 PM–8:30 PM, by appointment",
+        "wednesday": "Lobby walk-up 6:30 PM–8:30 PM, by appointment",
+        "thursday": "Lobby walk-up 6:30 PM–8:30 PM, by appointment",
+        "friday": "Lobby walk-up 6:30 PM–8:30 PM, by appointment",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The homepage says meetings are by appointment only and lists a lobby walk-up from 6:30pm to 8:30pm. It also describes visiting notary service at homes, offices, hospitals, and hotels. Weekend hours were not published on the pages we checked, so Saturday and Sunday are not flagged."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": false,
+        "sunday": false,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The homepage lists home, office, hospital, and hotel visits. Jail visits were not mentioned on the pages we checked.",
+      "feeNotes": "A service-area page mentions a $2 community walk-up notary fee, which matches New York’s statutory notary fee, but it does not publish a full current mobile-visit price list. Ask for the current total when you book.",
+      "sources": [
+        {
+          "label": "Homepage",
+          "url": "https://neighborlynotary.net/"
+        },
+        {
+          "label": "Service area page",
+          "url": "https://neighborlynotary.net/service-area"
+        },
+        {
+          "label": "Media and press kit (address and phone)",
+          "url": "https://neighborlynotary.net/media-%2B-press-kit"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "DC Mobile Notary (New York office)",
+      "area": "Lower Manhattan office at Brookfield Place, plus mobile visits anywhere in NYC’s five boroughs",
+      "address": "200 Vesey Street, 24th Floor, Suite 24211, New York, NY 10281 (by appointment; walk-ins are not accepted)",
+      "phone": "(212) 382-7001",
+      "website": "https://www.dcmobilenotary.com/locations/ny",
+      "bookingUrl": "https://www.dcmobilenotary.com/locations/ny",
+      "hours": {
+        "monday": "8:00 AM–9:00 PM",
+        "tuesday": "8:00 AM–9:00 PM",
+        "wednesday": "8:00 AM–9:00 PM",
+        "thursday": "8:00 AM–9:00 PM",
+        "friday": "8:00 AM–9:00 PM",
+        "saturday": "10:00 AM–4:00 PM",
+        "sunday": "Closed (not listed)",
+        "notes": "Published New York office hours, by appointment. The page says mobile notaries travel across NYC, evenings and Saturdays included. Sunday hours were not listed for the New York office, so Sunday is not flagged."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": false,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The New York page says mobile notaries come to homes, offices, hospitals, and care facilities. Jail visits were not mentioned on the page we checked.",
+      "feeNotes": "Mobile notarization is listed from $95 plus travel. The exact travel fee and any apostille work are confirmed after a free document review, before you pay.",
+      "sources": [
+        {
+          "label": "New York location page",
+          "url": "https://www.dcmobilenotary.com/locations/ny"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    }
+  ]
+}

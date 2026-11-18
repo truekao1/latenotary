@@ -1,0 +1,15 @@
+{
+  "name": "latenotary",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "LateNotary is a static directory of after-hours, weekend, and mobile notaries.",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve",
+    "check": "node scripts/check.mjs"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}
