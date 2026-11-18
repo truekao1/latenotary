@@ -1,0 +1,28 @@
+---
+layout: base.njk
+permalink: "/about/"
+title: "About LateNotary"
+description: "LateNotary is an independent directory of notaries who publicly list evening, weekend, mobile, or remote online service. We do not invent hours or fees."
+---
+<article class="prose wrap">
+  <p class="eyebrow">About</p>
+  <h1>About LateNotary</h1>
+  <p>LateNotary is a small directory for a common problem: you need a document notarized after the bank and the shipping store have stopped, or you cannot leave work, a hospital, or home to stand in a line that may already be closed.</p>
+  <p>We are an independent website. We are not a notary public, a law firm, a government office, or a signing service. We do not notarize documents, give legal advice, or guarantee that a listed notary is available at a particular hour.</p>
+
+  <h2>How listings get on this site</h2>
+  <ul>
+    <li>Every fact — hours, phone numbers, fees, and service flags — must come from a real public source, usually the business’s own website, a booking page, or a public listing page.</li>
+    <li>Each listing includes the source URL and the date we last checked it.</li>
+    <li>If we cannot verify a detail, we leave it out. We do not invent businesses, hours, or prices.</li>
+    <li>“Evenings” means the business publishes hours at or after 6:00 PM, or clearly advertises evening or after-hours appointments.</li>
+    <li>Saturday, Sunday, mobile, hospital or jail visits, and remote online notarization (RON) are flagged only when the source says so.</li>
+  </ul>
+  <p>Hours change. Call or text the notary to confirm availability and the total fee before you travel or pay.</p>
+
+  <h2>Adding a city</h2>
+  <p>Each city is one JSON file. The research checklist for a new city lives in the project’s <code>scripts/new-city.md</code> file, so a nightly pass can add one verified page at a time.</p>
+
+  <h2>Contact</h2>
+  <p>{% if site.emailsArePlaceholders %}The contact address below is a placeholder until mailbox hosting is connected.{% endif %} For corrections or questions, email <a href="mailto:{{ site.emailContact }}">{{ site.emailContact }}</a>. Notaries who want to be listed can use the <a href="/list-your-business/">list your business</a> page.</p>
+</article>

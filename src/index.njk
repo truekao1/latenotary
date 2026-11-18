@@ -1,0 +1,36 @@
+---
+layout: base.njk
+permalink: "/"
+eleventyComputed:
+  title: "{{ site.name }} — after-hours, weekend, and mobile notaries"
+  description: "{{ site.description }}"
+---
+<section class="page-hero wrap">
+  <p class="eyebrow">A public-source directory</p>
+  <h1>{{ site.tagline }}</h1>
+  <p class="lede">{{ site.description }} We only list hours, fees, and services that a notary publishes, and we date every check. If we cannot verify it, it does not go on the page.</p>
+</section>
+
+<section class="wrap" id="cities">
+  <div class="section-head">
+    <h2>Cities</h2>
+    <p class="muted">Each city is one data file, so a new page can ship as soon as the listings are verified.</p>
+  </div>
+  <ul class="city-grid">
+    {% for city in cities %}
+    <li>
+      <a class="city-card" href="{{ city | cityPath }}">
+        <h3>{{ city.city }}, {{ city.state }}</h3>
+        <p>{% if city.focus %}{{ city.focus }} focus · {% endif %}{{ city.listings | length }} listings</p>
+        <p class="small muted">Updated {{ city.lastUpdated | displayDate }}</p>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="wrap tonight">
+  <h2>Why this directory exists</h2>
+  <p>People looking for a notary after work often land on a bank branch or a shipping store that has already stopped taking walk-ins. This site is for the other options: notaries who come to you, stay open into the evening, work weekends, or can notarize online when the receiving party allows it.</p>
+  <p><a href="/about/">How we research listings</a></p>
+</section>

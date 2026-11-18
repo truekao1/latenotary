@@ -1,0 +1,26 @@
+---
+layout: base.njk
+permalink: "/list-your-business/"
+title: "List your notary business · LateNotary"
+description: "Ask to be included in LateNotary. Listings are added only when evening, weekend, mobile, or remote online service can be verified from a public source."
+---
+<article class="prose wrap">
+  <p class="eyebrow">Notaries</p>
+  <h1>List your notary business</h1>
+  <p>If you offer evening, weekend, mobile, hospital or jail, or remote online notarization, and those facts are published on your website or a public listing page, we want the record to be accurate.</p>
+  <p>Send:</p>
+  <ul>
+    <li>Business name and the cities you serve</li>
+    <li>Phone, website, and booking page</li>
+    <li>Hours for each day, or a clear “by appointment” policy</li>
+    <li>Whether you travel, visit hospitals or jails, or offer remote online notarization</li>
+    <li>A public page where we can verify those facts</li>
+  </ul>
+  <p>We will not publish hours or services we cannot check on a public source, and we may recrawl your page before each update.</p>
+  <p>
+    <a class="button" href="mailto:{{ site.emailListings }}?subject=List%20a%20notary%20business">Email {{ site.emailListings }}</a>
+  </p>
+  {% if site.emailsArePlaceholders %}
+  <p class="muted">This mailbox is a placeholder in the site config until email hosting is connected.</p>
+  {% endif %}
+</article>
