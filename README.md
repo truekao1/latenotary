@@ -8,7 +8,7 @@ This is an independent directory, not a notary public, law firm, or government o
 
 ## Where it lives
 
-This repository is the site. `npm run build` writes `dist/`. Pushing `main` runs `.github/workflows/pages.yml`, which publishes `dist/` to GitHub Pages.
+This repository is the site. `npm run build` writes `dist/`. Pushing `main` runs `.github/workflows/pages.yml`, which publishes `dist/` to GitHub Pages (source: GitHub Actions).
 
 ## How to build
 
