@@ -1,0 +1,471 @@
+{
+  "slug": "ca-los-angeles",
+  "city": "Los Angeles",
+  "citySlug": "los-angeles",
+  "state": "CA",
+  "stateName": "California",
+  "focus": "Los Angeles, the San Fernando Valley, and West LA",
+  "lastUpdated": "2026-11-18",
+  "intro": "Banks and shipping stores in Los Angeles often stop taking notarizations by late afternoon, which is why people looking after work or on a weekend come up empty. This first Los Angeles page lists notaries that publicly advertise evening, weekend, 24-hour, or mobile service in the city and nearby areas — including the San Fernando Valley, West LA, and one Beverly Hills storefront, clearly labeled. It is not a complete county inventory. Every hour, fee, and service flag comes from the business’s own website and is dated when we last checked it. If we could not verify a detail, we left it out. Call or text to confirm availability before you book.",
+  "listings": [
+    {
+      "name": "LA Notary On Call",
+      "area": "Los Angeles County (mobile); in-person appointments near Glendale",
+      "address": null,
+      "phone": "(341) 228-5648",
+      "website": "https://lanotaryoncall.com/",
+      "bookingUrl": "https://lanotaryoncall.com/services",
+      "hours": {
+        "monday": "Mobile 24/7; in-person 8:00 AM–4:00 PM",
+        "tuesday": "Mobile 24/7; in-person 8:00 AM–4:00 PM",
+        "wednesday": "Mobile 24/7; in-person 8:00 AM–4:00 PM",
+        "thursday": "Mobile 24/7; in-person 8:00 AM–4:00 PM",
+        "friday": "Mobile 24/7; in-person 8:00 AM–4:00 PM",
+        "saturday": "Mobile 24/7",
+        "sunday": "Mobile 24/7",
+        "notes": "The site lists mobile appointments 24/7 throughout Los Angeles County, subject to availability and manual acceptance. Scheduled in-person appointments near Glendale are Monday–Friday 8:00 AM–4:00 PM."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The services page lists hospital, assisted-living, and jail or detention facility visits. Jail visits need an individual quote and depend on facility rules.",
+      "feeNotes": "As listed on 2026-11-18: an after-hours fee of +$20 applies after 9:00 PM only; the pricing page says there is no weekend surcharge and no same-day surcharge. Jail and detention facility visits start at $200 plus California’s notarial fee. Travel fees depend on distance and are confirmed before the appointment is accepted.",
+      "sources": [
+        {
+          "label": "Services page",
+          "url": "https://lanotaryoncall.com/services"
+        },
+        {
+          "label": "Pricing page",
+          "url": "https://lanotaryoncall.com/pricing"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "CPC Mobile Notary",
+      "area": "Los Angeles County and Orange County (mobile)",
+      "address": null,
+      "phone": "(424) 272-7446",
+      "website": "https://cpcmobilenotary.com/",
+      "bookingUrl": "https://cpcmobilenotary.com/",
+      "hours": {
+        "monday": "6:00 PM–12:00 AM",
+        "tuesday": "6:00 PM–12:00 AM",
+        "wednesday": "6:00 PM–12:00 AM",
+        "thursday": "6:00 PM–12:00 AM",
+        "friday": "6:00 PM–12:00 AM",
+        "saturday": "24/7 by arrangement",
+        "sunday": "24/7 by arrangement",
+        "notes": "Published hours: Monday–Friday 6 PM–12 AM; Saturday–Sunday 24/7 by arrangement. The site says same-day availability, 7 days a week."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The homepage says the notary travels to homes, offices, hospitals, care facilities, and correctional facilities.",
+      "feeNotes": "No fee schedule published on the homepage we checked. The site says additional travel fees may apply beyond its standard radius.",
+      "sources": [
+        {
+          "label": "Homepage",
+          "url": "https://cpcmobilenotary.com/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Professional Mobile Notary Public (Pro Mobile Notary LA)",
+      "area": "All areas of Los Angeles County (mobile)",
+      "address": null,
+      "phone": "(213) 423-3040",
+      "website": "https://www.promobilenotaryla.com/",
+      "bookingUrl": "https://www.promobilenotaryla.com/",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The homepage advertises 24-hour, seven-days-a-week mobile service, including weekends and holidays."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The homepage lists home, office, and hospital visits, and jail signings.",
+      "feeNotes": "As listed on 2026-11-18: rates depend on location, hour of service, and service requested, plus California’s $15 per notarized signature. Service past the first hour is $50 per additional hour. Real estate signings are quoted separately.",
+      "sources": [
+        {
+          "label": "Homepage",
+          "url": "https://www.promobilenotaryla.com/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Notary Public LA County",
+      "area": "Los Angeles County and Orange County (mobile)",
+      "address": null,
+      "phone": "(323) 906-4332",
+      "website": "https://notarypubliclac.com/",
+      "bookingUrl": "https://notarypubliclac.com/",
+      "hours": {
+        "monday": "Mobile 24/7; office visits 10:00 AM–5:00 PM",
+        "tuesday": "Mobile 24/7; office visits 10:00 AM–5:00 PM",
+        "wednesday": "Mobile 24/7; office visits 10:00 AM–5:00 PM",
+        "thursday": "Mobile 24/7; office visits 10:00 AM–5:00 PM",
+        "friday": "Mobile 24/7",
+        "saturday": "Mobile 24/7",
+        "sunday": "Mobile 24/7",
+        "notes": "Published hours: mobile notary 24/7; office visits Monday–Thursday 10 AM–5 PM. The office address is not published on the homepage."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The homepage lists homes, offices, hospitals, care facilities, and jail visits. Spanish-language appointments are offered.",
+      "feeNotes": "No fee schedule published on the homepage we checked. The site says the total is quoted before the notary leaves.",
+      "sources": [
+        {
+          "label": "Homepage",
+          "url": "https://notarypubliclac.com/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Cachet Notary",
+      "area": "Greater Los Angeles, including West Hollywood, Beverly Hills, Hollywood, Mid-City, and Downtown (mobile)",
+      "address": null,
+      "phone": "(323) 230-3391",
+      "website": "https://cachetnotary.com/",
+      "bookingUrl": "https://cachetnotary.com/",
+      "hours": {
+        "monday": "By appointment",
+        "tuesday": "By appointment",
+        "wednesday": "By appointment",
+        "thursday": "By appointment",
+        "friday": "By appointment",
+        "saturday": "By appointment",
+        "sunday": "By appointment",
+        "notes": "The homepage says regular hours plus evenings and weekends by appointment, with same-day appointments 7 days. It does not publish clock times."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The homepage lists homes, hospitals, offices, and care facilities. Jail visits were not mentioned on the page we checked.",
+      "feeNotes": "No fee schedule published on the homepage we checked.",
+      "sources": [
+        {
+          "label": "Homepage",
+          "url": "https://cachetnotary.com/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "PandA Notary",
+      "area": "West LA (mobile); offices in Century City and Canoga Park",
+      "address": "2029 Century Park East, Los Angeles, CA (Century City office; by appointment)",
+      "phone": "(323) 609-3839",
+      "website": "https://thepandanotary.com/",
+      "bookingUrl": "https://thepandanotary.com/services/",
+      "hours": {
+        "monday": "By appointment, 7 days a week",
+        "tuesday": "By appointment, 7 days a week",
+        "wednesday": "By appointment, 7 days a week",
+        "thursday": "By appointment, 7 days a week",
+        "friday": "By appointment, 7 days a week",
+        "saturday": "By appointment, 7 days a week",
+        "sunday": "By appointment, 7 days a week",
+        "notes": "The services page says by appointment, 7 days a week, with same-day mobile visits often available. Loan signings are offered evenings and weekends. It does not publish clock times."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The services page lists bedside notarizations at hospitals, rehab centers, and senior living. Jail visits were not mentioned on the page we checked.",
+      "feeNotes": "As listed on 2026-11-18: in-office notarization at the Century City office is $15 per signature with no travel fee. Mobile pricing is on a separate page we did not check.",
+      "sources": [
+        {
+          "label": "Services page",
+          "url": "https://thepandanotary.com/services/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "VIP Notary Services",
+      "area": "Santa Monica, West Los Angeles, Century City, Beverly Hills, and other Southern California areas (mobile)",
+      "address": null,
+      "phone": "(310) 880-7896",
+      "website": "https://vipnotaryservices.net/",
+      "bookingUrl": "https://vipnotaryservices.net/24-7-mobile-notary-in-southern-california/",
+      "hours": {
+        "monday": "24 hours, by appointment",
+        "tuesday": "24 hours, by appointment",
+        "wednesday": "24 hours, by appointment",
+        "thursday": "24 hours, by appointment",
+        "friday": "24 hours, by appointment",
+        "saturday": "24 hours, by appointment",
+        "sunday": "24 hours, by appointment",
+        "notes": "The 24/7 page says the service is available 24 hours a day, 7 days a week, including Sundays and some holidays, by appointment only. Contact info lists Santa Monica, CA 90403."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "Hospital and jail visits are not described on the page we checked.",
+      "feeNotes": "No fee schedule published; the page says to contact the firm for a free quote.",
+      "sources": [
+        {
+          "label": "24/7 mobile notary page",
+          "url": "https://vipnotaryservices.net/24-7-mobile-notary-in-southern-california/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "GoSignNotary",
+      "area": "Los Angeles County, including Sherman Oaks, Burbank, Santa Monica, Woodland Hills, and Encino (mobile)",
+      "address": null,
+      "phone": "(310) 290-1811",
+      "website": "https://gosignnotary.com/",
+      "bookingUrl": "https://gosignnotary.com/pricing-fees/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The pricing page lists after-hours appointments after 8 PM, based on availability. Regular hours and weekend availability are not published on the page we checked."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": false,
+        "sunday": false,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The pricing page lists hospital, care facility, and jail/detention visits.",
+      "feeNotes": "As listed on 2026-11-18: $15 per signature; travel $65 up to 25 miles; after-hours (after 8 PM) $75–$100 depending on availability; hospital visit $100; care facility visit $85; jail/detention visit $180.",
+      "sources": [
+        {
+          "label": "Pricing and fees page",
+          "url": "https://gosignnotary.com/pricing-fees/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "SF Valley Mobile Notary Services",
+      "area": "San Fernando Valley (mobile)",
+      "address": null,
+      "phone": "(818) 271-5909",
+      "website": "https://sfvmobilenotaryservices.com/",
+      "bookingUrl": "https://sfvmobilenotaryservices.com/",
+      "hours": {
+        "monday": "6:00 PM–9:00 PM",
+        "tuesday": "6:00 PM–9:00 PM",
+        "wednesday": "6:00 PM–9:00 PM",
+        "thursday": "6:00 PM–9:00 PM",
+        "friday": "6:00 PM–9:00 PM",
+        "saturday": "9:00 AM–3:30 PM",
+        "sunday": "9:00 AM–3:30 PM",
+        "notes": "Published hours: Monday–Friday evenings 6–9 PM and Saturday–Sunday 9 AM–3:30 PM, by appointment only."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The homepage lists homes, hospitals, care facilities, and attorneys’ offices in the Valley. Jail visits were not mentioned.",
+      "feeNotes": "As listed on 2026-11-18: a $30 booking fee secures the appointment and is applied to the total; it is non-refundable unless cancelled at least 24 hours ahead.",
+      "sources": [
+        {
+          "label": "Homepage",
+          "url": "https://sfvmobilenotaryservices.com/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Chapen’s Signature Pro",
+      "area": "North Hollywood, the San Fernando Valley, and nearby areas such as Glendale, Pasadena, Los Feliz, and Silver Lake (mobile and office)",
+      "address": null,
+      "phone": "(818) 794-0135",
+      "website": "https://chapennotary.com/",
+      "bookingUrl": "https://chapennotary.com/",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "10:00 AM–4:00 PM",
+        "sunday": "10:00 AM–4:00 PM",
+        "notes": "Published regular hours, by appointment. The site says after-hours, same-day, and emergency appointments may be available on request, with additional fees; the booking form offers an evening (5–9 PM) time preference."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The site lists home, office, hospital, care facility, and jail/detention facility appointments.",
+      "feeNotes": "Final quote confirmed before the appointment. After-hours and emergency requests may carry additional fees.",
+      "sources": [
+        {
+          "label": "Homepage",
+          "url": "https://chapennotary.com/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "All Access Notary",
+      "area": "San Fernando Valley, Studio City, Sherman Oaks, North Hollywood, Burbank, Glendale, Hollywood, Beverly Hills (mobile)",
+      "address": null,
+      "phone": "(323) 899-4396",
+      "website": "https://allaccessnotary.net/",
+      "bookingUrl": "https://allaccessnotary.net/",
+      "hours": {
+        "monday": "11:00 AM–7:00 PM",
+        "tuesday": "11:00 AM–7:00 PM",
+        "wednesday": "11:00 AM–7:00 PM",
+        "thursday": "11:00 AM–7:00 PM",
+        "friday": "11:00 AM–7:00 PM",
+        "saturday": "11:00 AM–7:00 PM",
+        "sunday": "By appointment",
+        "notes": "Published hours: Monday–Saturday 11 AM–7 PM; Sunday by appointment. The site says after hours are available upon request."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The homepage says mobile services come to your home, office, or hospital. Jail visits were not mentioned.",
+      "feeNotes": "As listed on 2026-11-18: $15 per notarized signature for acknowledgments and jurats; travel fees vary by location; 15-minute grace period, then $10 per 15 minutes of waiting.",
+      "sources": [
+        {
+          "label": "Homepage",
+          "url": "https://allaccessnotary.net/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Print It (Van Nuys)",
+      "area": "Van Nuys office; mobile within roughly 40 miles",
+      "address": "14545 Friar St Ste 100, Van Nuys, CA 91411",
+      "phone": "(818) 285-8568",
+      "website": "https://printitsfv.com/notary",
+      "bookingUrl": "https://printitsfv.com/notary",
+      "hours": {
+        "monday": "9:00 AM–5:00 PM",
+        "tuesday": "9:00 AM–5:00 PM",
+        "wednesday": "9:00 AM–5:00 PM",
+        "thursday": "9:00 AM–5:00 PM",
+        "friday": "9:00 AM–5:00 PM",
+        "saturday": "10:00 AM–2:00 PM",
+        "sunday": "10:00 AM–2:00 PM",
+        "notes": "Published office hours; walk-ins welcome 7 days. English and Spanish."
+      },
+      "flags": {
+        "evenings": false,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "Walk-in office. The notary page also lists mobile visits to homes, hospitals, nursing homes, and correctional facilities.",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "Notary page",
+          "url": "https://printitsfv.com/notary"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Mail Boxes Times (Beverly Hills)",
+      "area": "Beverly Hills storefront; traveling notary across Los Angeles County",
+      "address": "9461 Charleville Blvd, Beverly Hills, CA 90212",
+      "phone": "(310) 276-5076",
+      "website": "https://www.mailboxestimes.com/notary",
+      "bookingUrl": "https://www.mailboxestimes.com/notary",
+      "hours": {
+        "monday": "9:00 AM–6:00 PM",
+        "tuesday": "9:00 AM–6:00 PM",
+        "wednesday": "9:00 AM–6:00 PM",
+        "thursday": "9:00 AM–6:00 PM",
+        "friday": "9:00 AM–6:00 PM",
+        "saturday": "10:00 AM–4:00 PM",
+        "sunday": "Closed",
+        "notes": "Published store hours. A notary is on site during all business hours, walk-ins welcome. The page also offers traveling notary service during non-business hours or by appointment."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": false,
+        "mobile": true,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "This storefront is in Beverly Hills, next to Los Angeles. Evenings are via the traveling notary by appointment, not the storefront.",
+      "feeNotes": "As listed on 2026-11-18: $15 per signature in store.",
+      "sources": [
+        {
+          "label": "Notary page",
+          "url": "https://www.mailboxestimes.com/notary"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    }
+  ]
+}

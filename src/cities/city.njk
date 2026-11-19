@@ -3,6 +3,7 @@ layout: base.njk
 pagination:
   data: cities
   size: 1
+  addAllPagesToCollections: true
   alias: city
 permalink: "/{{ city.state | lower }}/{{ city.citySlug }}/"
 eleventyComputed:
