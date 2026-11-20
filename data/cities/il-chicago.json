@@ -1,0 +1,487 @@
+{
+  "slug": "il-chicago",
+  "city": "Chicago",
+  "citySlug": "chicago",
+  "state": "IL",
+  "stateName": "Illinois",
+  "focus": "Chicago (North Side, Northwest Side, Near North, Hyde Park, and the South Side), plus mobile notaries based in nearby Oak Lawn and Forest Park",
+  "lastUpdated": "2026-11-19",
+  "intro": "Bank branches in Chicago usually stop notarizing by late afternoon, and many shipping stores do too. This first Chicago page lists notaries whose own websites publish evening, weekend, 24-hour, or mobile service in the city — including two mobile services based just outside the city line in Oak Lawn and Forest Park, clearly labeled — plus a walk-in currency exchange and five UPS Store locations whose official pages post notary hours into the evening and on Sundays. It is not a complete inventory of the city. Every hour, fee, and service flag comes from the business’s own page and is dated when we last checked it. If we could not verify a detail, we left it out. Call or text to confirm before you go or book.",
+  "listings": [
+    {
+      "name": "Illinois Mobile and Electronic Notary Services",
+      "area": "Chicagoland (mobile): Cook, DuPage, Lake, Will, Kane, McHenry, and Kendall counties; electronic notarization anywhere in Illinois",
+      "address": null,
+      "phone": "(872) 231-2160",
+      "website": "https://illinoismobilenotaryservices.com/",
+      "bookingUrl": "https://illinoismobilenotaryservices.com/",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The site says it is open 24 hours a day, 7 days a week, including nights, weekends, and holidays, and takes calls and texts around the clock. Based in Forest Park; travels to the customer."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": true
+      },
+      "visitNotes": "The site lists bedside visits at hospitals, nursing homes, assisted living, rehab, and hospice settings across Chicagoland, day or night. It also offers electronic notarization by secure video for signers anywhere in Illinois. Jail visits were not mentioned on the pages we checked.",
+      "feeNotes": "As listed on 2026-11-19: the pricing page says you get the full total before they travel. Document courier and shipping is listed at $15 plus costs; loan signings are quoted; notarial fees follow Illinois law per act. Mobile and electronic starting prices are shown through an on-page estimator, not as fixed text.",
+      "sources": [
+        {
+          "label": "Homepage",
+          "url": "https://illinoismobilenotaryservices.com/"
+        },
+        {
+          "label": "Hospital and nursing home visits",
+          "url": "https://illinoismobilenotaryservices.com/hospital-nursing-home-notary"
+        },
+        {
+          "label": "Pricing page",
+          "url": "https://illinoismobilenotaryservices.com/pricing"
+        },
+        {
+          "label": "Electronic notarization page",
+          "url": "https://illinoismobilenotaryservices.com/electronic-notarization"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Chicago Mobile Notary Service",
+      "area": "Chicago and the suburbs (mobile); based in Oak Lawn",
+      "address": null,
+      "phone": "(708) 787-8868",
+      "website": "https://chicagomobilenotaryservice.com/",
+      "bookingUrl": "https://chicagomobilenotaryservice.com/",
+      "hours": {
+        "monday": "7:00 AM–10:00 PM",
+        "tuesday": "7:00 AM–10:00 PM",
+        "wednesday": "7:00 AM–10:00 PM",
+        "thursday": "7:00 AM–10:00 PM",
+        "friday": "7:00 AM–10:00 PM",
+        "saturday": "7:00 AM–10:00 PM",
+        "sunday": "7:00 AM–10:00 PM",
+        "notes": "The site says 7 days a week, 7 a.m. to 10 p.m., including weekends and holidays. It says it is not a 24-hour service. Same-day visits depend on the schedule."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The site says the notary travels to hospital rooms, jail visiting booths, nursing homes, funeral homes, offices, and homes across Chicago and the suburbs. In-person notarization only.",
+      "feeNotes": "As listed on 2026-11-19: home visits from $125 ($120 travel and service fee plus a $5 notarization); hospitals, nursing homes, jails, funeral homes, offices, and hotels from $150 ($145 plus $5). Each added notarized signature is $5. Long trips may add mileage, quoted before the visit.",
+      "sources": [
+        {
+          "label": "Homepage",
+          "url": "https://chicagomobilenotaryservice.com/"
+        },
+        {
+          "label": "Pricing page",
+          "url": "https://chicagomobilenotaryservice.com/pricing"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "4S-USA / Secure Seal Signing Solutions",
+      "area": "Chicago and surrounding suburbs (mobile)",
+      "address": "1660 N La Salle Dr, Chicago, IL (published business address; mobile service comes to you)",
+      "phone": "773-394-0888",
+      "website": "https://securesealsigningsolutions.com/",
+      "bookingUrl": "https://securesealsigningsolutions.com/",
+      "hours": {
+        "monday": "8:00 AM–8:00 PM",
+        "tuesday": "8:00 AM–8:00 PM",
+        "wednesday": "8:00 AM–8:00 PM",
+        "thursday": "8:00 AM–8:00 PM",
+        "friday": "8:00 AM–8:00 PM",
+        "saturday": "8:00 AM–8:00 PM",
+        "sunday": "10:00 AM–6:00 PM",
+        "notes": "Published hours: Monday–Saturday 8 AM–8 PM; Sunday 10 AM–6 PM. The site says same-day and urgent appointments are offered when possible."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": true
+      },
+      "visitNotes": "The site lists mobile visits to hospitals, rehabilitation centers, assisted living, nursing facilities, and homes. It says remote online notarization is available for eligible documents. Jail visits were not mentioned.",
+      "feeNotes": "No fee schedule published on the homepage we checked; call, text, or email for a quote.",
+      "sources": [
+        {
+          "label": "Homepage",
+          "url": "https://securesealsigningsolutions.com/"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "3XS Notary Services",
+      "area": "Cook County and surrounding suburbs (mobile), from the far South Side to downtown",
+      "address": "PO Box 10144, Chicago, IL 60610 (mailing address only; mobile service comes to you)",
+      "phone": "872-240-4108",
+      "website": "https://www.3xsnotaryservices.com/",
+      "bookingUrl": "https://www.3xsnotaryservices.com/",
+      "hours": {
+        "monday": "6:00 PM–9:00 PM",
+        "tuesday": "6:00 PM–9:00 PM",
+        "wednesday": "6:00 PM–9:00 PM",
+        "thursday": "6:00 PM–9:00 PM",
+        "friday": "6:00 PM–9:00 PM",
+        "saturday": "9:00 AM–9:00 PM",
+        "sunday": "9:00 AM–9:00 PM",
+        "notes": "Published business hours: Monday–Friday 6 PM–9 PM; Saturday–Sunday 9 AM–9 PM. The homepage also says the notary is available on holidays."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": false,
+        "ron": true
+      },
+      "visitNotes": "Mobile appointments at homes, offices, coffee shops, and restaurants. The homepage says remote online notarization is offered. Hospital and jail visits were not mentioned.",
+      "feeNotes": "No fee schedule published on the pages we checked.",
+      "sources": [
+        {
+          "label": "Homepage",
+          "url": "https://www.3xsnotaryservices.com/"
+        },
+        {
+          "label": "Contact page",
+          "url": "https://www.3xsnotaryservices.com/contact-us"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Marshall Dixon Notary Solutions",
+      "area": "Chicago (Mount Greenwood, Beverly, Morgan Park, downtown) and nearby suburbs such as Evergreen Park and Oak Lawn (mobile)",
+      "address": null,
+      "phone": "312-685-1412",
+      "website": "https://mdnotarysolutions.com/",
+      "bookingUrl": "https://mdnotarysolutions.com/pricing",
+      "hours": {
+        "monday": "5:00 PM–8:00 PM",
+        "tuesday": "5:00 PM–8:00 PM",
+        "wednesday": "5:00 PM–8:00 PM",
+        "thursday": "5:00 PM–8:00 PM",
+        "friday": "5:00 PM–8:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "By request",
+        "notes": "Published service hours: Monday–Friday 5 PM–8 PM; Saturday 9 AM–5 PM. The site says appointments are available by request after 9 PM Monday–Friday and on Sundays, and after-hours fees may apply."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": false,
+        "mobile": true,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "Mobile notary and loan signing service. Sunday is by request only, so it is not flagged. Hospital and jail visits were not mentioned on the pricing page.",
+      "feeNotes": "As listed on 2026-11-19: $5 per notarized signature; travel from $25 (Mount Greenwood/local), $35–$45 (Chicago neighborhoods), $50–$65 (downtown), from $50 (suburbs within 20 miles); evening appointments after 5 PM +$15; weekend appointments +$20; minimum mobile appointment $35. Parking, tolls, and long waits are extra.",
+      "sources": [
+        {
+          "label": "Pricing page",
+          "url": "https://mdnotarysolutions.com/pricing"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Noble Notary of Chicago",
+      "area": "Hyde Park and other Chicago neighborhoods; appointment-only",
+      "address": "5113 S Harper Ave, Suite 2, Chicago, IL (primary location; weekend and Tuesday–Thursday after-5 PM appointments are at 1465 E 53rd St, Chicago, IL 60653, per the site)",
+      "phone": "773-484-9405",
+      "website": "https://noblenotaryofchicago.com/",
+      "bookingUrl": "https://noblenotaryofchicago.com/",
+      "hours": {
+        "monday": "9:00 AM–8:00 PM",
+        "tuesday": "5:00 PM–6:00 PM (call for appointment)",
+        "wednesday": "5:00 PM–6:00 PM (call for appointment)",
+        "thursday": "5:00 PM–6:00 PM (call for appointment)",
+        "friday": "9:00 AM–8:00 PM",
+        "saturday": "9:45 AM–4:00 PM (call for appointment)",
+        "sunday": "3:00 PM–6:00 PM (call for appointment)",
+        "notes": "All services are by appointment. Published hours: Monday 9 AM–8 PM; Tuesday–Thursday 5 PM–6 PM (call for appointment); Friday 9 AM–8 PM; Saturday 9:45 AM–4 PM; Sunday 3 PM–6 PM. The site says the location changes after 5 PM Tuesday–Thursday."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "Appointment-only notary with a mobile option. The site says remote online notarization is currently unavailable, so RON is not flagged.",
+      "feeNotes": "As listed on 2026-11-19: mobile notary service fee $40; I-9 verifications $40; additional attached certificates $5; loan signings priced by assignment.",
+      "sources": [
+        {
+          "label": "Business page",
+          "url": "https://noblenotaryofchicago.com/"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Chicago Notary 4 U",
+      "area": "Chicago and surrounding suburbs (mobile and remote online)",
+      "address": null,
+      "phone": "773-831-8899",
+      "website": "https://chicagonotary4u.com/",
+      "bookingUrl": "https://chicagonotary4u.com/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "2:00 AM–11:45 PM",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The site’s hours widget showed “Open today 2:00 AM–11:45 PM” when we checked on Thursday, November 19, 2026. Hours for other days were not shown, so only Thursday is listed. Confirm before booking."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": false,
+        "sunday": false,
+        "mobile": true,
+        "hospitalJail": false,
+        "ron": true
+      },
+      "visitNotes": "Mobile and remote online notarization, plus loan signings, apostille help, and I-9 verification. Weekend availability was not published, so it is not flagged.",
+      "feeNotes": "No fee schedule published on the homepage we checked.",
+      "sources": [
+        {
+          "label": "Homepage",
+          "url": "https://chicagonotary4u.com/"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Jarvis Currency Exchange",
+      "area": "Rogers Park (walk-in)",
+      "address": "7364 N Greenview Ave, Chicago, IL 60626",
+      "phone": "(773) 381-1600",
+      "website": "https://jarviscurrencyexchange.com/",
+      "bookingUrl": "https://jarviscurrencyexchange.com/notary.html",
+      "hours": {
+        "monday": "7:00 AM–10:00 PM",
+        "tuesday": "7:00 AM–10:00 PM",
+        "wednesday": "7:00 AM–10:00 PM",
+        "thursday": "7:00 AM–10:00 PM",
+        "friday": "7:00 AM–10:00 PM",
+        "saturday": "7:00 AM–10:00 PM",
+        "sunday": "8:00 AM–7:00 PM",
+        "notes": "Hours from the store’s notary page: Monday–Saturday 7 AM–10 PM; Sunday 8 AM–7 PM. The page says to walk in during business hours, no appointment needed."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "Walk-in notary for affidavits, travel consent letters, powers of attorney, and similar documents. Bring the unsigned document and a valid photo ID for every signer; all signers must be present.",
+      "feeNotes": "No notary fee published on the page we checked.",
+      "sources": [
+        {
+          "label": "Notary services page",
+          "url": "https://jarviscurrencyexchange.com/notary.html"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "The UPS Store (6177 N Lincoln Ave)",
+      "area": "West Ridge · Lincoln Village (walk-in)",
+      "address": "6177 N Lincoln Ave, Chicago, IL 60659",
+      "phone": "(773) 583-9000",
+      "website": "https://locations.theupsstore.com/il/chicago/6177-n-lincoln-ave/notary",
+      "bookingUrl": "https://locations.theupsstore.com/il/chicago/6177-n-lincoln-ave/notary",
+      "hours": {
+        "monday": "8:00 AM–8:00 PM",
+        "tuesday": "8:00 AM–8:00 PM",
+        "wednesday": "8:00 AM–8:00 PM",
+        "thursday": "8:00 AM–8:00 PM",
+        "friday": "8:00 AM–8:00 PM",
+        "saturday": "9:00 AM–6:00 PM",
+        "sunday": "9:00 AM–6:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/il/chicago/6177-n-lincoln-ave/notary"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "The UPS Store (4740 N Cumberland Ave)",
+      "area": "Northwest Side · Norwood Park area (walk-in)",
+      "address": "4740 N Cumberland Ave, Chicago, IL 60656",
+      "phone": "(773) 589-9660",
+      "website": "https://locations.theupsstore.com/il/chicago/4740-n-cumberland-ave/notary",
+      "bookingUrl": "https://locations.theupsstore.com/il/chicago/4740-n-cumberland-ave/notary",
+      "hours": {
+        "monday": "8:00 AM–7:30 PM",
+        "tuesday": "8:00 AM–7:30 PM",
+        "wednesday": "8:00 AM–7:30 PM",
+        "thursday": "8:00 AM–7:30 PM",
+        "friday": "8:00 AM–7:30 PM",
+        "saturday": "9:00 AM–6:00 PM",
+        "sunday": "10:00 AM–4:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/il/chicago/4740-n-cumberland-ave/notary"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "The UPS Store (47 W Division St)",
+      "area": "Gold Coast / Near North Side (walk-in)",
+      "address": "47 W Division St, Chicago, IL 60610",
+      "phone": "(312) 943-6260",
+      "website": "https://locations.theupsstore.com/il/chicago/47-w-division-st/notary",
+      "bookingUrl": "https://locations.theupsstore.com/il/chicago/47-w-division-st/notary",
+      "hours": {
+        "monday": "9:00 AM–7:30 PM",
+        "tuesday": "9:00 AM–7:30 PM",
+        "wednesday": "9:00 AM–7:30 PM",
+        "thursday": "9:00 AM–7:30 PM",
+        "friday": "9:00 AM–7:30 PM",
+        "saturday": "10:00 AM–5:00 PM",
+        "sunday": "12:00 PM–5:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/il/chicago/47-w-division-st/notary"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "The UPS Store (4633 W Diversey Ave)",
+      "area": "Northwest Side · Belmont Cragin (walk-in)",
+      "address": "4633 W Diversey Ave, Chicago, IL 60639",
+      "phone": "(773) 904-8644",
+      "website": "https://locations.theupsstore.com/il/chicago/4633-w-diversey-ave/notary",
+      "bookingUrl": "https://locations.theupsstore.com/il/chicago/4633-w-diversey-ave/notary",
+      "hours": {
+        "monday": "8:00 AM–7:00 PM",
+        "tuesday": "8:00 AM–7:00 PM",
+        "wednesday": "8:00 AM–7:00 PM",
+        "thursday": "8:00 AM–7:00 PM",
+        "friday": "8:00 AM–7:00 PM",
+        "saturday": "9:00 AM–6:00 PM",
+        "sunday": "10:00 AM–5:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/il/chicago/4633-w-diversey-ave/notary"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "The UPS Store (6446 N Sheridan Road)",
+      "area": "Rogers Park · Loyola (walk-in)",
+      "address": "6446 N Sheridan Road, Chicago, IL 60626",
+      "phone": "(773) 754-0374",
+      "website": "https://locations.theupsstore.com/il/chicago/6446-n-sheridan-road/notary",
+      "bookingUrl": "https://locations.theupsstore.com/il/chicago/6446-n-sheridan-road/notary",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "10:00 AM–6:00 PM",
+        "sunday": "12:00 PM–5:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/il/chicago/6446-n-sheridan-road/notary"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    }
+  ]
+}
