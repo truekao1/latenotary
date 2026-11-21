@@ -1,0 +1,607 @@
+{
+ "slug": "tx-dallas",
+ "city": "Dallas",
+ "citySlug": "dallas",
+ "state": "TX",
+ "stateName": "Texas",
+ "focus": "Dallas (Uptown, Design District, Oak Cliff, East Dallas, Lake Highlands, Northwest and Far North Dallas), plus mobile notaries based in Garland, Grand Prairie, and Arlington who travel into the city",
+ "lastUpdated": "2026-11-20",
+ "intro": "Bank branches in Dallas usually stop notarizing by late afternoon. This first Dallas page lists mobile notaries whose own websites publish evening, weekend, 24-hour, or hospital and jail service in the city — including three based just outside Dallas in Garland, Grand Prairie, and Arlington, clearly labeled — plus eleven UPS Store locations whose official pages post notary hours until 6:30 PM or later on weekdays, most of them open Sundays too. It is not a complete inventory of the city. Every hour, fee, and service flag comes from the business’s own page and is dated when we last checked it. If we could not verify a detail, we left it out. Call or text to confirm before you go or book.",
+ "listings": [
+  {
+   "name": "DFW 24/7 Mobile Notary",
+   "area": "Dallas–Fort Worth metroplex (mobile)",
+   "address": null,
+   "phone": "(945) 409-9146",
+   "website": "https://247notarydfw.com/",
+   "bookingUrl": "https://247notarydfw.com/",
+   "hours": {
+    "monday": "24 hours",
+    "tuesday": "24 hours",
+    "wednesday": "24 hours",
+    "thursday": "24 hours",
+    "friday": "24 hours",
+    "saturday": "24 hours",
+    "sunday": "24 hours",
+    "notes": "The site says it answers calls and dispatches notaries any hour, any day, including holidays and weekends. Evening (6–10 PM), late-night (10 PM–6 AM), and weekend/holiday visits carry added fees."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": true,
+    "ron": false
+   },
+   "visitNotes": "The site lists hospital, rehab, and hospice visits, jail and detention center visits in Dallas, Tarrant, and Collin counties, and visits at DFW Airport and Dallas Love Field. Remote online notarization was not mentioned on the page we checked.",
+   "feeNotes": "As listed on 2026-11-20: general mobile notarization $45 base travel fee plus $6 per notarization; single-document signing $50 flat; hospital, rehab, and hospice visits $95 flat (travel, up to 2 documents, and 1 hour of wait); jail and detention center visits $150 flat; airport visits $125 flat. Evening (6–10 PM) adds $35, late night (10 PM–6 AM) adds $65, and weekend/holiday emergency service adds $45.",
+   "sources": [
+    {
+     "label": "Homepage and pricing",
+     "url": "https://247notarydfw.com/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Just Doing Business LLC — Dallas mobile notary",
+   "area": "Dallas and the DFW metroplex (mobile); office in Arlington",
+   "address": null,
+   "phone": "(972) 850-6982",
+   "website": "https://justdoingbusinessllc.com/mobile-notary-dallas-tx/",
+   "bookingUrl": "https://justdoingbusinessllc.com/mobile-notary-dallas-tx/",
+   "hours": {
+    "saturday": "Mobile 24/7",
+    "sunday": "Mobile 24/7",
+    "monday": "Mobile 24/7; office 9:00 AM–5:00 PM",
+    "tuesday": "Mobile 24/7; office 9:00 AM–5:00 PM",
+    "wednesday": "Mobile 24/7; office 9:00 AM–5:00 PM",
+    "thursday": "Mobile 24/7; office 9:00 AM–5:00 PM",
+    "friday": "Mobile 24/7; office 9:00 AM–5:00 PM",
+    "notes": "The Dallas page says it dispatches across Dallas 24 hours a day, 7 days a week, including holiday weekends. In-office appointments at its Arlington office (1000 Ballpark Way, Suite 310) are Monday–Friday 9 AM–5 PM."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": true,
+    "ron": true
+   },
+   "visitNotes": "The Dallas page lists hospital bedside visits, nursing centers and hospice, and jail visits including Dallas County Jail (Lew Sterrett) and Tarrant County Jail. It also offers Texas remote online notarization by video.",
+   "feeNotes": "No fees published on the Dallas page we checked.",
+   "sources": [
+    {
+     "label": "Dallas mobile notary page",
+     "url": "https://justdoingbusinessllc.com/mobile-notary-dallas-tx/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Knox Mobile Notary",
+   "area": "Dallas, Irving, Garland, Mesquite, Richardson, Grand Prairie, Plano, and Frisco (mobile)",
+   "address": null,
+   "phone": "(214) 935-5625",
+   "website": "https://knoxmobilenotary.com/",
+   "bookingUrl": "https://knoxmobilenotary.com/",
+   "hours": {
+    "monday": "8:00 AM–9:00 PM",
+    "tuesday": "8:00 AM–9:00 PM",
+    "wednesday": "8:00 AM–9:00 PM",
+    "thursday": "8:00 AM–9:00 PM",
+    "friday": "8:00 AM–9:00 PM",
+    "saturday": "8:00 AM–9:00 PM",
+    "sunday": "8:00 AM–9:00 PM",
+    "notes": "The site says it is available 8 a.m. to 9 p.m., 7 days a week, including Saturdays and Sundays, and to text about times outside those hours."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": true,
+    "ron": false
+   },
+   "visitNotes": "The site lists visits to hospitals, nursing homes, and assisted-living facilities; the signer must be alert, able to communicate, and have valid ID. Jail visits and online notarization were not mentioned on the page we checked.",
+   "feeNotes": "No fees published; the site says you get an up-front quote before the visit.",
+   "sources": [
+    {
+     "label": "Homepage",
+     "url": "https://knoxmobilenotary.com/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Redlab Mobile Notary",
+   "area": "Garland-based; in person in Dallas and 13 other DFW cities; online anywhere in Texas",
+   "address": null,
+   "phone": "(469) 368-7963",
+   "website": "https://redlabnotary.com/",
+   "bookingUrl": "https://redlabnotary.com/",
+   "hours": {
+    "monday": "7:00 AM–10:00 PM",
+    "tuesday": "7:00 AM–10:00 PM",
+    "wednesday": "7:00 AM–10:00 PM",
+    "thursday": "7:00 AM–10:00 PM",
+    "friday": "7:00 AM–10:00 PM",
+    "saturday": "7:00 AM–10:00 PM",
+    "sunday": "7:00 AM–10:00 PM",
+    "notes": "The site lists hours of 7 AM–10 PM, 7 days a week, with same-day appointments and no after-hours surcharge."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": true,
+    "ron": true
+   },
+   "visitNotes": "The site offers priority dispatch for hospital, hospice, rehab, and nursing-home signings across DFW, and remote online notarization (RON) over video for anyone in Texas. Jail visits were not mentioned on the page we checked. The site says it does not take full loan signing packages.",
+   "feeNotes": "As listed on 2026-11-20: $10 per signature plus travel at $1.50 per mile ($25 minimum); online notarization $10 per signature plus a $25 RON fee; hospital/bedside priority dispatch $50 plus $10 per signature plus travel; no after-hours, weekend, or holiday surcharge.",
+   "sources": [
+    {
+     "label": "Homepage, pricing, and hours",
+     "url": "https://redlabnotary.com/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Garcia's Mobile Notary",
+   "area": "Dallas–Fort Worth metroplex, including Dallas (mobile)",
+   "address": null,
+   "phone": "214-991-4154",
+   "website": "https://garciamobilenotary.com/",
+   "bookingUrl": "https://garciamobilenotary.com/",
+   "hours": {
+    "monday": "9:00 AM–9:00 PM",
+    "tuesday": "9:00 AM–9:00 PM",
+    "wednesday": "9:00 AM–9:00 PM",
+    "thursday": "9:00 AM–9:00 PM",
+    "friday": "9:00 AM–9:00 PM",
+    "saturday": "9:00 AM–9:00 PM",
+    "sunday": "9:00 AM–9:00 PM",
+    "notes": "The site lists availability 7 days a week, 9:00 AM–9:00 PM, and says emergency, evening, hospital, and weekend appointments may be available outside standard hours."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": true,
+    "ron": false
+   },
+   "visitNotes": "The site lists bedside notarizations at hospitals, plus nursing home, assisted living, and hospice visits. Jail visits and online notarization were not mentioned on the page we checked.",
+   "feeNotes": "As listed on 2026-11-20: $75 travel within 10 miles plus $1.50 per mile beyond; Texas per-signature notary fees at state rates; after-hours appointment +$25; emergency same-day +$50; hospital/nursing home visits from $95; waiting $20 per 15 minutes after a 10-minute grace period; tolls and parking at cost.",
+   "sources": [
+    {
+     "label": "Homepage and pricing",
+     "url": "https://garciamobilenotary.com/"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "Grand Prairie Mobile Notary — Dallas",
+   "area": "Dallas (mobile), from Oak Cliff to Lake Highlands; based in Grand Prairie",
+   "address": null,
+   "phone": "469-964-3779",
+   "website": "https://grandprairienotary.com/mobile-notary-dallas",
+   "bookingUrl": "https://grandprairienotary.com/mobile-notary-dallas",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "Regular hours are not published. The Dallas page offers evenings, weekends, and urgent same-day requests, with an added fee before 8 AM, after 7 PM, and on weekends and holidays."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": true,
+    "ron": false
+   },
+   "visitNotes": "The Dallas page lists hospital and nursing home visits and jail and detention center visits. Online notarization was not mentioned on the page we checked.",
+   "feeNotes": "As listed on 2026-11-20: general mobile notarization $50 (travel within 20 driving miles of Grand Prairie included, 1 signer, +$10 each extra signer); hospital/care facility $85; jail visit $125; loan signing $150; after-hours and weekends +$25. Texas notary fee of $10 for the first signature and $1 for each additional signature.",
+   "sources": [
+    {
+     "label": "Dallas mobile notary page",
+     "url": "https://grandprairienotary.com/mobile-notary-dallas"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store (14999 Preston Rd)",
+   "area": "Far North Dallas · Preston Road (walk-in)",
+   "address": "14999 Preston Rd, Dallas, TX 75254",
+   "phone": "(972) 991-9114",
+   "website": "https://locations.theupsstore.com/tx/dallas/14999-preston-rd/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/dallas/14999-preston-rd/notary",
+   "hours": {
+    "monday": "8:00 AM–8:00 PM",
+    "tuesday": "8:00 AM–8:00 PM",
+    "wednesday": "8:00 AM–8:00 PM",
+    "thursday": "8:00 AM–8:00 PM",
+    "friday": "8:00 AM–8:00 PM",
+    "saturday": "10:00 AM–5:00 PM",
+    "sunday": "12:00 PM–5:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/dallas/14999-preston-rd/notary"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store (10675 E NW Hwy)",
+   "area": "Northeast Dallas · E Northwest Highway (walk-in)",
+   "address": "10675 E NW Hwy, Dallas, TX 75238",
+   "phone": "(214) 258-6154",
+   "website": "https://locations.theupsstore.com/tx/dallas/10675-e-nw-hwy/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/dallas/10675-e-nw-hwy/notary",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/dallas/10675-e-nw-hwy/notary"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store (5706 E Mockingbird Ln)",
+   "area": "East Dallas · E Mockingbird Lane (walk-in)",
+   "address": "5706 E Mockingbird Ln, Dallas, TX 75206",
+   "phone": "(214) 824-5100",
+   "website": "https://locations.theupsstore.com/tx/dallas/5706-e-mockingbird-ln/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/dallas/5706-e-mockingbird-ln/notary",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–5:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/dallas/5706-e-mockingbird-ln/notary"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store (7150 Skillman St)",
+   "area": "Lake Highlands · Skillman Street (walk-in)",
+   "address": "7150 Skillman St, Dallas, TX 75231",
+   "phone": "(972) 913-4660",
+   "website": "https://locations.theupsstore.com/tx/dallas/7150-skillman-st/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/dallas/7150-skillman-st/notary",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/dallas/7150-skillman-st/notary"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store (9540 Garland Rd)",
+   "area": "East Dallas · Garland Road (walk-in)",
+   "address": "9540 Garland Rd, Dallas, TX 75218",
+   "phone": "(214) 321-7100",
+   "website": "https://locations.theupsstore.com/tx/dallas/9540-garland-rd/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/dallas/9540-garland-rd/notary",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "10:00 AM–4:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/dallas/9540-garland-rd/notary"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store (11500 Harry Hines Blvd)",
+   "area": "Northwest Dallas · Harry Hines Blvd (walk-in)",
+   "address": "11500 Harry Hines Blvd, Dallas, TX 75229",
+   "phone": "(214) 954-7677",
+   "website": "https://locations.theupsstore.com/tx/dallas/11500-harry-hines-blvd/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/dallas/11500-harry-hines-blvd/notary",
+   "hours": {
+    "monday": "9:00 AM–7:00 PM",
+    "tuesday": "9:00 AM–7:00 PM",
+    "wednesday": "9:00 AM–7:00 PM",
+    "thursday": "9:00 AM–7:00 PM",
+    "friday": "9:00 AM–7:00 PM",
+    "saturday": "12:00 PM–7:00 PM",
+    "sunday": "Closed",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": false,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/dallas/11500-harry-hines-blvd/notary"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store (2633 McKinney Ave)",
+   "area": "Uptown · McKinney Avenue (walk-in)",
+   "address": "2633 McKinney Ave, Dallas, TX 75204",
+   "phone": "(214) 965-9226",
+   "website": "https://locations.theupsstore.com/tx/dallas/2633-mckinney-ave/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/dallas/2633-mckinney-ave/notary",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "10:00 AM–5:00 PM",
+    "sunday": "Closed",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": false,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/dallas/2633-mckinney-ave/notary"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store (7324 Gaston Ave)",
+   "area": "East Dallas · Gaston Avenue (walk-in)",
+   "address": "7324 Gaston Ave, Dallas, TX 75214",
+   "phone": "(214) 827-5200",
+   "website": "https://locations.theupsstore.com/tx/dallas/7324-gaston-ave/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/dallas/7324-gaston-ave/notary",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "9:00 AM–2:30 PM",
+    "sunday": "Closed",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": false,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/dallas/7324-gaston-ave/notary"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store (1222 N Bishop Ave)",
+   "area": "Oak Cliff · N Bishop Avenue (walk-in)",
+   "address": "1222 N Bishop Ave, Dallas, TX 75208",
+   "phone": "(469) 727-0033",
+   "website": "https://locations.theupsstore.com/tx/dallas/1222-n-bishop-ave/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/dallas/1222-n-bishop-ave/notary",
+   "hours": {
+    "monday": "8:00 AM–6:30 PM",
+    "tuesday": "8:00 AM–6:30 PM",
+    "wednesday": "8:00 AM–6:30 PM",
+    "thursday": "8:00 AM–6:30 PM",
+    "friday": "8:00 AM–6:30 PM",
+    "saturday": "10:00 AM–5:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/dallas/1222-n-bishop-ave/notary"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store (1408 N Riverfront Blvd)",
+   "area": "Design District · N Riverfront Blvd (walk-in)",
+   "address": "1408 N Riverfront Blvd, Dallas, TX 75207",
+   "phone": "(214) 745-1000",
+   "website": "https://locations.theupsstore.com/tx/dallas/1408-n-riverfront-blvd/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/dallas/1408-n-riverfront-blvd/notary",
+   "hours": {
+    "monday": "8:00 AM–6:30 PM",
+    "tuesday": "8:00 AM–6:30 PM",
+    "wednesday": "8:00 AM–6:30 PM",
+    "thursday": "8:00 AM–6:30 PM",
+    "friday": "8:00 AM–6:30 PM",
+    "saturday": "10:00 AM–5:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/dallas/1408-n-riverfront-blvd/notary"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  },
+  {
+   "name": "The UPS Store (1914 Skillman Street)",
+   "area": "East Dallas · Skillman Street near Live Oak (walk-in)",
+   "address": "1914 Skillman Street, Dallas, TX 75206",
+   "phone": "(469) 334-0518",
+   "website": "https://locations.theupsstore.com/tx/dallas/1914-skillman-street/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/dallas/1914-skillman-street/notary",
+   "hours": {
+    "monday": "8:00 AM–6:30 PM",
+    "tuesday": "8:00 AM–6:30 PM",
+    "wednesday": "8:00 AM–6:30 PM",
+    "thursday": "8:00 AM–6:30 PM",
+    "friday": "8:00 AM–6:30 PM",
+    "saturday": "9:00 AM–4:30 PM",
+    "sunday": "11:00 AM–3:30 PM",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/dallas/1914-skillman-street/notary"
+    }
+   ],
+   "lastChecked": "2026-11-20"
+  }
+ ]
+}
