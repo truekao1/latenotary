@@ -1,0 +1,607 @@
+{
+ "slug": "tx-houston",
+ "city": "Houston",
+ "citySlug": "houston",
+ "state": "TX",
+ "stateName": "Texas",
+ "focus": "Houston (Downtown, Midtown, Montrose, River Oaks, Rice Village, Medical Center, Briargrove, Oak Forest, Westchase, Memorial, Northeast Houston, and Clear Lake), plus mobile notaries who travel across greater Houston",
+ "lastUpdated": "2026-11-21",
+ "intro": "Bank branches in Houston usually stop notarizing by late afternoon. This first Houston page lists five mobile notaries whose own websites publish 24/7, evening, weekend, or hospital and jail service in the city, plus twelve UPS Store locations whose official pages post notary hours until 7:00 PM on weekdays, most of them open Sundays too. It is not a complete inventory of the city, and suburbs such as Katy, Sugar Land, and The Woodlands are only covered through the mobile services. Every hour, fee, and service flag comes from the business’s own page and is dated when we last checked it. If we could not verify a detail, we left it out. Call or text to confirm before you go or book.",
+ "listings": [
+  {
+   "name": "Houston's Courier — mobile notary",
+   "area": "Houston and the greater Houston metro (mobile)",
+   "address": null,
+   "phone": "(713) 592-0000",
+   "website": "https://houstonscourier.com/notary.htm",
+   "bookingUrl": "https://houstonscourier.com/notary.htm",
+   "hours": {
+    "monday": "24 hours",
+    "tuesday": "24 hours",
+    "wednesday": "24 hours",
+    "thursday": "24 hours",
+    "friday": "24 hours",
+    "saturday": "24 hours",
+    "sunday": "24 hours",
+    "notes": "The notary page says Houston’s Courier operates 24 hours a day, 7 days a week, including evenings, weekends, and holidays, with same-day dispatch."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": true,
+    "ron": false
+   },
+   "visitNotes": "The page lists bedside notarizations at hospitals in the Texas Medical Center and across Houston, nursing home and hospice visits, and jail visits at Harris County and area facilities (subject to each facility’s rules). Witnesses can be arranged if you ask when booking. The page says it provides in-person mobile notarization; it does not offer remote online notarization itself.",
+   "feeNotes": "No fees published on the notary page we checked.",
+   "sources": [
+    {
+     "label": "Mobile notary page",
+     "url": "https://houstonscourier.com/notary.htm"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "Notary Near Me Houston",
+   "area": "Greater Houston (mobile)",
+   "address": null,
+   "phone": "(713) 445-6553",
+   "website": "https://notarynearmehouston.com/",
+   "bookingUrl": "https://notarynearmehouston.com/",
+   "hours": {
+    "monday": "24 hours",
+    "tuesday": "24 hours",
+    "wednesday": "24 hours",
+    "thursday": "24 hours",
+    "friday": "24 hours",
+    "saturday": "24 hours",
+    "sunday": "24 hours",
+    "notes": "The homepage says the service is open 24/7, 7 days a week, and that most requests are confirmed within 15 minutes during business hours."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": true,
+    "ron": true
+   },
+   "visitNotes": "The homepage lists bedside visits at hospitals, nursing homes, assisted living, rehab, and hospice, and visits to the Harris County Jail downtown and nearby jails. Its FAQ says it also offers remote online notarization (RON). Call or text to book.",
+   "feeNotes": "As listed on 2026-11-21: basic documents and powers of attorney starting at $35; most real estate signings starting at $100; hospital/nursing home and jail visits starting at $100. The homepage points to a separate pricing page for the full rate card.",
+   "sources": [
+    {
+     "label": "Homepage",
+     "url": "https://notarynearmehouston.com/"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "LocateServe — mobile and jail notary",
+   "area": "Houston and surrounding counties (mobile)",
+   "address": null,
+   "phone": "(832) 562-3671",
+   "website": "https://locateserve.com/services-pricing/mobile-notary/",
+   "bookingUrl": "https://locateserve.com/services-pricing/mobile-notary/",
+   "hours": {
+    "monday": "By appointment",
+    "tuesday": "By appointment",
+    "wednesday": "By appointment",
+    "thursday": "By appointment",
+    "friday": "By appointment",
+    "saturday": "By appointment",
+    "sunday": "By appointment",
+    "notes": "The page offers evening and weekend appointments with priority scheduling and same-day availability when possible. Specific hours are not published."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": true,
+    "ron": false
+   },
+   "visitNotes": "The page lists visits to homes, law offices, hospitals and care facilities, and jails and prisons (by facility rules), including security check-in and escort time. Remote online notarization was not mentioned on the page we checked.",
+   "feeNotes": "As listed on 2026-11-21: standard mobile visit $75 including the first notarization; jail, prison, or hospital visit $125 including the first notarization and up to 30 minutes on site; evening or weekend visit $95 including the first notarization. Additional signatures, extended waiting time, and out-of-area travel cost extra.",
+   "sources": [
+    {
+     "label": "Mobile notary services and pricing page",
+     "url": "https://locateserve.com/services-pricing/mobile-notary/"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "JM Notary TX",
+   "area": "Houston, Katy, Cypress, Sugar Land, Pearland, Spring, The Woodlands, Humble, and Pasadena (mobile)",
+   "address": null,
+   "phone": "(832) 982-2246",
+   "website": "https://www.jmnotarytx.com/",
+   "bookingUrl": "https://www.jmnotarytx.com/",
+   "hours": {
+    "monday": "By appointment",
+    "tuesday": "By appointment",
+    "wednesday": "By appointment",
+    "thursday": "By appointment",
+    "friday": "By appointment",
+    "saturday": "By appointment",
+    "sunday": "By appointment",
+    "notes": "The site says evening and after-hours appointments may be available by request depending on location and schedule, and that same-day and after-hours appointments are subject to availability. Specific hours are not published, and weekend service is not mentioned."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": false,
+    "sunday": false,
+    "mobile": true,
+    "hospitalJail": true,
+    "ron": false
+   },
+   "visitNotes": "The site lists hospital, nursing home and assisted living, and jail or detention facility appointments (facility visits need advance confirmation), plus witness coordination. Remote online notarization was not mentioned on the page we checked.",
+   "feeNotes": "As listed on 2026-11-21: travel fee $45 central/west Houston, $65 Katy/Cypress/Sugar Land/Pearland, $75 Spring/The Woodlands/Humble/Pasadena; hospital or nursing home +$25; jail or detention facility +$75 (custom quote); same-day +$25; evening +$15; after-hours +$25; witnesses $40 each. Texas notarial act fees are charged separately ($10 first signature as listed). The site calls these estimates confirmed before the appointment.",
+   "sources": [
+    {
+     "label": "Homepage and pricing",
+     "url": "https://www.jmnotarytx.com/"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "Houston Notary Solutions (Notary & Apostille)",
+   "area": "Greater Houston (mobile)",
+   "address": null,
+   "phone": "713-357-1924",
+   "website": "https://houstonnotarysolutions.com/after-hours/",
+   "bookingUrl": "https://houstonnotarysolutions.com/after-hours/",
+   "hours": {
+    "monday": "By appointment",
+    "tuesday": "By appointment",
+    "wednesday": "By appointment",
+    "thursday": "By appointment",
+    "friday": "By appointment",
+    "saturday": "By appointment",
+    "sunday": "By appointment",
+    "notes": "The after-hours page invites you to ask about evening or weekend appointments; availability depends on your location, the signing details, and the schedule. Specific hours are not published."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "Mobile service by call or text. The page asks you to share the preferred time, ZIP code, document type, number of signers, and any facility or parking instructions, and says it confirms availability and a quote before booking. Hospital or jail service and online notarization were not mentioned on the page we checked.",
+   "feeNotes": "No fees published; the page says it quotes before you book.",
+   "sources": [
+    {
+     "label": "After-hours appointments page",
+     "url": "https://houstonnotarysolutions.com/after-hours/"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store (945 McKinney)",
+   "area": "Downtown · McKinney Street (walk-in)",
+   "address": "945 McKinney, Houston, TX 77002",
+   "phone": "(832) 204-3767",
+   "website": "https://locations.theupsstore.com/tx/houston/945-mckinney/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/945-mckinney/notary",
+   "hours": {
+    "monday": "10:00 AM–7:00 PM",
+    "tuesday": "10:00 AM–7:00 PM",
+    "wednesday": "10:00 AM–7:00 PM",
+    "thursday": "10:00 AM–7:00 PM",
+    "friday": "10:00 AM–7:00 PM",
+    "saturday": "10:00 AM–3:00 PM",
+    "sunday": "Closed",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": false,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/houston/945-mckinney/notary"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store (2450 Louisiana)",
+   "area": "Midtown · Louisiana Street (walk-in)",
+   "address": "2450 Louisiana, Ste 400, Houston, TX 77006",
+   "phone": "(713) 524-2335",
+   "website": "https://locations.theupsstore.com/tx/houston/2450-louisiana/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/2450-louisiana/notary",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/houston/2450-louisiana/notary"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store (1302 Waugh Drive)",
+   "area": "Montrose / Heights edge · Waugh Drive (walk-in)",
+   "address": "1302 Waugh Drive, Houston, TX 77019",
+   "phone": "(713) 942-7775",
+   "website": "https://locations.theupsstore.com/tx/houston/1302-waugh-drive/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/1302-waugh-drive/notary",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "Closed",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": false,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/houston/1302-waugh-drive/notary"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store (3262 Westheimer Road)",
+   "area": "River Oaks · Westheimer Road (walk-in)",
+   "address": "3262 Westheimer Road, Houston, TX 77098",
+   "phone": "(713) 520-0030",
+   "website": "https://locations.theupsstore.com/tx/houston/3262-westheimer-road/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/3262-westheimer-road/notary",
+   "hours": {
+    "monday": "9:00 AM–7:00 PM",
+    "tuesday": "9:00 AM–7:00 PM",
+    "wednesday": "9:00 AM–7:00 PM",
+    "thursday": "9:00 AM–7:00 PM",
+    "friday": "9:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/houston/3262-westheimer-road/notary"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store (2429 Bissonnet St)",
+   "area": "Rice Village area · Bissonnet Street (walk-in)",
+   "address": "2429 Bissonnet St, Houston, TX 77005",
+   "phone": "(713) 529-4132",
+   "website": "https://locations.theupsstore.com/tx/houston/2429-bissonnet-st/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/2429-bissonnet-st/notary",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/houston/2429-bissonnet-st/notary"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store (1333 Old Spanish Trail)",
+   "area": "Medical Center area · Old Spanish Trail (walk-in)",
+   "address": "1333 Old Spanish Trail, Ste G, Houston, TX 77054",
+   "phone": "(832) 369-2090",
+   "website": "https://locations.theupsstore.com/tx/houston/1333-old-spanish-trail/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/1333-old-spanish-trail/notary",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "9:00 AM–4:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/houston/1333-old-spanish-trail/notary"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store (1415 S Voss)",
+   "area": "Briargrove / Tanglewood · South Voss Road (walk-in)",
+   "address": "1415 S Voss, Ste 110, Houston, TX 77057",
+   "phone": "(713) 952-5332",
+   "website": "https://locations.theupsstore.com/tx/houston/1415-s-voss/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/1415-s-voss/notary",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/houston/1415-s-voss/notary"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store (5380 W 34th St)",
+   "area": "Oak Forest / Spring Branch · West 34th Street (walk-in)",
+   "address": "5380 W 34th St, Houston, TX 77092",
+   "phone": "(713) 688-7007",
+   "website": "https://locations.theupsstore.com/tx/houston/5380-w-34th-st/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/5380-w-34th-st/notary",
+   "hours": {
+    "monday": "9:00 AM–7:00 PM",
+    "tuesday": "9:00 AM–7:00 PM",
+    "wednesday": "9:00 AM–7:00 PM",
+    "thursday": "9:00 AM–7:00 PM",
+    "friday": "9:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/houston/5380-w-34th-st/notary"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store (11152 Westheimer Rd)",
+   "area": "Westchase · Westheimer Road (walk-in)",
+   "address": "11152 Westheimer Rd, Houston, TX 77042",
+   "phone": "(713) 781-6245",
+   "website": "https://locations.theupsstore.com/tx/houston/11152-westheimer-rd/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/11152-westheimer-rd/notary",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/houston/11152-westheimer-rd/notary"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store (12335 Kingsride Lane)",
+   "area": "Memorial · Kingsride Lane (walk-in)",
+   "address": "12335 Kingsride Lane, Houston, TX 77024",
+   "phone": "(713) 465-3922",
+   "website": "https://locations.theupsstore.com/tx/houston/12335-kingsride-lane/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/12335-kingsride-lane/notary",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/houston/12335-kingsride-lane/notary"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store (14237 E Sam Houston Pkwy N)",
+   "area": "Northeast Houston · East Sam Houston Parkway North (walk-in)",
+   "address": "14237 E Sam Houston Pkwy N, Ste 200, Houston, TX 77044",
+   "phone": "(832) 781-4757",
+   "website": "https://locations.theupsstore.com/tx/houston/14237-e-sam-houston-pkwy-n/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/14237-e-sam-houston-pkwy-n/notary",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–4:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/houston/14237-e-sam-houston-pkwy-n/notary"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The UPS Store (2323 Clear Lake City Blvd)",
+   "area": "Clear Lake · Clear Lake City Boulevard (walk-in)",
+   "address": "2323 Clear Lake City Blvd, Houston, TX 77062",
+   "phone": "(281) 486-8542",
+   "website": "https://locations.theupsstore.com/tx/houston/2323-clear-lake-city-blvd/notary",
+   "bookingUrl": "https://locations.theupsstore.com/tx/houston/2323-clear-lake-city-blvd/notary",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "9:30 AM–3:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page, which lists notary hours separately from store hours. Holiday hours can differ; the page lists holiday closures."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/tx/houston/2323-clear-lake-city-blvd/notary"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  }
+ ]
+}
