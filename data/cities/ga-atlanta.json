@@ -1,0 +1,619 @@
+{
+ "slug": "ga-atlanta",
+ "city": "Atlanta",
+ "citySlug": "atlanta",
+ "state": "GA",
+ "stateName": "Georgia",
+ "focus": "City of Atlanta (Midtown, Home Park, West Midtown, Riverside, Peachtree Hills, Buckhead, Chastain Park, Summerhill, and Southwest Atlanta), plus mobile notaries who travel across metro Atlanta",
+ "lastUpdated": "2026-11-22",
+ "intro": "Bank branches in Atlanta usually stop notarizing by late afternoon. This first Atlanta page lists six mobile notaries whose own websites publish 24/7, evening, weekend, or hospital and jail service in metro Atlanta, plus eleven UPS Store locations inside the city whose official pages post notary hours until at least 7:00 PM on weekdays — one Midtown store until 9:00 PM — most of them open Sundays too. It is not a complete inventory; suburbs such as Decatur, Marietta, Sandy Springs, and Dunwoody are covered only through the mobile services. Every hour, fee, and service flag comes from the business’s own page and is dated when we last checked it. If we could not verify a detail, we left it out. Call or text to confirm before you go or book.",
+ "listings": [
+  {
+   "name": "Atlanta 24/7 Mobile Notary",
+   "area": "Metro Atlanta and surrounding counties (mobile)",
+   "address": null,
+   "phone": "(404) 604-9477",
+   "website": "https://atlanta247mobilenotary.com/",
+   "bookingUrl": "https://atlanta247mobilenotary.com/",
+   "hours": {
+    "monday": "24 hours",
+    "tuesday": "24 hours",
+    "wednesday": "24 hours",
+    "thursday": "24 hours",
+    "friday": "24 hours",
+    "saturday": "24 hours",
+    "sunday": "24 hours",
+    "notes": "The homepage says the service is available 24 hours a day, 7 days a week for mobile notary and fingerprinting, and to call for an immediate response or to schedule."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": true,
+    "ron": false
+   },
+   "visitNotes": "The homepage says it travels anywhere in metro Atlanta, including hospitals, jails, private residences, workplaces, restaurants, airports, and hotels, and can print documents or provide witnesses for an extra fee. The page says it does not notarize real estate documents. Remote online notarization is not mentioned.",
+   "feeNotes": "No fees published on the homepage we checked; the page says to call for a quote.",
+   "sources": [
+    {
+     "label": "Homepage",
+     "url": "https://atlanta247mobilenotary.com/"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "Atlanta 24 Hour Notary",
+   "area": "Metro Atlanta: Fulton, DeKalb, Cobb, Gwinnett, Clayton, Henry, Rockdale, and Douglas counties (mobile)",
+   "address": null,
+   "phone": "(470) 508-5640",
+   "website": "https://atl24hournotary.com/",
+   "bookingUrl": "https://atl24hournotary.com/",
+   "hours": {
+    "monday": "24 hours",
+    "tuesday": "24 hours",
+    "wednesday": "24 hours",
+    "thursday": "24 hours",
+    "friday": "24 hours",
+    "saturday": "24 hours",
+    "sunday": "24 hours",
+    "notes": "The homepage says it answers calls 24 hours a day, 7 days a week, including nights, weekends, and holidays, and that most visits inside I-285 can be met within about an hour depending on traffic and availability. It is a mobile service, not a walk-in office."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": true,
+    "ron": false
+   },
+   "visitNotes": "The homepage lists home, office, hospital, and jail visits, plus nursing-home and hospice signings; it can provide hospital witnesses if requested in advance. Remote online notarization is not mentioned.",
+   "feeNotes": "As listed on 2026-11-22: standard mobile visit inside I-285 $50 (up to 2 notarizations, additional signatures $10 each); outside the perimeter $75–$125 by distance; +$25 for appointments between 9 PM and 6 AM and on Sundays and holidays; hospital, jail, or nursing-home signing $75+; witness for a hospital signing $50 each.",
+   "sources": [
+    {
+     "label": "Homepage",
+     "url": "https://atl24hournotary.com/"
+    },
+    {
+     "label": "Pricing page",
+     "url": "https://atl24hournotary.com/pricing"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "Traveling Notary Atlanta",
+   "area": "Atlanta, Sandy Springs, and Marietta (mobile)",
+   "address": null,
+   "phone": "(470) 250-3949",
+   "website": "https://travelingnotaryatlanta.com/",
+   "bookingUrl": "https://travelingnotaryatlanta.com/",
+   "hours": {
+    "monday": "7:00 AM–11:00 PM",
+    "tuesday": "7:00 AM–11:00 PM",
+    "wednesday": "7:00 AM–11:00 PM",
+    "thursday": "7:00 AM–11:00 PM",
+    "friday": "7:00 AM–11:00 PM",
+    "saturday": "7:00 AM–11:00 PM",
+    "sunday": "7:00 AM–11:00 PM",
+    "notes": "The site footer says 7 days a week, 7 AM–11 PM, with same-day and 24-hour service available. The services page says hospital visits are available evenings, weekends, and overnight when needed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": true,
+    "ron": false
+   },
+   "visitNotes": "The site lists hospital bedside visits (it names Piedmont, Grady, Emory, and Northside, among others) and jail visits at the Fulton County and DeKalb County jails, following each facility’s rules. Remote online notarization is not mentioned.",
+   "feeNotes": "No fees published on the pages we checked.",
+   "sources": [
+    {
+     "label": "Homepage",
+     "url": "https://travelingnotaryatlanta.com/"
+    },
+    {
+     "label": "Services page",
+     "url": "https://travelingnotaryatlanta.com/services"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "Atlanta’s Public Notary",
+   "area": "North Atlanta (Roswell, Sandy Springs, Alpharetta, Buckhead, Dunwoody, Brookhaven) and 12 metro counties for added mileage (mobile)",
+   "address": null,
+   "phone": "404-449-8436",
+   "website": "https://atlantapublicnotary.com/",
+   "bookingUrl": "https://atlantapublicnotary.com/",
+   "hours": {
+    "monday": "By appointment",
+    "tuesday": "By appointment",
+    "wednesday": "By appointment",
+    "thursday": "By appointment",
+    "friday": "By appointment",
+    "saturday": "By appointment",
+    "sunday": "By appointment",
+    "notes": "The homepage says it is open 7 days and offers same-day, early-morning, evening, and weekend appointments. Specific hours are not published. Texts are welcome."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": true,
+    "ron": false
+   },
+   "visitNotes": "The homepage lists home, office, hospital, rehab, assisted-living, and senior-community visits; jail visits are available by request and depend on facility rules. Remote online notarization is not mentioned.",
+   "feeNotes": "As listed on 2026-11-22: mobile appointments from $20 within a 5-mile radius of the primary North Atlanta area, including one notarized signature. Extra documents, signers, mileage outside the primary area, and after-hours or rush appointments cost more; the page says a full quote is given before travel.",
+   "sources": [
+    {
+     "label": "Homepage",
+     "url": "https://atlantapublicnotary.com/"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "Anytime Anywhere Mobile Notary Services",
+   "area": "Metro Atlanta (mobile)",
+   "address": null,
+   "phone": "720-400-1522",
+   "website": "https://anytimenotarize.com/",
+   "bookingUrl": "https://anytimenotarize.com/",
+   "hours": {
+    "monday": "By appointment",
+    "tuesday": "By appointment",
+    "wednesday": "By appointment",
+    "thursday": "By appointment",
+    "friday": "By appointment",
+    "saturday": "By appointment",
+    "sunday": "By appointment",
+    "notes": "The homepage says same-day, evening, weekend, after-hours, and holiday appointments may be available. The pricing page lists evening appointments (5 PM and later) and weekend appointments. Specific hours are not published."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": true,
+    "ron": false
+   },
+   "visitNotes": "The site lists visits to homes, offices, hospitals, rehabilitation centers, hospice locations, nursing homes, and assisted-living communities. Jail visits and remote online notarization are not mentioned. Text to book.",
+   "feeNotes": "As listed on 2026-11-22: standard mobile appointment from $65; evening (5 PM and later) from $85; weekend from $95; hospital and senior-facility appointments from $125. Georgia notarial act fee $2 per act, charged separately.",
+   "sources": [
+    {
+     "label": "Homepage",
+     "url": "https://anytimenotarize.com/"
+    },
+    {
+     "label": "Pricing page",
+     "url": "https://anytimenotarize.com/pricing.html"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "Sign & Go Mobile Notary",
+   "area": "Cobb County and the northern Atlanta metro, including Buckhead, Midtown, Sandy Springs, and Vinings (mobile)",
+   "address": null,
+   "phone": "(470) 345-7258",
+   "website": "https://signandgonotaries.com/",
+   "bookingUrl": "https://signandgonotaries.com/",
+   "hours": {
+    "monday": "5:00 PM–8:00 PM",
+    "tuesday": "5:00 PM–8:00 PM",
+    "wednesday": "5:00 PM–8:00 PM",
+    "thursday": "5:00 PM–8:00 PM",
+    "friday": "5:00 PM–8:00 PM",
+    "saturday": "9:00 AM–7:00 PM",
+    "sunday": "9:00 AM–7:00 PM",
+    "notes": "The homepage lists weekday evenings 5–8 PM and weekends 9 AM–7 PM. Overnight, holiday, and emergency requests are considered case by case for an extra fee."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": true,
+    "ron": false
+   },
+   "visitNotes": "The homepage lists home, office, hospital, hospice, and assisted-living appointments, and a facility access fee for hospitals and jails. It says all appointments are in person; it does not offer remote online notarization.",
+   "feeNotes": "As listed on 2026-11-22: Georgia notarial act $2 per signature; travel fee by county ($55 Fulton, $50 Cobb, $65 DeKalb); after-hours or weekend dispatch fee $20; hospital, hospice, or assisted-living appointment $35; $25 facility access fee at hospitals and jails.",
+   "sources": [
+    {
+     "label": "Homepage",
+     "url": "https://signandgonotaries.com/"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store (207 13th St NE A-1)",
+   "area": "Midtown · 13th Street NE (walk-in)",
+   "address": "207 13th St NE A-1, Atlanta, GA 30309",
+   "phone": "(404) 301-8090",
+   "website": "https://locations.theupsstore.com/ga/atlanta/207-13th-st-ne-a-1/notary",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/207-13th-st-ne-a-1/notary",
+   "hours": {
+    "monday": "9:00 AM–9:00 PM",
+    "tuesday": "9:00 AM–9:00 PM",
+    "wednesday": "9:00 AM–9:00 PM",
+    "thursday": "9:00 AM–9:00 PM",
+    "friday": "9:00 AM–9:00 PM",
+    "saturday": "9:00 AM–9:00 PM",
+    "sunday": "12:00 PM–8:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/207-13th-st-ne-a-1/notary"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store (925B Peachtree St NE)",
+   "area": "Midtown · Peachtree Street NE (walk-in)",
+   "address": "925B Peachtree St NE, Atlanta, GA 30309",
+   "phone": "(404) 685-8280",
+   "website": "https://locations.theupsstore.com/ga/atlanta/925b-peachtree-st-ne/notary",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/925b-peachtree-st-ne/notary",
+   "hours": {
+    "monday": "9:30 AM–7:30 PM",
+    "tuesday": "9:30 AM–7:30 PM",
+    "wednesday": "9:30 AM–7:30 PM",
+    "thursday": "9:30 AM–7:30 PM",
+    "friday": "9:30 AM–7:30 PM",
+    "saturday": "9:30 AM–5:30 PM",
+    "sunday": "12:00 PM–5:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/925b-peachtree-st-ne/notary"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store (931 Monroe Dr)",
+   "area": "Midtown / Piedmont Park · Monroe Drive (walk-in)",
+   "address": "931 Monroe Dr, Atlanta, GA 30308",
+   "phone": "(404) 873-3433",
+   "website": "https://locations.theupsstore.com/ga/atlanta/931-monroe-dr/notary",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/931-monroe-dr/notary",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "10:00 AM–3:30 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/931-monroe-dr/notary"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store (541 Tenth St NW)",
+   "area": "Home Park / Georgia Tech · Tenth Street NW (walk-in)",
+   "address": "541 Tenth St NW, Atlanta, GA 30318",
+   "phone": "(404) 733-6797",
+   "website": "https://locations.theupsstore.com/ga/atlanta/541-tenth-st-nw/notary",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/541-tenth-st-nw/notary",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "9:00 AM–2:00 PM",
+    "sunday": "9:00 AM–2:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/541-tenth-st-nw/notary"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store (2020 Howell Mill Rd NW)",
+   "area": "West Midtown · Howell Mill Road (walk-in)",
+   "address": "2020 Howell Mill Rd NW, Atlanta, GA 30318",
+   "phone": "(404) 352-3222",
+   "website": "https://locations.theupsstore.com/ga/atlanta/2020-howell-mill-rd-nw/notary",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/2020-howell-mill-rd-nw/notary",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "9:00 AM–3:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/2020-howell-mill-rd-nw/notary"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store (2275 Marietta Blvd NW)",
+   "area": "Riverside · Marietta Boulevard NW (walk-in)",
+   "address": "2275 Marietta Blvd NW, Atlanta, GA 30318",
+   "phone": "(404) 855-5382",
+   "website": "https://locations.theupsstore.com/ga/atlanta/2275-marietta-blvd-nw/notary",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/2275-marietta-blvd-nw/notary",
+   "hours": {
+    "monday": "9:00 AM–7:30 PM",
+    "tuesday": "9:00 AM–7:30 PM",
+    "wednesday": "9:00 AM–7:30 PM",
+    "thursday": "9:00 AM–7:30 PM",
+    "friday": "9:00 AM–7:30 PM",
+    "saturday": "10:00 AM–5:00 PM",
+    "sunday": "12:00 PM–5:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/2275-marietta-blvd-nw/notary"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store (2221 Peachtree Rd NE)",
+   "area": "Peachtree Hills / South Buckhead · Peachtree Road (walk-in)",
+   "address": "2221 Peachtree Rd NE, Atlanta, GA 30309",
+   "phone": "(404) 963-7133",
+   "website": "https://locations.theupsstore.com/ga/atlanta/2221-peachtree-rd-ne/notary",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/2221-peachtree-rd-ne/notary",
+   "hours": {
+    "monday": "9:00 AM–7:00 PM",
+    "tuesday": "9:00 AM–7:00 PM",
+    "wednesday": "9:00 AM–7:00 PM",
+    "thursday": "9:00 AM–7:00 PM",
+    "friday": "9:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/2221-peachtree-rd-ne/notary"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store (4279 Roswell Rd NE)",
+   "area": "Chastain Park · Chastain Square (walk-in)",
+   "address": "4279 Roswell Rd NE, Atlanta, GA 30342",
+   "phone": "(404) 256-3948",
+   "website": "https://locations.theupsstore.com/ga/atlanta/4279-roswell-rd-ne/notary",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/4279-roswell-rd-ne/notary",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "9:30 AM–5:00 PM",
+    "sunday": "Closed",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": false,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/4279-roswell-rd-ne/notary"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store (1266 W Paces Ferry Rd)",
+   "area": "Buckhead · West Paces Ferry Shopping Center (walk-in)",
+   "address": "1266 W Paces Ferry Rd, Atlanta, GA 30327",
+   "phone": "(404) 841-9550",
+   "website": "https://locations.theupsstore.com/ga/atlanta/1266-w-paces-ferry-rd/notary",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/1266-w-paces-ferry-rd/notary",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "9:30 AM–4:00 PM",
+    "sunday": "Closed",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": false,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/1266-w-paces-ferry-rd/notary"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store (572 Hank Aaron Dr SE)",
+   "area": "Summerhill · Hank Aaron Drive (walk-in)",
+   "address": "572 Hank Aaron Dr SE, Atlanta, GA 30312",
+   "phone": "(404) 205-5755",
+   "website": "https://locations.theupsstore.com/ga/atlanta/572-hank-aaron-dr-se/notary",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/572-hank-aaron-dr-se/notary",
+   "hours": {
+    "monday": "8:00 AM–7:00 PM",
+    "tuesday": "8:00 AM–7:00 PM",
+    "wednesday": "8:00 AM–7:00 PM",
+    "thursday": "8:00 AM–7:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/572-hank-aaron-dr-se/notary"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  },
+  {
+   "name": "The UPS Store (3695 Cascade Rd)",
+   "area": "Southwest Atlanta · Cascade Road (walk-in)",
+   "address": "3695 Cascade Rd, Atlanta, GA 30331",
+   "phone": "(404) 975-3901",
+   "website": "https://locations.theupsstore.com/ga/atlanta/3695-cascade-rd/notary",
+   "bookingUrl": "https://locations.theupsstore.com/ga/atlanta/3695-cascade-rd/notary",
+   "hours": {
+    "monday": "9:00 AM–7:00 PM",
+    "tuesday": "9:00 AM–7:00 PM",
+    "wednesday": "9:00 AM–7:00 PM",
+    "thursday": "9:00 AM–7:00 PM",
+    "friday": "9:00 AM–7:00 PM",
+    "saturday": "10:00 AM–5:00 PM",
+    "sunday": "10:00 AM–4:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/ga/atlanta/3695-cascade-rd/notary"
+    }
+   ],
+   "lastChecked": "2026-11-22"
+  }
+ ]
+}
