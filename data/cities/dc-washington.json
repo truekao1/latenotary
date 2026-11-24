@@ -1,0 +1,716 @@
+{
+ "slug": "dc-washington",
+ "city": "Washington",
+ "citySlug": "washington",
+ "state": "DC",
+ "stateName": "District of Columbia",
+ "focus": "District of Columbia (Downtown, Foggy Bottom, Adams Morgan, Columbia Heights, Shaw, NoMa, H Street NE, Capitol Hill, Navy Yard, The Wharf, Fort Lincoln, and American University Park), plus mobile notaries who travel across DC",
+ "lastUpdated": "2026-11-23",
+ "intro": "Bank branches in Washington, DC usually stop notarizing by late afternoon. This first DC page lists 6 mobile notaries whose own websites publish 24/7 appointment requests, late-evening hours, or evening and weekend appointments in the District, plus 14 UPS Store locations inside DC whose official pages post notary hours until at least 6:00 PM on weekdays — several until 7:00 PM, and 5 with Sunday notary hours. It is not a complete inventory; Arlington, Alexandria, Bethesda, Silver Spring, and other suburbs are covered only through the mobile services that list them. Every hour, fee, and service flag comes from the business’s own page and is dated when we last checked it. If we could not verify a detail, we left it out. Call or text to confirm before you go or book.",
+ "listings": [
+  {
+   "name": "DCMD Mobile Notary",
+   "area": "Washington, DC (all quadrants) and Montgomery County, MD (mobile)",
+   "address": null,
+   "phone": "240-753-3646",
+   "website": "https://www.dcmdmobilenotary.com/",
+   "bookingUrl": "https://www.dcmdmobilenotary.com/service-areas/washington-dc",
+   "hours": {
+    "monday": "By appointment",
+    "tuesday": "By appointment",
+    "wednesday": "By appointment",
+    "thursday": "By appointment",
+    "friday": "By appointment",
+    "saturday": "By appointment",
+    "sunday": "By appointment",
+    "notes": "The homepage says appointment requests are accepted 24 hours a day, 7 days a week, and that acceptance depends on availability, travel time, document readiness, and facility access. The Washington, DC page lists evening and weekend appointments. Specific hours are not published."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": true,
+    "ron": false
+   },
+   "visitNotes": "The site lists visits to homes, hospitals, nursing and rehabilitation facilities, assisted-living communities, offices, airports, and secure facilities, with extra access planning for hospitals and secure locations. Remote online notarization is not mentioned. Call or text with the full address to confirm coverage.",
+   "feeNotes": "No fees published on the pages we checked.",
+   "sources": [
+    {
+     "label": "Homepage",
+     "url": "https://www.dcmdmobilenotary.com/"
+    },
+    {
+     "label": "Washington, DC service-area page",
+     "url": "https://www.dcmdmobilenotary.com/service-areas/washington-dc"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "202 Notary",
+   "area": "Washington, DC and Maryland (mobile; office in Rockville, MD by appointment)",
+   "address": null,
+   "phone": "202-400-6531",
+   "website": "https://www.202notary.com/",
+   "bookingUrl": "https://www.202notary.com/",
+   "hours": {
+    "monday": "By appointment",
+    "tuesday": "By appointment",
+    "wednesday": "By appointment",
+    "thursday": "By appointment",
+    "friday": "By appointment",
+    "saturday": "By appointment",
+    "sunday": "By appointment",
+    "notes": "The homepage advertises 24-hour mobile notary service in MD and DC, flexible scheduling including evenings, and early mornings, late evenings, and weekends, 7 days a week. It also says services are by appointment only. Specific hours are not published."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": true,
+    "ron": true
+   },
+   "visitNotes": "The homepage says it serves all neighborhoods and ZIP codes in the District and visits homes, offices, hospitals, and other locations, with witnesses available on request and same-day mobile appointments subject to availability. Its FAQ lists remote online notary services. Jail visits are not mentioned.",
+   "feeNotes": "No notary fees published on the homepage we checked; the page offers a quote.",
+   "sources": [
+    {
+     "label": "Homepage",
+     "url": "https://www.202notary.com/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "RL Notary and Apostille Services",
+   "area": "Washington, DC and Maryland (mobile)",
+   "address": "1717 N Street NW, Suite 1, Washington, DC 20036",
+   "phone": "(202) 875-6829",
+   "website": "https://rlnotaryandapostille.com/",
+   "bookingUrl": "https://rlnotaryandapostille.com/",
+   "hours": {
+    "monday": "7:00 AM–12:00 AM",
+    "tuesday": "7:00 AM–12:00 AM",
+    "wednesday": "7:00 AM–12:00 AM",
+    "thursday": "7:00 AM–12:00 AM",
+    "friday": "7:00 AM–12:00 AM",
+    "saturday": "Not published",
+    "sunday": "7:00 AM–12:00 AM",
+    "notes": "The homepage says appointments run 7:00 AM to 12:00 AM, Sunday through Friday, including evenings and holidays. The footer on the same page says Mon–Sun 7:00 AM–12:00 AM, so Saturday is unclear; confirm before booking a Saturday."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": false,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": true,
+    "ron": true
+   },
+   "visitNotes": "The homepage lists home, office, hospital, and courthouse visits across DC and Maryland, same-day visits often available, and service in English, Russian, Hebrew, and Spanish. It lists Maryland remote online notarization authorization. The address is published in the page footer; this is mainly a mobile service. Jail visits are not mentioned.",
+   "feeNotes": "The homepage says a written quote is given before the appointment; no fee amounts copied.",
+   "sources": [
+    {
+     "label": "Homepage",
+     "url": "https://rlnotaryandapostille.com/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "DC Mobile Notary",
+   "area": "Washington, DC, Northern Virginia, and Southern Maryland (mobile; DC office at 2001 L St NW by appointment)",
+   "address": "2001 L St NW, Suite 545, Washington, DC 20036",
+   "phone": "(202) 247-0837",
+   "website": "https://www.dcmobilenotary.com/",
+   "bookingUrl": "https://www.dcmobilenotary.com/mobile-notary-services",
+   "hours": {
+    "monday": "8:00 AM–9:00 PM",
+    "tuesday": "8:00 AM–9:00 PM",
+    "wednesday": "8:00 AM–9:00 PM",
+    "thursday": "8:00 AM–9:00 PM",
+    "friday": "8:00 AM–7:00 PM",
+    "saturday": "10:00 AM–4:00 PM",
+    "sunday": "10:00 AM–4:00 PM",
+    "notes": "Hours for phone customer service and mobile service as listed on the mobile notary services page (Eastern Time). The same page lists the Washington, DC office at 2001 L St NW, Suite 545, as by appointment Mon–Thu 8 AM–6 PM, Fri 8 AM–5 PM, Sat–Sun 9 AM–4 PM."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": true,
+    "ron": true
+   },
+   "visitNotes": "The page says the notary travels to homes, offices, hospitals, and nursing homes, evenings and weekends included, with witnesses provided if needed. The site menu lists a Remote Online Notary (RON) service. Jail visits are not mentioned.",
+   "feeNotes": "As listed on 2026-11-23: the page shows $5 per signature and says prices vary by location, time, and document complexity, with an exact quote before the appointment.",
+   "sources": [
+    {
+     "label": "Mobile notary services page",
+     "url": "https://www.dcmobilenotary.com/mobile-notary-services"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "TBG Notary Services",
+   "area": "Washington, DC (mobile)",
+   "address": null,
+   "phone": "(202) 455-5289",
+   "website": "https://www.tbgnotaryservices.com/home",
+   "bookingUrl": "https://www.tbgnotaryservices.com/home",
+   "hours": {
+    "monday": "By appointment",
+    "tuesday": "By appointment",
+    "wednesday": "By appointment",
+    "thursday": "By appointment",
+    "friday": "By appointment",
+    "saturday": "By appointment",
+    "sunday": "By appointment",
+    "notes": "The homepage says it offers morning, evening, and weekend appointments and that same-day, emergency, and custom appointments may be available. Specific hours are not published."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "Based in Washington, DC, per the homepage, and focused on appointments outside 9-to-5 hours. Call or text for availability. Hospital or jail visits and remote online notarization are not mentioned.",
+   "feeNotes": "No fees published on the homepage we checked.",
+   "sources": [
+    {
+     "label": "Homepage",
+     "url": "https://www.tbgnotaryservices.com/home"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "Full Moon Mobile Notary & Fingerprinting of Washington, DC",
+   "area": "Washington, DC (mobile notary); fingerprinting across DC, Maryland, and Virginia",
+   "address": null,
+   "phone": "(202) 538-6344",
+   "website": "https://www.fullmoonmobilenotaryandfingerprintingdc.com/",
+   "bookingUrl": "https://www.fullmoonmobilenotaryandfingerprintingdc.com/",
+   "hours": {
+    "monday": "By appointment",
+    "tuesday": "By appointment",
+    "wednesday": "By appointment",
+    "thursday": "By appointment",
+    "friday": "By appointment",
+    "saturday": "By appointment",
+    "sunday": "By appointment",
+    "notes": "The homepage says appointments are available during evenings, weekends, and special after-hour requests. Specific hours are not published."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": true,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "The homepage says the mobile team meets you at home, an office, or another convenient place, and lists real estate, power of attorney, wills and trusts, affidavits, and health care directives. Book by phone or email. Hospital or jail visits and remote online notarization are not mentioned.",
+   "feeNotes": "No fees published on the homepage we checked.",
+   "sources": [
+    {
+     "label": "Homepage",
+     "url": "https://www.fullmoonmobilenotaryandfingerprintingdc.com/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "The UPS Store (1030 15th St NW)",
+   "area": "Downtown · 15th St NW near McPherson Square (walk-in)",
+   "address": "1030 15th St NW, Washington, DC 20005",
+   "phone": "(202) 785-3604",
+   "website": "https://locations.theupsstore.com/dc/washington/1030-15th-st-nw/notary",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/1030-15th-st-nw/notary",
+   "hours": {
+    "monday": "10:00 AM–7:00 PM",
+    "tuesday": "10:00 AM–7:00 PM",
+    "wednesday": "10:00 AM–7:00 PM",
+    "thursday": "10:00 AM–7:00 PM",
+    "friday": "10:00 AM–7:00 PM",
+    "saturday": "9:30 AM–5:00 PM",
+    "sunday": "Closed",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": false,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/dc/washington/1030-15th-st-nw/notary"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "The UPS Store (1100 New Jersey Ave Ste 2000)",
+   "area": "Navy Yard · New Jersey Ave SE (walk-in)",
+   "address": "1100 New Jersey Ave Ste 2000, Washington, DC 20003",
+   "phone": "(202) 808-2968",
+   "website": "https://locations.theupsstore.com/dc/washington/1100-new-jersey-ave/notary",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/1100-new-jersey-ave/notary",
+   "hours": {
+    "monday": "9:00 AM–7:00 PM",
+    "tuesday": "9:00 AM–7:00 PM",
+    "wednesday": "9:00 AM–7:00 PM",
+    "thursday": "9:00 AM–7:00 PM",
+    "friday": "9:00 AM–7:00 PM",
+    "saturday": "10:00 AM–5:00 PM",
+    "sunday": "12:00 PM–5:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead. The store page offers online appointment scheduling.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/dc/washington/1100-new-jersey-ave/notary"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "The UPS Store (1220 L Street NW Ste 100)",
+   "area": "Downtown · L Street NW (walk-in)",
+   "address": "1220 L Street NW Ste 100, Washington, DC 20005",
+   "phone": "(202) 371-0065",
+   "website": "https://locations.theupsstore.com/dc/washington/1220-l-street-nw/notary",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/1220-l-street-nw/notary",
+   "hours": {
+    "monday": "8:30 AM–6:00 PM",
+    "tuesday": "8:30 AM–6:00 PM",
+    "wednesday": "8:30 AM–6:00 PM",
+    "thursday": "8:30 AM–6:00 PM",
+    "friday": "8:30 AM–6:00 PM",
+    "saturday": "10:00 AM–3:00 PM",
+    "sunday": "Closed",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": false,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/dc/washington/1220-l-street-nw/notary"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "The UPS Store (1380 Monroe St NW)",
+   "area": "Columbia Heights · Monroe St NW (walk-in)",
+   "address": "1380 Monroe St NW, Washington, DC 20010",
+   "phone": "(202) 234-4877",
+   "website": "https://locations.theupsstore.com/dc/washington/1380-monroe-st-nw/notary",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/1380-monroe-st-nw/notary",
+   "hours": {
+    "monday": "8:30 AM–7:00 PM",
+    "tuesday": "8:30 AM–7:00 PM",
+    "wednesday": "8:30 AM–7:00 PM",
+    "thursday": "8:30 AM–7:00 PM",
+    "friday": "8:30 AM–7:00 PM",
+    "saturday": "9:00 AM–6:00 PM",
+    "sunday": "10:00 AM–4:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead. The store page offers online appointment scheduling.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/dc/washington/1380-monroe-st-nw/notary"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "The UPS Store (1835 7th Street NW)",
+   "area": "Shaw · 7th Street NW (walk-in)",
+   "address": "1835 7th Street NW, Washington, DC 20001",
+   "phone": "(202) 804-4338",
+   "website": "https://locations.theupsstore.com/dc/washington/1835-7th-street-nw/notary",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/1835-7th-street-nw/notary",
+   "hours": {
+    "monday": "9:00 AM–7:00 PM",
+    "tuesday": "9:00 AM–7:00 PM",
+    "wednesday": "9:00 AM–7:00 PM",
+    "thursday": "9:00 AM–7:00 PM",
+    "friday": "9:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "Closed",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": false,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead. The store page offers online appointment scheduling.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/dc/washington/1835-7th-street-nw/notary"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "The UPS Store (2021 L St NW Ste 101)",
+   "area": "Downtown · L St NW between 20th and 21st (walk-in)",
+   "address": "2021 L St NW Ste 101, Washington, DC 20036",
+   "phone": "(202) 775-4302",
+   "website": "https://locations.theupsstore.com/dc/washington/2021-l-st-nw/notary",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/2021-l-st-nw/notary",
+   "hours": {
+    "monday": "8:00 AM–6:00 PM",
+    "tuesday": "8:00 AM–6:00 PM",
+    "wednesday": "8:00 AM–6:00 PM",
+    "thursday": "8:00 AM–6:00 PM",
+    "friday": "8:00 AM–6:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "Closed",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": false,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/dc/washington/2021-l-st-nw/notary"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "The UPS Store (2202 18th St NW)",
+   "area": "Adams Morgan · 18th St NW (walk-in)",
+   "address": "2202 18th St NW, Washington, DC 20009",
+   "phone": "(202) 588-9100",
+   "website": "https://locations.theupsstore.com/dc/washington/2202-18th-st-nw/notary",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/2202-18th-st-nw/notary",
+   "hours": {
+    "monday": "8:30 AM–6:30 PM",
+    "tuesday": "8:30 AM–6:30 PM",
+    "wednesday": "8:30 AM–6:30 PM",
+    "thursday": "8:30 AM–6:30 PM",
+    "friday": "8:30 AM–6:30 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/dc/washington/2202-18th-st-nw/notary"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "The UPS Store (2490 Market St NE)",
+   "area": "Fort Lincoln · Market St NE (walk-in)",
+   "address": "2490 Market St NE, Washington, DC 20018",
+   "phone": "(202) 937-4333",
+   "website": "https://locations.theupsstore.com/dc/washington/2490-market-st-ne/notary",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/2490-market-st-ne/notary",
+   "hours": {
+    "monday": "10:00 AM–7:00 PM",
+    "tuesday": "10:00 AM–7:00 PM",
+    "wednesday": "10:00 AM–7:00 PM",
+    "thursday": "10:00 AM–7:00 PM",
+    "friday": "10:00 AM–7:00 PM",
+    "saturday": "10:00 AM–3:00 PM",
+    "sunday": "Closed",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": false,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/dc/washington/2490-market-st-ne/notary"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "The UPS Store (420 Florida Ave Northeast)",
+   "area": "NoMa · Florida Ave NE (walk-in)",
+   "address": "420 Florida Ave Northeast, Washington, DC 20002",
+   "phone": "(202) 355-0915",
+   "website": "https://locations.theupsstore.com/dc/washington/420-florida-ave-northeast/notary",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/420-florida-ave-northeast/notary",
+   "hours": {
+    "monday": "8:30 AM–6:00 PM",
+    "tuesday": "8:30 AM–6:00 PM",
+    "wednesday": "8:30 AM–6:00 PM",
+    "thursday": "8:30 AM–6:00 PM",
+    "friday": "8:30 AM–6:00 PM",
+    "saturday": "10:00 AM–3:00 PM",
+    "sunday": "Closed",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": false,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/dc/washington/420-florida-ave-northeast/notary"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "The UPS Store (4410 Massachusetts Ave NW)",
+   "area": "American University Park · Massachusetts Ave NW (walk-in)",
+   "address": "4410 Massachusetts Ave NW, Washington, DC 20016",
+   "phone": "(202) 686-2100",
+   "website": "https://locations.theupsstore.com/dc/washington/4410-massachusetts-ave-nw/notary",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/4410-massachusetts-ave-nw/notary",
+   "hours": {
+    "monday": "9:00 AM–6:00 PM",
+    "tuesday": "9:00 AM–6:00 PM",
+    "wednesday": "9:00 AM–6:00 PM",
+    "thursday": "9:00 AM–6:00 PM",
+    "friday": "9:00 AM–6:00 PM",
+    "saturday": "12:00 PM–5:00 PM",
+    "sunday": "Closed",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": false,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/dc/washington/4410-massachusetts-ave-nw/notary"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "The UPS Store (611 Pennsylvania Ave SE)",
+   "area": "Capitol Hill · Pennsylvania Ave SE (walk-in)",
+   "address": "611 Pennsylvania Ave SE, Washington, DC 20003",
+   "phone": "(202) 543-0850",
+   "website": "https://locations.theupsstore.com/dc/washington/611-pennsylvania-ave-se/notary",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/611-pennsylvania-ave-se/notary",
+   "hours": {
+    "monday": "9:00 AM–6:00 PM",
+    "tuesday": "9:00 AM–6:00 PM",
+    "wednesday": "9:00 AM–6:00 PM",
+    "thursday": "9:00 AM–6:00 PM",
+    "friday": "9:00 AM–6:00 PM",
+    "saturday": "10:00 AM–4:00 PM",
+    "sunday": "Closed",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": false,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead. The store page offers online appointment scheduling.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/dc/washington/611-pennsylvania-ave-se/notary"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "The UPS Store (825 21st St NW)",
+   "area": "Foggy Bottom · 21st St NW (walk-in)",
+   "address": "825 21st St NW, Washington, DC 20006",
+   "phone": "(202) 457-8166",
+   "website": "https://locations.theupsstore.com/dc/washington/825-21st-st-nw/notary",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/825-21st-st-nw/notary",
+   "hours": {
+    "monday": "8:00 AM–6:00 PM",
+    "tuesday": "8:00 AM–6:00 PM",
+    "wednesday": "8:00 AM–6:00 PM",
+    "thursday": "8:00 AM–6:00 PM",
+    "friday": "8:00 AM–6:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "10:00 AM–3:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/dc/washington/825-21st-st-nw/notary"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "The UPS Store (921 H St NE)",
+   "area": "H Street NE (walk-in)",
+   "address": "921 H St NE, Washington, DC 20002",
+   "phone": "(202) 507-8964",
+   "website": "https://locations.theupsstore.com/dc/washington/921-h-st-ne/notary",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/921-h-st-ne/notary",
+   "hours": {
+    "monday": "9:00 AM–7:00 PM",
+    "tuesday": "9:00 AM–7:00 PM",
+    "wednesday": "9:00 AM–7:00 PM",
+    "thursday": "9:00 AM–7:00 PM",
+    "friday": "9:00 AM–7:00 PM",
+    "saturday": "9:00 AM–5:00 PM",
+    "sunday": "11:00 AM–4:00 PM",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": true,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead. The store page offers online appointment scheduling.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/dc/washington/921-h-st-ne/notary"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "The UPS Store (996 Maine Ave SW)",
+   "area": "The Wharf · Maine Ave SW (walk-in)",
+   "address": "996 Maine Ave SW, Washington, DC 20024",
+   "phone": "(202) 506-4111",
+   "website": "https://locations.theupsstore.com/dc/washington/996-maine-ave-sw/notary",
+   "bookingUrl": "https://locations.theupsstore.com/dc/washington/996-maine-ave-sw/notary",
+   "hours": {
+    "monday": "9:00 AM–7:00 PM",
+    "tuesday": "9:00 AM–7:00 PM",
+    "wednesday": "9:00 AM–7:00 PM",
+    "thursday": "9:00 AM–7:00 PM",
+    "friday": "9:00 AM–7:00 PM",
+    "saturday": "10:00 AM–6:00 PM",
+    "sunday": "Closed",
+    "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+   },
+   "flags": {
+    "evenings": true,
+    "saturday": true,
+    "sunday": false,
+    "mobile": false,
+    "hospitalJail": false,
+    "ron": false
+   },
+   "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead. The store page offers online appointment scheduling.",
+   "feeNotes": "No notary fee published on the location page we checked.",
+   "sources": [
+    {
+     "label": "UPS Store location notary page",
+     "url": "https://locations.theupsstore.com/dc/washington/996-maine-ave-sw/notary"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  }
+ ]
+}
