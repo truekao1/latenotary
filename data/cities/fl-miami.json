@@ -1,0 +1,732 @@
+{
+  "slug": "fl-miami",
+  "city": "Miami",
+  "citySlug": "miami",
+  "state": "FL",
+  "stateName": "Florida",
+  "focus": "City of Miami and Miami-addressed areas of Miami-Dade County (Brickell, Downtown, Edgewater, Upper East Side, Health District, Coconut Grove, Coral Way, West Flagler, the airport area, Westchester, Bird Road, Dadeland, West Kendall, and South Dade), plus mobile notaries who travel across Miami-Dade",
+  "lastUpdated": "2026-11-25",
+  "intro": "Miami bank branches usually stop notarizing by late afternoon. This first Miami page lists 6 mobile notaries whose own websites publish 24/7 service, evening hours, or evening and weekend appointments in Miami-Dade — five of them also list hospital visits — plus 14 UPS Store locations with Miami addresses whose official pages post notary hours until at least 7:00 PM on weekdays (one Bird Road store until 8:00 PM), 12 of them with Sunday notary hours. It is not a complete inventory; Miami Beach, Coral Gables, Hialeah, and Doral are covered only through the mobile services that list them, and several of the UPS Stores are in unincorporated Miami-Dade areas that use a Miami mailing address. Two listed services publish a notary fee of up to $10 per notarial act; mobile travel fees and after-hours surcharges are separate. Every hour, fee, and service flag comes from the business’s own page and is dated when we last checked it. If we could not verify a detail, we left it out. Call or text to confirm before you go or book.",
+  "listings": [
+    {
+      "name": "Blue Ink Signing Solutions",
+      "area": "Miami-Dade, Broward, and Palm Beach (mobile; in-office notary in Brickell)",
+      "address": "80 SW 8th St, Miami, FL 33130",
+      "phone": "(305) 954-0260",
+      "website": "https://blueink.miami/",
+      "bookingUrl": "https://blueink.miami/mobile-now",
+      "hours": {
+        "monday": "Mobile 24/7",
+        "tuesday": "Mobile 24/7",
+        "wednesday": "Mobile 24/7",
+        "thursday": "Mobile 24/7",
+        "friday": "Mobile 24/7",
+        "saturday": "Mobile 24/7",
+        "sunday": "Mobile 24/7",
+        "notes": "The 24/7 notary page says “Available 24/7” for mobile and remote online notary, with “Nights, weekends, and holidays included.” It lists after-hours premiums for appointments starting at 7:30 PM or later. In-office hours for the Brickell office are not published on that page."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": true
+      },
+      "visitNotes": "The site lists mobile visits to homes, offices, title companies, and law firms, bedside visits at hospitals and nursing homes, a separate jail-notarization page, in-office notarization in Brickell, and remote online notarization. The hospital page says the signer must be alert, acting voluntarily, and able to understand the document.",
+      "feeNotes": "Prices as listed on 2026-11-25 on the 24/7 notary page: regular rates (appointments starting before 7:30 PM) — mobile notary from $125, remote online notary $75 (up to 2 pages, 2 stamps, 2 signers), in-office notary from $50. After-hours premiums: +$25 for appointments starting 7:30–8:00 PM, +$50 for 8:00–9:00 PM, and +$100 (mobile) or +$75 (in-office and online) for 9:00 PM or later. Mobile witnesses $50 each.",
+      "sources": [
+        {
+          "label": "24/7 notary services page",
+          "url": "https://blueink.miami/24-7-notary-services"
+        },
+        {
+          "label": "Hospital notary page",
+          "url": "https://blueink.miami/hospital-notary"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "Notary Near Me Miami",
+      "area": "All of Miami-Dade County (mobile)",
+      "address": null,
+      "phone": "(305) 240-6223",
+      "website": "https://www.notarynearmemiami.com/",
+      "bookingUrl": "https://www.notarynearmemiami.com/contact",
+      "hours": {
+        "monday": "Mobile 24/7",
+        "tuesday": "Mobile 24/7",
+        "wednesday": "Mobile 24/7",
+        "thursday": "Mobile 24/7",
+        "friday": "Mobile 24/7",
+        "saturday": "Mobile 24/7",
+        "sunday": "Mobile 24/7",
+        "notes": "The homepage says the service is “available 24/7” across Miami-Dade County, with same-day appointments, and that its 24-hour notary covers evenings, weekends, and holidays. The listed $75 mobile rate covers 9am–6pm; after-hours and emergency visits are priced separately."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": true
+      },
+      "visitNotes": "The hospital and jail page says the notary comes to any Miami-Dade hospital, jail, or detention facility 24 hours a day, 7 days a week, and the homepage says to call to confirm facility access. Remote online notarization is offered. The site says service is available in Spanish. No street address is published.",
+      "feeNotes": "Prices as listed on 2026-11-25 on the homepage: mobile notary $75 (9am–6pm, 3 stamps included), +$10 each additional stamp, after hours / emergency $99+, remote online notary $40+, deeds and loan signings $149+, in-house $10 per page.",
+      "sources": [
+        {
+          "label": "Notary Near Me Miami homepage",
+          "url": "https://www.notarynearmemiami.com/"
+        },
+        {
+          "label": "Hospital and jail notary page",
+          "url": "https://www.notarynearmemiami.com/notary-at"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The Mobile Notary",
+      "area": "Miami-Dade, Broward, and Palm Beach (mobile; based in Weston, FL)",
+      "address": null,
+      "phone": "954-806-6881",
+      "website": "https://themobilenotary.info/",
+      "bookingUrl": "https://themobilenotary.info/book-appointment",
+      "hours": {
+        "monday": "9:30 AM–9:30 PM",
+        "tuesday": "9:30 AM–9:30 PM",
+        "wednesday": "9:30 AM–9:30 PM",
+        "thursday": "9:30 AM–9:30 PM",
+        "friday": "9:30 AM–9:30 PM",
+        "saturday": "9:30 AM–9:30 PM",
+        "sunday": "9:30 AM–9:30 PM",
+        "notes": "The FAQ says appointments are taken from 9:30 AM to 9:30 PM, seven days a week, and that it is not a 24-hour service. It says after-hours and holiday appointments are available by request with a surcharge."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The site lists visits to homes, hospital rooms, nursing homes, rehab centers, hospices, offices, and title companies. Jail visits and remote online notarization are not mentioned. The FAQ says same-day service is often possible; call for today’s availability. Service in English and Spanish.",
+      "feeNotes": "Fees as listed on 2026-11-25 in the FAQ: each service has a flat price plus a travel fee of $50 in Miami-Dade ($35 in Broward). Appointments before 9:30 AM or after 6 PM, or on weekends, add $20; holidays add $40; only the highest single surcharge applies. Witnesses are $50 each in Miami-Dade.",
+      "sources": [
+        {
+          "label": "The Mobile Notary homepage (service hours)",
+          "url": "https://themobilenotary.info/"
+        },
+        {
+          "label": "The Mobile Notary FAQ",
+          "url": "https://themobilenotary.info/faq"
+        },
+        {
+          "label": "Hospital notary visits page",
+          "url": "https://themobilenotary.info/hospital-notary-visits"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "Florida Document Specialists",
+      "area": "South Florida, including Miami-Dade (mobile)",
+      "address": null,
+      "phone": "(800) 255-5287",
+      "website": "https://floridadocument.com/",
+      "bookingUrl": "https://floridadocument.com/south-florida-mobile-notary/",
+      "hours": {
+        "monday": "By appointment",
+        "tuesday": "By appointment",
+        "wednesday": "By appointment",
+        "thursday": "By appointment",
+        "friday": "By appointment",
+        "saturday": "By appointment",
+        "sunday": "By appointment",
+        "notes": "The South Florida mobile notary page says it offers same-day, evening, weekend, and urgent hospital or care-facility mobile service throughout South Florida, subject to availability. Specific hours are not published."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": true
+      },
+      "visitNotes": "The page says it notarizes in hospitals, senior living, and correctional facilities, subject to facility access rules and the signer’s capacity and willingness, and names Jackson Memorial among hospitals it visits. Remote online notarization is offered. Bilingual English and Spanish service is mentioned.",
+      "feeNotes": "The page says pricing is based on travel and, for loan signings, a flat signing package fee; after-hours, parking, tolls, witnesses, or scanbacks may be additional, and a quote is given before dispatch. Specific amounts are not published on that page.",
+      "sources": [
+        {
+          "label": "South Florida mobile notary page",
+          "url": "https://floridadocument.com/south-florida-mobile-notary/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "Brickell Mobile Notary",
+      "area": "All of Miami-Dade County (mobile; based in Brickell)",
+      "address": null,
+      "phone": "(786) 592-0055",
+      "website": "https://www.brickellmobilenotary.com/",
+      "bookingUrl": "https://www.brickellmobilenotary.com/",
+      "hours": {
+        "monday": "By appointment",
+        "tuesday": "By appointment",
+        "wednesday": "By appointment",
+        "thursday": "By appointment",
+        "friday": "By appointment",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The site says mobile service is by appointment throughout Miami-Dade County and lists an after-hours add-on for appointments after 8 PM. It says remote online notarization is available any day of the week. Weekend mobile availability is not published."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": false,
+        "sunday": false,
+        "mobile": true,
+        "hospitalJail": false,
+        "ron": true
+      },
+      "visitNotes": "Mobile notary, loan signings, apostille, and remote online notarization (Florida and international). Hospital and jail visits are not listed as a service.",
+      "feeNotes": "Rates as listed on 2026-11-25 on the homepage: general notary $10 per notarial act; remote online notarization $25 per notarial act; travel fee $50 for 0–24 miles (custom quote beyond); after hours (after 8pm) +$20; wait time billed $10 per 15 minutes after the first 10 minutes.",
+      "sources": [
+        {
+          "label": "Brickell Mobile Notary homepage",
+          "url": "https://www.brickellmobilenotary.com/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "Jimenez Notary",
+      "area": "Miami-Dade County (mobile; based in North Miami, FL)",
+      "address": null,
+      "phone": "(786) 445-0086",
+      "website": "https://jimeneznotary.com/",
+      "bookingUrl": "https://jimeneznotary.com/",
+      "hours": {
+        "monday": "By appointment",
+        "tuesday": "By appointment",
+        "wednesday": "By appointment",
+        "thursday": "By appointment",
+        "friday": "By appointment",
+        "saturday": "By appointment",
+        "sunday": "By appointment",
+        "notes": "The site advertises evening and weekend availability for mobile appointments and says that availability is confirmed case by case with an upfront quote. Specific hours are not published."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "Appointments at homes, offices, hospitals, care facilities, or agreed meeting locations. The hospital page says visits depend on the signer being aware and willing, valid ID, document readiness, and facility permission. Jail visits and remote online notarization are not mentioned.",
+      "feeNotes": "Fees as listed on 2026-11-25 on the homepage: up to $10 per notarial act, plus a travel fee by distance from ZIP 33161 — $40 (0–5 miles), $50 (6–10 miles), from $60 (11+ miles). Hospital and care facility visits: $95 flat, first notarization included, +$10 for each additional notarization. The total is confirmed before the appointment.",
+      "sources": [
+        {
+          "label": "Jimenez Notary homepage",
+          "url": "https://jimeneznotary.com/"
+        },
+        {
+          "label": "Hospital and care facility page",
+          "url": "https://jimeneznotary.com/hospital-notary/"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store (936 SW 1st Ave)",
+      "area": "Brickell · SW 1st Ave (walk-in)",
+      "address": "936 SW 1st Ave, Miami, FL 33130",
+      "phone": "(305) 858-1221",
+      "website": "https://locations.theupsstore.com/fl/miami/936-sw-1st-ave/notary",
+      "bookingUrl": "https://locations.theupsstore.com/fl/miami/936-sw-1st-ave/notary",
+      "hours": {
+        "monday": "8:30 AM–7:00 PM",
+        "tuesday": "8:30 AM–7:00 PM",
+        "wednesday": "8:30 AM–7:00 PM",
+        "thursday": "8:30 AM–7:00 PM",
+        "friday": "8:30 AM–7:00 PM",
+        "saturday": "10:00 AM–3:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/fl/miami/936-sw-1st-ave/notary"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store (153 E Flagler St)",
+      "area": "Downtown · E Flagler St (walk-in)",
+      "address": "153 E Flagler St, Miami, FL 33131",
+      "phone": "(305) 372-9877",
+      "website": "https://locations.theupsstore.com/fl/miami/153-e-flagler-st/notary",
+      "bookingUrl": "https://locations.theupsstore.com/fl/miami/153-e-flagler-st/notary",
+      "hours": {
+        "monday": "8:30 AM–7:00 PM",
+        "tuesday": "8:30 AM–7:00 PM",
+        "wednesday": "8:30 AM–7:00 PM",
+        "thursday": "8:30 AM–7:00 PM",
+        "friday": "8:30 AM–7:00 PM",
+        "saturday": "10:00 AM–3:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/fl/miami/153-e-flagler-st/notary"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store (2045 Biscayne Blvd)",
+      "area": "Edgewater / Midtown · Biscayne Blvd (walk-in)",
+      "address": "2045 Biscayne Blvd, Miami, FL 33137",
+      "phone": "(786) 360-4466",
+      "website": "https://locations.theupsstore.com/fl/miami/2045-biscayne-blvd/notary",
+      "bookingUrl": "https://locations.theupsstore.com/fl/miami/2045-biscayne-blvd/notary",
+      "hours": {
+        "monday": "8:30 AM–7:00 PM",
+        "tuesday": "8:30 AM–7:00 PM",
+        "wednesday": "8:30 AM–7:00 PM",
+        "thursday": "8:30 AM–7:00 PM",
+        "friday": "8:30 AM–7:00 PM",
+        "saturday": "10:00 AM–3:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/fl/miami/2045-biscayne-blvd/notary"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store (6815 Biscayne Blvd Ste 103)",
+      "area": "Upper East Side · Biscayne Blvd (walk-in)",
+      "address": "6815 Biscayne Blvd Ste 103, Miami, FL 33138",
+      "phone": "(305) 759-8877",
+      "website": "https://locations.theupsstore.com/fl/miami/6815-biscayne-blvd/notary",
+      "bookingUrl": "https://locations.theupsstore.com/fl/miami/6815-biscayne-blvd/notary",
+      "hours": {
+        "monday": "8:00 AM–7:30 PM",
+        "tuesday": "8:00 AM–7:30 PM",
+        "wednesday": "8:00 AM–7:30 PM",
+        "thursday": "8:00 AM–7:30 PM",
+        "friday": "8:00 AM–7:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/fl/miami/6815-biscayne-blvd/notary"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store (1951 NW 7th Ave Ste 160)",
+      "area": "Health District · NW 7th Ave (walk-in)",
+      "address": "1951 NW 7th Ave Ste 160, Miami, FL 33136",
+      "phone": "(305) 779-2330",
+      "website": "https://locations.theupsstore.com/fl/miami/1951-nw-7th-ave/notary",
+      "bookingUrl": "https://locations.theupsstore.com/fl/miami/1951-nw-7th-ave/notary",
+      "hours": {
+        "monday": "8:00 AM–7:00 PM",
+        "tuesday": "8:00 AM–7:00 PM",
+        "wednesday": "8:00 AM–7:00 PM",
+        "thursday": "8:00 AM–7:00 PM",
+        "friday": "8:00 AM–7:00 PM",
+        "saturday": "10:00 AM–3:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/fl/miami/1951-nw-7th-ave/notary"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store (3692 Grand Ave)",
+      "area": "Coconut Grove · Grand Ave (walk-in)",
+      "address": "3692 Grand Ave, Miami, FL 33133",
+      "phone": "(305) 445-6665",
+      "website": "https://locations.theupsstore.com/fl/miami/3692-grand-ave/notary",
+      "bookingUrl": "https://locations.theupsstore.com/fl/miami/3692-grand-ave/notary",
+      "hours": {
+        "monday": "8:30 AM–7:00 PM",
+        "tuesday": "8:30 AM–7:00 PM",
+        "wednesday": "8:30 AM–7:00 PM",
+        "thursday": "8:30 AM–7:00 PM",
+        "friday": "8:30 AM–7:00 PM",
+        "saturday": "9:00 AM–5:30 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/fl/miami/3692-grand-ave/notary"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store (2520 SW 22nd St Ste 2)",
+      "area": "Coral Way area · SW 22nd St (walk-in)",
+      "address": "2520 SW 22nd St Ste 2, Miami, FL 33145",
+      "phone": "(305) 285-1818",
+      "website": "https://locations.theupsstore.com/fl/miami/2520-sw-22nd-st/notary",
+      "bookingUrl": "https://locations.theupsstore.com/fl/miami/2520-sw-22nd-st/notary",
+      "hours": {
+        "monday": "8:30 AM–7:00 PM",
+        "tuesday": "8:30 AM–7:00 PM",
+        "wednesday": "8:30 AM–7:00 PM",
+        "thursday": "8:30 AM–7:00 PM",
+        "friday": "8:30 AM–7:00 PM",
+        "saturday": "9:00 AM–3:00 PM",
+        "sunday": "Closed",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": false,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/fl/miami/2520-sw-22nd-st/notary"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store (3725 W Flagler St)",
+      "area": "West Flagler · W Flagler St (walk-in)",
+      "address": "3725 W Flagler St, Miami, FL 33134",
+      "phone": "(786) 452-9661",
+      "website": "https://locations.theupsstore.com/fl/miami/3725-w-flagler-st/notary",
+      "bookingUrl": "https://locations.theupsstore.com/fl/miami/3725-w-flagler-st/notary",
+      "hours": {
+        "monday": "8:30 AM–7:00 PM",
+        "tuesday": "8:30 AM–7:00 PM",
+        "wednesday": "8:30 AM–7:00 PM",
+        "thursday": "8:30 AM–7:00 PM",
+        "friday": "8:30 AM–7:00 PM",
+        "saturday": "9:30 AM–4:00 PM",
+        "sunday": "Closed",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": false,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/fl/miami/3725-w-flagler-st/notary"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store (5727 NW 7th St)",
+      "area": "Airport area · NW 7th St (walk-in)",
+      "address": "5727 NW 7th St, Miami, FL 33126",
+      "phone": "(305) 264-3939",
+      "website": "https://locations.theupsstore.com/fl/miami/5727-nw-7th-st/notary",
+      "bookingUrl": "https://locations.theupsstore.com/fl/miami/5727-nw-7th-st/notary",
+      "hours": {
+        "monday": "8:30 AM–7:00 PM",
+        "tuesday": "8:30 AM–7:00 PM",
+        "wednesday": "8:30 AM–7:00 PM",
+        "thursday": "8:30 AM–7:00 PM",
+        "friday": "8:30 AM–7:00 PM",
+        "saturday": "9:00 AM–3:00 PM",
+        "sunday": "10:00 AM–4:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/fl/miami/5727-nw-7th-st/notary"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store (8567 SW 24 Street)",
+      "area": "Westchester area · SW 24th St (walk-in)",
+      "address": "8567 SW 24 Street, Miami, FL 33155",
+      "phone": "(305) 261-9091",
+      "website": "https://locations.theupsstore.com/fl/miami/8567-sw-24-street/notary",
+      "bookingUrl": "https://locations.theupsstore.com/fl/miami/8567-sw-24-street/notary",
+      "hours": {
+        "monday": "8:00 AM–7:00 PM",
+        "tuesday": "8:00 AM–7:00 PM",
+        "wednesday": "8:00 AM–7:00 PM",
+        "thursday": "8:00 AM–7:00 PM",
+        "friday": "8:00 AM–7:00 PM",
+        "saturday": "9:00 AM–4:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/fl/miami/8567-sw-24-street/notary"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store (6800 SW 40th St)",
+      "area": "Bird Road · SW 40th St (walk-in)",
+      "address": "6800 SW 40th St, Miami, FL 33155",
+      "phone": "(305) 667-2379",
+      "website": "https://locations.theupsstore.com/fl/miami/6800-sw-40th-st/notary",
+      "bookingUrl": "https://locations.theupsstore.com/fl/miami/6800-sw-40th-st/notary",
+      "hours": {
+        "monday": "8:00 AM–8:00 PM",
+        "tuesday": "8:00 AM–8:00 PM",
+        "wednesday": "8:00 AM–8:00 PM",
+        "thursday": "8:00 AM–8:00 PM",
+        "friday": "8:00 AM–8:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/fl/miami/6800-sw-40th-st/notary"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store (6619 S Dixie Hwy)",
+      "area": "Dadeland North Shopping Center · S Dixie Hwy (walk-in)",
+      "address": "6619 S Dixie Hwy, Miami, FL 33143",
+      "phone": "(305) 669-8290",
+      "website": "https://locations.theupsstore.com/fl/miami/6619-s-dixie-hwy/notary",
+      "bookingUrl": "https://locations.theupsstore.com/fl/miami/6619-s-dixie-hwy/notary",
+      "hours": {
+        "monday": "8:30 AM–7:00 PM",
+        "tuesday": "8:30 AM–7:00 PM",
+        "wednesday": "8:30 AM–7:00 PM",
+        "thursday": "8:30 AM–7:00 PM",
+        "friday": "8:30 AM–7:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/fl/miami/6619-s-dixie-hwy/notary"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store (13876 SW 56th St)",
+      "area": "West Kendall area · SW 56th St (walk-in)",
+      "address": "13876 SW 56th St, Miami, FL 33175",
+      "phone": "(305) 385-8486",
+      "website": "https://locations.theupsstore.com/fl/miami/13876-sw-56th-st/notary",
+      "bookingUrl": "https://locations.theupsstore.com/fl/miami/13876-sw-56th-st/notary",
+      "hours": {
+        "monday": "9:00 AM–7:30 PM",
+        "tuesday": "9:00 AM–7:30 PM",
+        "wednesday": "9:00 AM–7:30 PM",
+        "thursday": "9:00 AM–7:30 PM",
+        "friday": "9:00 AM–7:30 PM",
+        "saturday": "9:00 AM–4:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/fl/miami/13876-sw-56th-st/notary"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "name": "The UPS Store (11277 SW 152nd Street)",
+      "area": "South Dade · SW 152nd St (walk-in)",
+      "address": "11277 SW 152nd Street, Miami, FL 33157",
+      "phone": "(305) 964-5870",
+      "website": "https://locations.theupsstore.com/fl/miami/11277-sw-152nd-street/notary",
+      "bookingUrl": "https://locations.theupsstore.com/fl/miami/11277-sw-152nd-street/notary",
+      "hours": {
+        "monday": "9:00 AM–7:30 PM",
+        "tuesday": "9:00 AM–7:30 PM",
+        "wednesday": "9:00 AM–7:30 PM",
+        "thursday": "9:00 AM–7:30 PM",
+        "friday": "9:00 AM–7:30 PM",
+        "saturday": "10:00 AM–4:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/fl/miami/11277-sw-152nd-street/notary"
+        }
+      ],
+      "lastChecked": "2026-11-25"
+    }
+  ]
+}
