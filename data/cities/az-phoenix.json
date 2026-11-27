@@ -1,0 +1,655 @@
+{
+  "slug": "az-phoenix",
+  "city": "Phoenix",
+  "citySlug": "phoenix",
+  "state": "AZ",
+  "stateName": "Arizona",
+  "focus": "City of Phoenix — Downtown, Uptown, Arcadia, North Central, North Phoenix, Paradise Valley Village, Deer Valley, and Desert Ridge — plus mobile notaries who travel across Maricopa County",
+  "lastUpdated": "2026-11-26",
+  "intro": "Phoenix walk-in notary hours mostly end by 6:00 PM, so after work the realistic options are mobile. This first Phoenix page lists 7 mobile notaries whose own websites publish 24/7 service, evening and weekend appointments, or 7-day availability across the Phoenix metro — all seven list hospital or care-facility visits, and four also list jail or detention visits — plus 10 UPS Store locations in Phoenix whose official pages post Saturday and Sunday notary hours. Only one of those stores (E Shea Blvd) posts weekday notary hours past 6:00 PM. It is not a complete inventory; Scottsdale, Tempe, Mesa, Glendale, and the West Valley are covered only through the mobile services that list them, and Phoenix UPS Stores that did not post Sunday notary hours are not listed. Arizona caps notary fees at $10 per notarial act; travel, after-hours, and facility surcharges are separate and vary widely. Every hour, fee, and service flag comes from the business’s own page and is dated when we last checked it. If we could not verify a detail, we left it out. Call or text to confirm before you go or book.",
+  "listings": [
+    {
+      "name": "My 24/7 Notary",
+      "area": "Maricopa and Pinal counties, including Phoenix (mobile)",
+      "address": null,
+      "phone": "(520) 350-6914",
+      "website": "https://my247notary.com/",
+      "bookingUrl": "https://my247notary.com/contact.html",
+      "hours": {
+        "monday": "Mobile 24/7",
+        "tuesday": "Mobile 24/7",
+        "wednesday": "Mobile 24/7",
+        "thursday": "Mobile 24/7",
+        "friday": "Mobile 24/7",
+        "saturday": "Mobile 24/7",
+        "sunday": "Mobile 24/7",
+        "notes": "The homepage says “Available 24/7” — “Day or night, weekday or weekend, holidays included” — and that emergency and same-day appointments are welcome."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The homepage lists visits to homes, offices, hospital rooms, rehab and assisted living, hospice, and jails and correctional institutions throughout both counties. Remote online notarization is not mentioned. No street address is published.",
+      "feeNotes": "Fees as listed on 2026-11-26 on the fees page: $10.00 per notarial act (the Arizona maximum) plus round-trip mileage at the Arizona state employee rate, listed as $0.67 per mile, with no trip charge and no after-hours premium. Loan signings from $125; printing, scan-back, and courier add-ons are priced separately on that page.",
+      "sources": [
+        {
+          "label": "My 24/7 Notary homepage",
+          "url": "https://my247notary.com/"
+        },
+        {
+          "label": "My 24/7 Notary fees page",
+          "url": "https://my247notary.com/fees.html"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "Affordable Mobile Notary — John Soch, J.D.",
+      "area": "Phoenix and all of Maricopa County (mobile)",
+      "address": null,
+      "phone": "(480) 431-4185",
+      "website": "https://jsochdoc.com/",
+      "bookingUrl": "https://jsochdoc.com/",
+      "hours": {
+        "monday": "Mobile 24/7",
+        "tuesday": "Mobile 24/7",
+        "wednesday": "Mobile 24/7",
+        "thursday": "Mobile 24/7",
+        "friday": "Mobile 24/7",
+        "saturday": "Mobile 24/7",
+        "sunday": "Mobile 24/7",
+        "notes": "The homepage says it provides 24/7 mobile notary services throughout the Phoenix metro area, “including holidays.” Call or text to schedule."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The homepage says the notary comes to hospitals, healthcare facilities, and homes. Jail visits and remote online notarization are not mentioned, so the hospital/jail flag reflects hospital visits only. The business is also a legal document preparer. No street address is published.",
+      "feeNotes": "No fees published on the homepage we checked.",
+      "sources": [
+        {
+          "label": "Affordable Mobile Notary homepage",
+          "url": "https://jsochdoc.com/"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "Ben and Stacey Mobile Notary",
+      "area": "All of Maricopa County (mobile)",
+      "address": null,
+      "phone": "(480) 269-1948",
+      "website": "https://www.benandstaceymobilenotary.com/",
+      "bookingUrl": "https://www.benandstaceymobilenotary.com/",
+      "hours": {
+        "monday": "24/7 by appointment",
+        "tuesday": "24/7 by appointment",
+        "wednesday": "24/7 by appointment",
+        "thursday": "24/7 by appointment",
+        "friday": "24/7 by appointment",
+        "saturday": "24/7 by appointment",
+        "sunday": "24/7 by appointment",
+        "notes": "The site lists hours as “24/7 By Appointment” with evening and weekend availability, and says same-day and emergency service is offered at rush or premium rates."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "Mobile visits to homes, offices, hospitals, hospice, nursing homes, senior living, and detention facilities anywhere in Maricopa County; the FAQ says the notary works only within Maricopa County. Booking is by Calendly, call, or text. Remote online notarization is not mentioned.",
+      "feeNotes": "Prices as listed on 2026-11-26 on the homepage: $10 per signature plus a travel fee by distance — $35 (0–10 miles), $50 (11–20 miles), $75 (21–30 miles), custom quote beyond. Premium hours: after-hours (6pm–8am) +$25–50, weekends +$25, holidays +$50–75. Hospital, hospice, nursing-home, and detention-facility visits $150–$300 per appointment including travel.",
+      "sources": [
+        {
+          "label": "Ben and Stacey Mobile Notary homepage",
+          "url": "https://www.benandstaceymobilenotary.com/"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "Desert Horizon Mobile Notary",
+      "area": "Phoenix metro — Tempe, Phoenix, Scottsdale, Glendale, Mesa, Gilbert, and Chandler (mobile; based in Tempe)",
+      "address": null,
+      "phone": "(480) 648-9082",
+      "website": "https://www.deserthorizonmobilenotary.com/",
+      "bookingUrl": "https://www.deserthorizonmobilenotary.com/book-online",
+      "hours": {
+        "monday": "Mobile 24/7",
+        "tuesday": "Mobile 24/7",
+        "wednesday": "Mobile 24/7",
+        "thursday": "Mobile 24/7",
+        "friday": "Mobile 24/7",
+        "saturday": "Mobile 24/7",
+        "sunday": "Mobile 24/7",
+        "notes": "The homepage advertises “24/7 Urgent-Notice Mobile Service throughout the Phoenix Valley.” The services page lists an after-hours dispatch surcharge for dispatches after 7 PM and before 8 AM."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "Visits to homes, hospitals, care facilities, businesses, and offices. The services page lists surcharges for hospitals and for restricted facilities, including jails and detention centers. Remote online notarization is not mentioned.",
+      "feeNotes": "Prices as listed on 2026-11-26 on the services page: mobile service starting at $60 (a $50 mobile dispatch fee plus one $10 notary signature, travel within 15 miles of Tempe 85281); additional signatures $10 each; extended travel $0.67 per mile beyond 15 miles; printing $0.75 per page; after-hours dispatch surcharge $40 (after 7pm and before 8am); hospital logistics surcharge $50; restricted facility surcharge $75 (jails and detention centers).",
+      "sources": [
+        {
+          "label": "Desert Horizon Mobile Notary homepage",
+          "url": "https://www.deserthorizonmobilenotary.com/"
+        },
+        {
+          "label": "Desert Horizon services and fees page",
+          "url": "https://www.deserthorizonmobilenotary.com/services"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "Aggie Mobile Notary Services",
+      "area": "Greater Phoenix metro, including Phoenix (mobile; based in Gilbert)",
+      "address": null,
+      "phone": "(480) 979-8595",
+      "website": "https://www.aggiemobilenotary.com/",
+      "bookingUrl": "https://www.aggiemobilenotary.com/",
+      "hours": {
+        "monday": "By appointment",
+        "tuesday": "By appointment",
+        "wednesday": "By appointment",
+        "thursday": "By appointment",
+        "friday": "By appointment",
+        "saturday": "By appointment",
+        "sunday": "By appointment",
+        "notes": "The site says it is available 7 days a week with same-day and next-day appointments, and lists an emergency / after-hours add-on. Specific hours are not published."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": true
+      },
+      "visitNotes": "Visits to homes, offices, hospitals, hospice, assisted living, and nursing facilities, plus jail notary visits to detention facilities in Maricopa and surrounding counties. The site says it is RON authorized and offers remote online notary by video call. Service in English and Spanish.",
+      "feeNotes": "Starting prices as listed on 2026-11-26 on the homepage: general notary appointment from $50 (travel within 10 miles of Gilbert 85233 included), additional notarizations $10 each, remote online notary from $30, hospital and care facility visits from $75, jail notary appointment +$100 plus travel, emergency / after hours +$25–$50, same-day / rush +$50. Travel beyond 10 miles: +$25 (11–20 miles), +$45 (21–30 miles), custom quote over 30 miles.",
+      "sources": [
+        {
+          "label": "Aggie Mobile Notary homepage",
+          "url": "https://www.aggiemobilenotary.com/"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "Ace Mobile Notary",
+      "area": "Phoenix, Scottsdale, Paradise Valley, and the West Valley (mobile)",
+      "address": null,
+      "phone": "(480) 235-0380",
+      "website": "https://absolutemobilenotary.com/",
+      "bookingUrl": "https://absolutemobilenotary.com/",
+      "hours": {
+        "monday": "By appointment",
+        "tuesday": "By appointment",
+        "wednesday": "By appointment",
+        "thursday": "By appointment",
+        "friday": "By appointment",
+        "saturday": "By appointment",
+        "sunday": "By appointment",
+        "notes": "The homepage says “Available 7 days a week · Evenings & weekends” and offers same-day service by phone. Specific hours are not published."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "Mobile visits to homes, offices, hospitals, care facilities, and title companies. Jail visits and remote online notarization are not mentioned, so the hospital/jail flag reflects hospital visits only. The homepage says online quote requests get a reply within 4–8 hours; call for same-day.",
+      "feeNotes": "No fees published on the homepage we checked.",
+      "sources": [
+        {
+          "label": "Ace Mobile Notary homepage",
+          "url": "https://absolutemobilenotary.com/"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "Mom & Pop Notary Shop",
+      "area": "Phoenix metro (mobile); walk-in shop on N 7th St",
+      "address": "2233 N 7th Street, Phoenix, AZ 85006",
+      "phone": "(623) 476-0446",
+      "website": "https://momandpopnotaryshop.com/",
+      "bookingUrl": "https://momandpopnotaryshop.com/services/mobile-notary",
+      "hours": {
+        "monday": "9:00 AM–1:00 PM, 2:00 PM–5:00 PM",
+        "tuesday": "9:00 AM–1:00 PM, 2:00 PM–5:00 PM",
+        "wednesday": "9:00 AM–1:00 PM, 2:00 PM–5:00 PM",
+        "thursday": "9:00 AM–1:00 PM, 2:00 PM–5:00 PM",
+        "friday": "9:00 AM–2:00 PM",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "Walk-in shop hours from the site footer: Mon–Thu 9am–1pm and 2pm–5pm, Fri 9am–2pm. The mobile notary page says evening and weekend mobile appointments are available by appointment."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "Evening and weekend service is mobile and by appointment only; the walk-in shop keeps weekday daytime hours. The mobile page says hospital and assisted-living visits are offered and the signer must be alert and able to communicate intent. Jail visits and remote online notarization are not mentioned.",
+      "feeNotes": "Prices as listed on 2026-11-26 on the mobile notary page: $10 per signature/notarial act plus a travel fee starting at $75 (automatic up to 5 miles, then $3 per mile).",
+      "sources": [
+        {
+          "label": "Mom & Pop Notary Shop mobile notary page",
+          "url": "https://momandpopnotaryshop.com/services/mobile-notary"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store (24 W Camelback Rd)",
+      "area": "Uptown · W Camelback Rd (walk-in)",
+      "address": "24 W Camelback Rd, Phoenix, AZ 85013",
+      "phone": "(602) 248-9300",
+      "website": "https://locations.theupsstore.com/az/phoenix/24-w-camelback-rd/notary",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/24-w-camelback-rd/notary",
+      "hours": {
+        "monday": "8:00 AM–5:00 PM",
+        "tuesday": "8:00 AM–5:00 PM",
+        "wednesday": "8:00 AM–5:00 PM",
+        "thursday": "8:00 AM–5:00 PM",
+        "friday": "8:00 AM–5:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "12:00 PM–4:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": false,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/az/phoenix/24-w-camelback-rd/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/az/phoenix/24-w-camelback-rd"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store (530 E McDowell Rd #107)",
+      "area": "Downtown / Roosevelt · E McDowell Rd (walk-in)",
+      "address": "530 E McDowell Rd #107, Phoenix, AZ 85004",
+      "phone": "(602) 258-1995",
+      "website": "https://locations.theupsstore.com/az/phoenix/530-e-mcdowell-rd/notary",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/530-e-mcdowell-rd/notary",
+      "hours": {
+        "monday": "7:30 AM–5:30 PM",
+        "tuesday": "7:30 AM–5:30 PM",
+        "wednesday": "7:30 AM–5:30 PM",
+        "thursday": "7:30 AM–5:30 PM",
+        "friday": "7:30 AM–5:30 PM",
+        "saturday": "9:00 AM–4:00 PM",
+        "sunday": "10:00 AM–2:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": false,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/az/phoenix/530-e-mcdowell-rd/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/az/phoenix/530-e-mcdowell-rd"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store (3186 E Indian School Rd)",
+      "area": "Kachina Village · E Indian School Rd (walk-in)",
+      "address": "3186 E Indian School Rd, Phoenix, AZ 85016",
+      "phone": "(602) 922-9588",
+      "website": "https://locations.theupsstore.com/az/phoenix/3186-e-indian-school-rd/notary",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/3186-e-indian-school-rd/notary",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": false,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/az/phoenix/3186-e-indian-school-rd/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/az/phoenix/3186-e-indian-school-rd"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store (4340 E Indian School Ste 21)",
+      "area": "Arcadia area · E Indian School Rd (walk-in)",
+      "address": "4340 E Indian School Ste 21, Phoenix, AZ 85018",
+      "phone": "(602) 765-4456",
+      "website": "https://locations.theupsstore.com/az/phoenix/4340-e-indian-school/notary",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/4340-e-indian-school/notary",
+      "hours": {
+        "monday": "10:00 AM–6:00 PM",
+        "tuesday": "10:00 AM–6:00 PM",
+        "wednesday": "10:00 AM–6:00 PM",
+        "thursday": "10:00 AM–6:00 PM",
+        "friday": "10:00 AM–6:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": false,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/az/phoenix/4340-e-indian-school/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/az/phoenix/4340-e-indian-school"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store (7000 N 16th St Ste 120)",
+      "area": "North Central · N 16th St (walk-in)",
+      "address": "7000 N 16th St Ste 120, Phoenix, AZ 85020",
+      "phone": "(602) 331-1111",
+      "website": "https://locations.theupsstore.com/az/phoenix/7000-n-16th-st/notary",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/7000-n-16th-st/notary",
+      "hours": {
+        "monday": "7:30 AM–5:00 PM",
+        "tuesday": "7:30 AM–5:00 PM",
+        "wednesday": "7:30 AM–5:00 PM",
+        "thursday": "7:30 AM–5:00 PM",
+        "friday": "7:30 AM–5:00 PM",
+        "saturday": "10:00 AM–3:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": false,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/az/phoenix/7000-n-16th-st/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/az/phoenix/7000-n-16th-st"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store (8050 N 19th Ave)",
+      "area": "North Phoenix · N 19th Ave (walk-in)",
+      "address": "8050 N 19th Ave, Phoenix, AZ 85021",
+      "phone": "(602) 864-3646",
+      "website": "https://locations.theupsstore.com/az/phoenix/8050-n-19th-ave/notary",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/8050-n-19th-ave/notary",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": false,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/az/phoenix/8050-n-19th-ave/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/az/phoenix/8050-n-19th-ave"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store (3241 E Shea Blvd Ste 1)",
+      "area": "Paradise Valley Village · E Shea Blvd (walk-in)",
+      "address": "3241 E Shea Blvd Ste 1, Phoenix, AZ 85028",
+      "phone": "(602) 889-0851",
+      "website": "https://locations.theupsstore.com/az/phoenix/3241-e-shea-blvd/notary",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/3241-e-shea-blvd/notary",
+      "hours": {
+        "monday": "8:00 AM–6:30 PM",
+        "tuesday": "8:00 AM–6:30 PM",
+        "wednesday": "8:00 AM–6:30 PM",
+        "thursday": "8:00 AM–6:30 PM",
+        "friday": "8:00 AM–6:30 PM",
+        "saturday": "8:00 AM–4:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/az/phoenix/3241-e-shea-blvd/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/az/phoenix/3241-e-shea-blvd"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store (625 W Deer Valley Rd Ste 103)",
+      "area": "Deer Valley · W Deer Valley Rd (walk-in)",
+      "address": "625 W Deer Valley Rd Ste 103, Phoenix, AZ 85027",
+      "phone": "(623) 516-8454",
+      "website": "https://locations.theupsstore.com/az/phoenix/625-w-deer-valley-rd/notary",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/625-w-deer-valley-rd/notary",
+      "hours": {
+        "monday": "7:30 AM–5:30 PM",
+        "tuesday": "7:30 AM–5:30 PM",
+        "wednesday": "7:30 AM–5:30 PM",
+        "thursday": "7:30 AM–5:30 PM",
+        "friday": "7:30 AM–5:30 PM",
+        "saturday": "9:00 AM–3:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": false,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/az/phoenix/625-w-deer-valley-rd/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/az/phoenix/625-w-deer-valley-rd"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store (20235 N Cave Creek Rd Ste 104)",
+      "area": "North Phoenix · N Cave Creek Rd (walk-in)",
+      "address": "20235 N Cave Creek Rd Ste 104, Phoenix, AZ 85024",
+      "phone": "(602) 867-8771",
+      "website": "https://locations.theupsstore.com/az/phoenix/20235-n-cave-creek-rd/notary",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/20235-n-cave-creek-rd/notary",
+      "hours": {
+        "monday": "8:00 AM–5:00 PM",
+        "tuesday": "8:00 AM–5:00 PM",
+        "wednesday": "8:00 AM–5:00 PM",
+        "thursday": "8:00 AM–5:00 PM",
+        "friday": "8:00 AM–5:00 PM",
+        "saturday": "10:30 AM–4:30 PM",
+        "sunday": "11:00 AM–2:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": false,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/az/phoenix/20235-n-cave-creek-rd/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/az/phoenix/20235-n-cave-creek-rd"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    },
+    {
+      "name": "The UPS Store (21001 N Tatum Blvd Ste 1630)",
+      "area": "Desert Ridge area · N Tatum Blvd (walk-in)",
+      "address": "21001 N Tatum Blvd Ste 1630, Phoenix, AZ 85050",
+      "phone": "(480) 513-4990",
+      "website": "https://locations.theupsstore.com/az/phoenix/21001-n-tatum-blvd/notary",
+      "bookingUrl": "https://locations.theupsstore.com/az/phoenix/21001-n-tatum-blvd/notary",
+      "hours": {
+        "monday": "10:00 AM–6:00 PM",
+        "tuesday": "10:00 AM–6:00 PM",
+        "wednesday": "10:00 AM–6:00 PM",
+        "thursday": "10:00 AM–6:00 PM",
+        "friday": "10:00 AM–6:00 PM",
+        "saturday": "10:00 AM–4:00 PM",
+        "sunday": "11:00 AM–2:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) as closed."
+      },
+      "flags": {
+        "evenings": false,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/az/phoenix/21001-n-tatum-blvd/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/az/phoenix/21001-n-tatum-blvd"
+        }
+      ],
+      "lastChecked": "2026-11-26"
+    }
+  ]
+}
