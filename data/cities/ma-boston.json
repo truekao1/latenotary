@@ -1,0 +1,675 @@
+{
+  "slug": "ma-boston",
+  "city": "Boston",
+  "citySlug": "boston",
+  "state": "MA",
+  "stateName": "Massachusetts",
+  "focus": "City of Boston — North End, Beacon Hill, Downtown, Back Bay, South End, Fenway, Allston, East Boston and Hyde Park — plus UPS Stores just over the line in Brookline and Somerville and mobile notaries who travel across Greater Boston",
+  "lastUpdated": "2026-11-27",
+  "intro": "After work in Boston, the realistic notary options are UPS Stores that post notary hours until 7:00 PM and mobile notaries who come to you. This first Boston page lists 5 mobile notaries whose own websites publish 24/7, evening, or weekend service across Boston and Greater Boston — all five list hospital or care-facility visits, and two also list jail visits — plus 12 UPS Store locations in Boston neighborhoods and just over the line in Brookline and Somerville whose official notary pages post Saturday and Sunday notary hours. 11 of those stores post weekday notary hours past 6:00 PM. It is not a complete inventory: the two Cambridge UPS Stores did not have a notary page, and Dorchester, Roxbury, Jamaica Plain, Charlestown and South Boston storefronts are covered only through the mobile services that list them. Every hour, fee, and service flag comes from the business’s own page and is dated when we last checked it. If we could not verify a detail, we left it out. Call or text to confirm before you go or book.",
+  "listings": [
+    {
+      "name": "Boston Mobile Notary & Apostille Service (BMNAS)",
+      "area": "Boston and Greater Boston within about 10 miles of Back Bay (mobile)",
+      "address": null,
+      "phone": "(617) 203-8755",
+      "website": "https://www.boston-mobile-notary.com/",
+      "bookingUrl": "https://www.boston-mobile-notary.com/contact-us.html",
+      "hours": {
+        "monday": "Mobile 24/7 by appointment",
+        "tuesday": "Mobile 24/7 by appointment",
+        "wednesday": "Mobile 24/7 by appointment",
+        "thursday": "Mobile 24/7 by appointment",
+        "friday": "Mobile 24/7 by appointment",
+        "saturday": "Mobile 24/7 by appointment",
+        "sunday": "Mobile 24/7 by appointment",
+        "notes": "The 24-hour page says notaries come to you “day or night, by appointment,” including evenings, weekends and holidays; the contact page says call or text 24 hours a day, 7 days a week. After-hours, weekend and holiday appointments are quoted individually."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The hospital page lists bedside visits at hospitals, rehab centers, nursing homes, assisted living and hospice, including Mass General, Brigham and Women’s, Beth Israel Deaconess, Boston Medical Center and Tufts Medical Center. Jail visits and remote online notarization are not mentioned, so the hospital/jail flag reflects hospital visits only. The contact page lists an office address at 501 Boylston St for mailed documents; service is mobile.",
+      "feeNotes": "No standard fee published on the pages we checked; the 24-hour page says after-hours appointments are quoted individually.",
+      "sources": [
+        {
+          "label": "BMNAS 24-hour mobile notary page",
+          "url": "https://www.boston-mobile-notary.com/24-hour-notary-boston.html"
+        },
+        {
+          "label": "BMNAS hospital and bedside page",
+          "url": "https://www.boston-mobile-notary.com/patient-notary-service.html"
+        },
+        {
+          "label": "BMNAS contact page",
+          "url": "https://www.boston-mobile-notary.com/contact-us.html"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "Boston Mobile Notary and Apostille (BMNA)",
+      "area": "Boston, Brookline, Cambridge and nearby suburbs (mobile, by appointment)",
+      "address": null,
+      "phone": "(617) 221-5450",
+      "website": "https://bmnaboston.com/",
+      "bookingUrl": "https://bmnaboston.com/service/same-day-notary-services/",
+      "hours": {
+        "monday": "8:00 AM–8:00 PM",
+        "tuesday": "8:00 AM–8:00 PM",
+        "wednesday": "8:00 AM–8:00 PM",
+        "thursday": "8:00 AM–8:00 PM",
+        "friday": "8:00 AM–8:00 PM",
+        "saturday": "8:00 AM–6:00 PM",
+        "sunday": "8:00 AM–6:00 PM",
+        "notes": "Standard business hours from the same-day service page, by appointment only. The page says after-hours service is offered “in limited capacity,” with a $20 surcharge added to the travel fee; the homepage says availability after 8 PM is limited."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The homepage says it services hospitals and nursing homes. Jail visits and remote online notarization are not mentioned, so the hospital/jail flag reflects hospital visits only. A separate business from BMNAS above (different website and phone). No street address is published beyond “Boston, MA 02116.”",
+      "feeNotes": "Fees as listed on 2026-11-27 on the same-day page: $55 travel fee within Boston, Brookline and Cambridge zip codes; from $65 for nearby suburbs such as Quincy, Newton, Chelsea, Revere and Watertown; $75 and up farther out; plus $15 per notarized document. Urgent service outside business hours adds a $20 surcharge to the travel fee.",
+      "sources": [
+        {
+          "label": "BMNA same-day notary page (hours and fees)",
+          "url": "https://bmnaboston.com/service/same-day-notary-services/"
+        },
+        {
+          "label": "BMNA homepage",
+          "url": "https://bmnaboston.com/"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "Colón Constable Services — mobile notary",
+      "area": "Boston neighborhoods and Greater Boston (mobile)",
+      "address": null,
+      "phone": "(617) 586-5482",
+      "website": "https://colonconstableservices.com/",
+      "bookingUrl": "https://colonconstableservices.com/blog/mobile-notary-public-boston-trusted-on-demand-notary-solutions-by-colon-constable-services",
+      "hours": {
+        "monday": "By appointment",
+        "tuesday": "By appointment",
+        "wednesday": "By appointment",
+        "thursday": "By appointment",
+        "friday": "By appointment",
+        "saturday": "By appointment",
+        "sunday": "By appointment",
+        "notes": "No day-by-day hours are published. The company’s Boston mobile notary page says it is “available weekends, holidays, and evenings,” with same-day and urgent appointments and a stated 1–2 hour response."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The page lists visits to homes, offices, hospitals and long-term care facilities, hotels, Logan Airport, and jails, including Suffolk County House of Correction and Nashua Street Jail. The business is also a constable and process-serving firm. Remote online notarization is not offered on that page. No street address is published there.",
+      "feeNotes": "The page says “flat fees — no hidden charges” but publishes no dollar amounts; a quote is given at booking.",
+      "sources": [
+        {
+          "label": "Colón Constable Services Boston mobile notary page",
+          "url": "https://colonconstableservices.com/blog/mobile-notary-public-boston-trusted-on-demand-notary-solutions-by-colon-constable-services"
+        },
+        {
+          "label": "Colón Constable Services homepage",
+          "url": "https://colonconstableservices.com/"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "Middlesex Notary Co",
+      "area": "Middlesex County and Greater Boston, including Boston hospitals (mobile)",
+      "address": null,
+      "phone": "(781) 226-8331",
+      "website": "https://middlesexnotary.com/",
+      "bookingUrl": "https://middlesexnotary.com/hospital-notary-services",
+      "hours": {
+        "monday": "Mobile 24/7 (bedside visits)",
+        "tuesday": "Mobile 24/7 (bedside visits)",
+        "wednesday": "Mobile 24/7 (bedside visits)",
+        "thursday": "Mobile 24/7 (bedside visits)",
+        "friday": "Mobile 24/7 (bedside visits)",
+        "saturday": "Mobile 24/7 (bedside visits)",
+        "sunday": "Mobile 24/7 (bedside visits)",
+        "notes": "The hospital page says a notary comes to the bedside “day or night, 7 days a week,” and that bedside visits are available 24/7 including holidays, subject to the hospital’s visitor rules. The homepage describes general mobile visits as by appointment, with evening, weekend, and after-hours appointments available. Offices in Woburn and Stoneham are by appointment."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The hospital page covers hospitals, rehab centers and nursing homes in Boston and Cambridge, including Tufts Medical Center, Mass General and Boston Medical Center; the homepage also lists jail and detention center notary service. Remote online notarization is not mentioned. Its walk-in offices are outside Boston (Woburn and Stoneham), so the address is left blank here.",
+      "feeNotes": "Fees as listed on 2026-11-27 on the homepage: office appointments in Woburn or Stoneham are $30 per signature. Mobile and hospital visits are quoted based on location, time of day, and number of signatures.",
+      "sources": [
+        {
+          "label": "Middlesex Notary Co hospital and bedside page",
+          "url": "https://middlesexnotary.com/hospital-notary-services"
+        },
+        {
+          "label": "Middlesex Notary Co homepage",
+          "url": "https://middlesexnotary.com/"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "Boston Mobile Notary (mobilenotary-boston.com)",
+      "area": "Boston neighborhoods and nearby communities within about 10 miles (mobile)",
+      "address": null,
+      "phone": "(857) 565-6724",
+      "website": "https://mobilenotary-boston.com/",
+      "bookingUrl": "https://mobilenotary-boston.com/",
+      "hours": {
+        "monday": "By appointment",
+        "tuesday": "By appointment",
+        "wednesday": "By appointment",
+        "thursday": "By appointment",
+        "friday": "By appointment",
+        "saturday": "By appointment",
+        "sunday": "By appointment",
+        "notes": "No day-by-day hours are published. The homepage says early-morning appointments before 8:00 AM and evening appointments after 6:00 PM “may be available by request,” subject to availability and an extra charge. Weekend hours are not mentioned."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": false,
+        "sunday": false,
+        "mobile": true,
+        "hospitalJail": true,
+        "ron": false
+      },
+      "visitNotes": "The homepage lists home, office, hospital and care-facility visits. Jail visits and remote online notarization are not mentioned, so the hospital/jail flag reflects hospital visits only. No street address is published.",
+      "feeNotes": "Fees as listed on 2026-11-27 on the homepage: $1.25 per notarized signature; travel within 10 miles $50–$75; before 8:00 AM or after 6:00 PM add $25–$50; same-day or emergency add $25–$50; loan signings generally $75–$150. The page says the full quote is confirmed before the appointment.",
+      "sources": [
+        {
+          "label": "Boston Mobile Notary homepage (services, hours, pricing)",
+          "url": "https://mobilenotary-boston.com/"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store (1089 Commonwealth Ave)",
+      "area": "Allston · Commonwealth Ave (walk-in)",
+      "address": "1089 Commonwealth Ave, Boston, MA 02215",
+      "phone": "(617) 254-7173",
+      "website": "https://locations.theupsstore.com/ma/boston/1089-commonwealth-ave/notary",
+      "bookingUrl": "https://locations.theupsstore.com/ma/boston/1089-commonwealth-ave/notary",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "10:00 AM–6:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) and Christmas Day as closed and shortened hours on December 24."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/ma/boston/1089-commonwealth-ave/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/ma/boston/1089-commonwealth-ave"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store (1363 Boylston St)",
+      "area": "Fenway · Boylston St (walk-in)",
+      "address": "1363 Boylston St, Boston, MA 02215",
+      "phone": "(617) 738-4461",
+      "website": "https://locations.theupsstore.com/ma/boston/1363-boylston-st/notary",
+      "bookingUrl": "https://locations.theupsstore.com/ma/boston/1363-boylston-st/notary",
+      "hours": {
+        "monday": "8:30 AM–7:00 PM",
+        "tuesday": "8:30 AM–7:00 PM",
+        "wednesday": "8:30 AM–7:00 PM",
+        "thursday": "8:30 AM–7:00 PM",
+        "friday": "8:30 AM–7:00 PM",
+        "saturday": "10:00 AM–5:00 PM",
+        "sunday": "10:00 AM–4:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) and Christmas Day as closed and shortened hours on December 24."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/ma/boston/1363-boylston-st/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/ma/boston/1363-boylston-st"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store (139 Charles St)",
+      "area": "Beacon Hill · Charles St (walk-in)",
+      "address": "139 Charles St, Boston, MA 02114",
+      "phone": "(617) 573-0005",
+      "website": "https://locations.theupsstore.com/ma/boston/139-charles-st/notary",
+      "bookingUrl": "https://locations.theupsstore.com/ma/boston/139-charles-st/notary",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "10:00 AM–6:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) and Christmas Day as closed and shortened hours on December 24."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/ma/boston/139-charles-st/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/ma/boston/139-charles-st"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store (198 Tremont St)",
+      "area": "Downtown / Theater District · Tremont St (walk-in)",
+      "address": "198 Tremont St, Boston, MA 02116",
+      "phone": "(617) 426-3039",
+      "website": "https://locations.theupsstore.com/ma/boston/198-tremont-st/notary",
+      "bookingUrl": "https://locations.theupsstore.com/ma/boston/198-tremont-st/notary",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "10:00 AM–6:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) and Christmas Day as closed and shortened hours on December 24."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/ma/boston/198-tremont-st/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/ma/boston/198-tremont-st"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store (263 Huntington Ave)",
+      "area": "Fenway / Symphony · Huntington Ave (walk-in)",
+      "address": "263 Huntington Ave, Boston, MA 02115",
+      "phone": "(617) 437-8818",
+      "website": "https://locations.theupsstore.com/ma/boston/263-huntington-ave/notary",
+      "bookingUrl": "https://locations.theupsstore.com/ma/boston/263-huntington-ave/notary",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "10:00 AM–6:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) and Christmas Day as closed and shortened hours on December 24."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/ma/boston/263-huntington-ave/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/ma/boston/263-huntington-ave"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store (292 Newbury St)",
+      "area": "Back Bay · Newbury St (walk-in)",
+      "address": "292 Newbury St, Boston, MA 02115",
+      "phone": "(617) 437-9303",
+      "website": "https://locations.theupsstore.com/ma/boston/292-newbury-st/notary",
+      "bookingUrl": "https://locations.theupsstore.com/ma/boston/292-newbury-st/notary",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "10:00 AM–6:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) and Christmas Day as closed and shortened hours on December 24."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/ma/boston/292-newbury-st/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/ma/boston/292-newbury-st"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store (398 Columbus Ave)",
+      "area": "South End · Columbus Ave (walk-in)",
+      "address": "398 Columbus Ave, Boston, MA 02116",
+      "phone": "(617) 859-7780",
+      "website": "https://locations.theupsstore.com/ma/boston/398-columbus-ave/notary",
+      "bookingUrl": "https://locations.theupsstore.com/ma/boston/398-columbus-ave/notary",
+      "hours": {
+        "monday": "9:00 AM–7:00 PM",
+        "tuesday": "9:00 AM–7:00 PM",
+        "wednesday": "9:00 AM–7:00 PM",
+        "thursday": "9:00 AM–7:00 PM",
+        "friday": "9:00 AM–7:00 PM",
+        "saturday": "10:00 AM–6:00 PM",
+        "sunday": "11:00 AM–4:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) and Christmas Day as closed and shortened hours on December 24."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/ma/boston/398-columbus-ave/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/ma/boston/398-columbus-ave"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store (71 Commercial St)",
+      "area": "North End / Waterfront · Commercial St (walk-in)",
+      "address": "71 Commercial St, Boston, MA 02109",
+      "phone": "(617) 670-1121",
+      "website": "https://locations.theupsstore.com/ma/boston/71-commercial-st/notary",
+      "bookingUrl": "https://locations.theupsstore.com/ma/boston/71-commercial-st/notary",
+      "hours": {
+        "monday": "8:00 AM–7:00 PM",
+        "tuesday": "8:00 AM–7:00 PM",
+        "wednesday": "8:00 AM–7:00 PM",
+        "thursday": "8:00 AM–7:00 PM",
+        "friday": "8:00 AM–7:00 PM",
+        "saturday": "10:00 AM–3:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) and Christmas Day as closed and shortened hours on December 24. The posted notary hours differ from the store’s general hours on some days (store hours: Monday 8:00 AM–6:30 PM; Tuesday 8:00 AM–6:30 PM; Wednesday 8:00 AM–6:30 PM; Thursday 8:00 AM–6:30 PM; Friday 8:00 AM–6:30 PM; Saturday 10:00 AM–4:00 PM); call to confirm the notary is on duty."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/ma/boston/71-commercial-st/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/ma/boston/71-commercial-st"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store (258 Harvard St)",
+      "area": "Brookline (just outside Boston) · Harvard St (walk-in)",
+      "address": "258 Harvard St, Brookline, MA 02446",
+      "phone": "(617) 730-8300",
+      "website": "https://locations.theupsstore.com/ma/brookline/258-harvard-st/notary",
+      "bookingUrl": "https://locations.theupsstore.com/ma/brookline/258-harvard-st/notary",
+      "hours": {
+        "monday": "8:30 AM–7:00 PM",
+        "tuesday": "8:30 AM–7:00 PM",
+        "wednesday": "8:30 AM–7:00 PM",
+        "thursday": "8:30 AM–7:00 PM",
+        "friday": "8:30 AM–7:00 PM",
+        "saturday": "10:00 AM–5:00 PM",
+        "sunday": "10:00 AM–4:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) and Christmas Day as closed and shortened hours on December 24."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/ma/brookline/258-harvard-st/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/ma/brookline/258-harvard-st"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store (519 Somerville Ave)",
+      "area": "Somerville (just outside Boston) · Somerville Ave (walk-in)",
+      "address": "519 Somerville Ave, Somerville, MA 02143",
+      "phone": "(617) 591-0199",
+      "website": "https://locations.theupsstore.com/ma/somerville/519-somerville-ave/notary",
+      "bookingUrl": "https://locations.theupsstore.com/ma/somerville/519-somerville-ave/notary",
+      "hours": {
+        "monday": "8:30 AM–7:00 PM",
+        "tuesday": "8:30 AM–7:00 PM",
+        "wednesday": "8:30 AM–7:00 PM",
+        "thursday": "8:30 AM–7:00 PM",
+        "friday": "8:30 AM–7:00 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) and Christmas Day as closed and shortened hours on December 24."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/ma/somerville/519-somerville-ave/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/ma/somerville/519-somerville-ave"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store (2 Neptune Rd)",
+      "area": "East Boston · Neptune Rd (walk-in)",
+      "address": "2 Neptune Rd, East Boston, MA 02128",
+      "phone": "(617) 568-9215",
+      "website": "https://locations.theupsstore.com/ma/east-boston/2-neptune-rd/notary",
+      "bookingUrl": "https://locations.theupsstore.com/ma/east-boston/2-neptune-rd/notary",
+      "hours": {
+        "monday": "8:00 AM–6:30 PM",
+        "tuesday": "8:00 AM–6:30 PM",
+        "wednesday": "8:00 AM–6:30 PM",
+        "thursday": "8:00 AM–6:30 PM",
+        "friday": "8:00 AM–6:30 PM",
+        "saturday": "9:00 AM–5:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) and Christmas Day as closed and shortened hours on December 24."
+      },
+      "flags": {
+        "evenings": true,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/ma/east-boston/2-neptune-rd/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/ma/east-boston/2-neptune-rd"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    },
+    {
+      "name": "The UPS Store (695 Truman Parkway)",
+      "area": "Hyde Park · Truman Pkwy (walk-in)",
+      "address": "695 Truman Parkway, Hyde Park, MA 02136",
+      "phone": "(617) 272-3418",
+      "website": "https://locations.theupsstore.com/ma/hyde-park/695-truman-parkway/notary",
+      "bookingUrl": "https://locations.theupsstore.com/ma/hyde-park/695-truman-parkway/notary",
+      "hours": {
+        "monday": "8:00 AM–6:00 PM",
+        "tuesday": "8:00 AM–6:00 PM",
+        "wednesday": "8:00 AM–6:00 PM",
+        "thursday": "8:00 AM–6:00 PM",
+        "friday": "8:00 AM–6:00 PM",
+        "saturday": "8:00 AM–4:00 PM",
+        "sunday": "10:00 AM–3:00 PM",
+        "notes": "Notary hours from the official UPS Store location notary page. Holiday hours can differ; the store page lists Thanksgiving Day (November 26) and Christmas Day as closed and December 24 hours of 8:00 AM–6:00 PM."
+      },
+      "flags": {
+        "evenings": false,
+        "saturday": true,
+        "sunday": true,
+        "mobile": false,
+        "hospitalJail": false,
+        "ron": false
+      },
+      "visitNotes": "In-store notary at this franchise location. Bring a valid government-issued photo ID and complete, unsigned documents. The notary may not be on duty at every moment of the posted hours, so call ahead.",
+      "feeNotes": "No notary fee published on the location page we checked.",
+      "sources": [
+        {
+          "label": "UPS Store location notary page",
+          "url": "https://locations.theupsstore.com/ma/hyde-park/695-truman-parkway/notary"
+        },
+        {
+          "label": "UPS Store location page (address and holiday hours)",
+          "url": "https://locations.theupsstore.com/ma/hyde-park/695-truman-parkway"
+        }
+      ],
+      "lastChecked": "2026-11-27"
+    }
+  ]
+}
